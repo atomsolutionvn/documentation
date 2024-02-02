@@ -1,0 +1,88 @@
+site_name: My Docs
+site_author: Jean Nguyen
+repo_name: Github
+repo_url: https://github.com/unicubevn/bean17
+edit_uri: 'documents/docs/'
+theme:
+  name: material
+  logo: assets/Atom_logo.png
+  font: false
+  icon:
+    logo: material/library
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+  features:
+    - navigation.sections
+    - navigation.footer
+    - search
+    - header.autohide
+
+  palette:
+    - scheme: atom
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      scheme: atom
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: atom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+plugins:
+  - blog
+  - social
+  - search
+  - git-revision-date
+  - pdf-export:
+      combined: true
+# Customization
+extra:
+  version:
+    provider: mike
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Vietnamese
+      link: /vi/
+      lang: vi
+  socials:
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
+extra_css:
+  - https://fonts.cdnfonts.com/css/montserrat
+  - https://fonts.cdnfonts.com/css/noto-mono
+  - assets/stylesheets/extra.css
+# Navigation with TOC (Table of Content)
+nav:
+  - Home: index.md
+  - Guides:
+      - guides/index.md
+  - about.md
+
+# Enabling permalinks on TOC
+markdown_extensions:
+  - smarty
+  - toc:
+      permalink: true
+      separator: "_"
+  - sane_lists
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
