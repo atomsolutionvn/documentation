@@ -1,0 +1,28 @@
+{
+  "id": "rest-apis/v2-migration-guide",
+  "title": "Migrate to v2 REST API",
+  "description": "Dyte v2 REST API is now the primary API for Dyte and the focus of development",
+  "source": "@site/docs/guides/rest-apis/v2-migration-guide.mdx",
+  "sourceDirName": "rest-apis",
+  "slug": "/v2-migration-guide",
+  "permalink": "/guides/v2-migration-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/rest-apis/v2-migration-guide.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Migrate to v2 REST API",
+    "slug": "/v2-migration-guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Live Stream APIs",
+    "permalink": "/guides/rest-apis/livestream-dyte-meeting"
+  },
+  "next": {
+    "title": "💡 Concepts",
+    "permalink": "/guides/migration/twilio/concepts-twilio-vs-dyte"
+  }
+}

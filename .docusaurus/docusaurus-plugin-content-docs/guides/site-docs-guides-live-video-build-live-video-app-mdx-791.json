@@ -1,0 +1,30 @@
+{
+  "id": "live-video/build-live-video-app",
+  "title": "Server Integration",
+  "description": "Learn how to build a live video app with Dyte's capabilities. Follow our guide for effective app development and integration.",
+  "source": "@site/docs/guides/live-video/build-live-video-app.mdx",
+  "sourceDirName": "live-video",
+  "slug": "/live-video/build-live-video-app",
+  "permalink": "/guides/live-video/build-live-video-app",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/build-live-video-app.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Server Integration",
+    "sidebar_position": 4,
+    "description": "Learn how to build a live video app with Dyte's capabilities. Follow our guide for effective app development and integration."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concepts",
+    "permalink": "/guides/live-video/concepts"
+  },
+  "next": {
+    "title": "Client Setup",
+    "permalink": "/guides/live-video/client-setup/"
+  }
+}

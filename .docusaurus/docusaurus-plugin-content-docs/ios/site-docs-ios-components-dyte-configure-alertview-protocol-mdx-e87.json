@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-configure-alertview-protocol",
+  "title": "ConfigureWebinerAlertView",
+  "description": "Learn how to use and customize the ConfigureWebinerAlertView component in Dyte's iOS UiKit with our detailed documentation.",
+  "source": "@site/docs/ios/components/dyte-configure-alertview-protocol.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-configure-alertview-protocol",
+  "permalink": "/ios/components/dyte-configure-alertview-protocol",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/components/dyte-configure-alertview-protocol.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the ConfigureWebinerAlertView component in Dyte's iOS UiKit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteClockView",
+    "permalink": "/ios/components/dyte-clock"
+  },
+  "next": {
+    "title": "DyteControlBarButton",
+    "permalink": "/ios/components/dyte-controlbar-button"
+  }
+}

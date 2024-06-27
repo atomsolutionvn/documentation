@@ -1,0 +1,29 @@
+{
+  "id": "customize-meeting-ui",
+  "title": "Customize your Meeting UI",
+  "description": "Customize the meeting UI of your Android application using Dyte Docs as your guide.",
+  "source": "@site/docs/android/customize-meeting-ui.mdx",
+  "sourceDirName": ".",
+  "slug": "/customize-meeting-ui",
+  "permalink": "/android/customize-meeting-ui",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/customize-meeting-ui.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "description": "Customize the meeting UI of your Android application using Dyte Docs as your guide."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/android/"
+  },
+  "next": {
+    "title": "Advanced usage",
+    "permalink": "/android/advanced-usage"
+  }
+}

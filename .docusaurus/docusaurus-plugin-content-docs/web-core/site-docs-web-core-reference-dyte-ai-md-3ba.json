@@ -1,0 +1,29 @@
+{
+  "id": "reference/DyteAi",
+  "title": "DyteAi",
+  "description": "(Beta - API not stable)",
+  "source": "@site/docs/web-core/reference/DyteAi.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/DyteAi",
+  "permalink": "/web-core/reference/DyteAi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/web-core/reference/DyteAi.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12,
+    "web_core_version": "1.20.0"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteLivestream",
+    "permalink": "/web-core/reference/DyteLivestream"
+  },
+  "next": {
+    "title": "DytePluginMap",
+    "permalink": "/web-core/reference/DytePluginMap"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-clock",
+  "title": "DyteClockView",
+  "description": "Learn how to use and customize the DyteClockView component in Dyte's Android with our detailed documentation.",
+  "source": "@site/docs/android/components/dyte-clock.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-clock",
+  "permalink": "/android/components/dyte-clock",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/components/dyte-clock.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-clock.svg",
+    "description": "Learn how to use and customize the DyteClockView component in Dyte's Android with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteChat",
+    "permalink": "/android/components/dyte-chat"
+  },
+  "next": {
+    "title": "DyteControlBarButton",
+    "permalink": "/android/components/dyte-controlbar-button"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "live-video/concepts",
+  "title": "Concepts",
+  "description": "Basic Concepts",
+  "source": "@site/docs/guides/live-video/concepts.mdx",
+  "sourceDirName": "live-video",
+  "slug": "/live-video/concepts",
+  "permalink": "/guides/live-video/concepts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/concepts.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Concepts",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get your keys",
+    "permalink": "/guides/live-video/get-started"
+  },
+  "next": {
+    "title": "Server Integration",
+    "permalink": "/guides/live-video/build-live-video-app"
+  }
+}

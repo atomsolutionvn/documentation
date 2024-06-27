@@ -1,0 +1,28 @@
+{
+  "id": "pre-call/virtual-bg",
+  "title": "",
+  "description": "Virtual Background",
+  "source": "@site/docs/web-core/pre-call/3-virtual-bg.mdx",
+  "sourceDirName": "pre-call",
+  "slug": "/pre-call/virtual-bg",
+  "permalink": "/web-core/pre-call/virtual-bg",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/web-core/pre-call/3-virtual-bg.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Virtual BG and Noise Cancellation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Handling Browser Permissions",
+    "permalink": "/web-core/pre-call/handling-permissions"
+  },
+  "next": {
+    "title": "Meeting Metadata",
+    "permalink": "/web-core/pre-call/meeting-meta"
+  }
+}

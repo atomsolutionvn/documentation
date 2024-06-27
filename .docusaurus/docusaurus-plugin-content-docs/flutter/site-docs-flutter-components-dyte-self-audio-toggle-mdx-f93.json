@@ -1,0 +1,25 @@
+{
+  "id": "Components/dyte-self-audio-toggle",
+  "title": "DyteSelfAudioToggleButton",
+  "description": "A toggle button widget designed for controlling the audio state in the Dyte video conference environment. This widget integrates with the Dyte UI Kit and allows users to enable or disable their microphone audio during a meeting.",
+  "source": "@site/docs/flutter/Components/dyte-self-audio-toggle.mdx",
+  "sourceDirName": "Components",
+  "slug": "/Components/dyte-self-audio-toggle",
+  "permalink": "/flutter/Components/dyte-self-audio-toggle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter/Components/dyte-self-audio-toggle.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteProvider",
+    "permalink": "/flutter/Components/dyte-provider"
+  },
+  "next": {
+    "title": "DyteSelfVideoToggleButton",
+    "permalink": "/flutter/Components/dyte-self-video-toggle"
+  }
+}

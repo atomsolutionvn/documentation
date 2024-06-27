@@ -1,0 +1,30 @@
+{
+  "id": "capabilities/recording/custom-cloud-storage",
+  "title": "Upload Recording to Your Cloud",
+  "description": "Explore how to set up custom cloud storage for Dyte's recording. Follow our guide for effective configuration and integration.",
+  "source": "@site/docs/guides/capabilities/recording/custom-cloud-storage.mdx",
+  "sourceDirName": "capabilities/recording",
+  "slug": "/capabilities/recording/custom-cloud-storage",
+  "permalink": "/guides/capabilities/recording/custom-cloud-storage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/recording/custom-cloud-storage.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Upload Recording to Your Cloud",
+    "sidebar_position": 4,
+    "description": "Explore how to set up custom cloud storage for Dyte's recording. Follow our guide for effective configuration and integration."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stop Recording a Meeting",
+    "permalink": "/guides/capabilities/recording/stop-recording"
+  },
+  "next": {
+    "title": "Monitor Recording Status",
+    "permalink": "/guides/capabilities/recording/monitor-status"
+  }
+}

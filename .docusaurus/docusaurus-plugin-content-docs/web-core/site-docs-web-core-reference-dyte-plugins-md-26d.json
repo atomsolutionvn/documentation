@@ -1,0 +1,29 @@
+{
+  "id": "reference/DytePlugins",
+  "title": "DytePlugins",
+  "description": "The DytePlugins module consists of all the plugins in the meeting. It has 2 maps:",
+  "source": "@site/docs/web-core/reference/DytePlugins.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/DytePlugins",
+  "permalink": "/web-core/reference/DytePlugins",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/web-core/reference/DytePlugins.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "web_core_version": "1.20.0"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DytePolls",
+    "permalink": "/web-core/reference/DytePolls"
+  },
+  "next": {
+    "title": "DyteStage",
+    "permalink": "/web-core/reference/DyteStage"
+  }
+}

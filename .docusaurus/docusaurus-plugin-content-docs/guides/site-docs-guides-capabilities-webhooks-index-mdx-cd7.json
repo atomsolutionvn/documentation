@@ -1,0 +1,25 @@
+{
+  "id": "capabilities/webhooks/index",
+  "title": "Webhooks and Events",
+  "description": "Learn how Dyte uses webhooks to push real-time updates to your applications.",
+  "source": "@site/docs/guides/capabilities/webhooks/index.mdx",
+  "sourceDirName": "capabilities/webhooks",
+  "slug": "/capabilities/webhooks/",
+  "permalink": "/guides/capabilities/webhooks/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/webhooks/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Dyte's Webinar",
+    "permalink": "/guides/capabilities/webinar/intro-webinar"
+  },
+  "next": {
+    "title": "Webhooks Overview",
+    "permalink": "/guides/capabilities/webhooks/webhooks-overview"
+  }
+}

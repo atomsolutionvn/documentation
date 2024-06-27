@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-plugin-main",
+  "title": "dyte-plugin-main",
+  "description": "Learn how to use and customize the dyte-plugin-main component in Dyte's UI Kit with our detailed documentation.",
+  "source": "@site/docs/ui-kit/components/dyte-plugin-main.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-plugin-main",
+  "permalink": "/ui-kit/components/dyte-plugin-main",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ui-kit/components/dyte-plugin-main.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-plugin-main.svg",
+    "description": "Learn how to use and customize the dyte-plugin-main component in Dyte's UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dyte-permissions-message",
+    "permalink": "/ui-kit/components/dyte-permissions-message"
+  },
+  "next": {
+    "title": "dyte-plugins-toggle",
+    "permalink": "/ui-kit/components/dyte-plugins-toggle"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "waiting-room",
+  "title": "Waiting room",
+  "description": "Events",
+  "source": "@site/docs/flutter-core/waiting-room.mdx",
+  "sourceDirName": ".",
+  "slug": "/waiting-room",
+  "permalink": "/flutter-core/waiting-room",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/waiting-room.mdx",
+  "tags": [
+    {
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "label": "stage",
+      "permalink": "/flutter-core/tags/stage"
+    },
+    {
+      "label": "livestream",
+      "permalink": "/flutter-core/tags/livestream"
+    },
+    {
+      "label": "webinar",
+      "permalink": "/flutter-core/tags/webinar"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Waiting room",
+    "sidebar_position": 11,
+    "tags": [
+      "flutter-core",
+      "stage",
+      "livestream",
+      "webinar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Stage management",
+    "permalink": "/flutter-core/stage-management"
+  },
+  "next": {
+    "title": "Host Actions & Permissions",
+    "permalink": "/flutter-core/host-actions"
+  }
+}

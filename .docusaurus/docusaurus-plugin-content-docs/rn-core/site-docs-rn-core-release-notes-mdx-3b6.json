@@ -1,0 +1,39 @@
+{
+  "id": "release-notes",
+  "title": "Release Notes",
+  "description": "React Native Core Release Notes",
+  "source": "@site/docs/rn-core/release-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/rn-core/release-notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/release-notes.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/rn-core/tags/mobile-core"
+    },
+    {
+      "label": "releasenotes",
+      "permalink": "/rn-core/tags/releasenotes"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 101,
+  "frontMatter": {
+    "title": "Release Notes",
+    "sidebar_position": 101,
+    "sidebar_class_name": "releaseSidebarHeading",
+    "tags": [
+      "mobile-core",
+      "releasenotes"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteRecording",
+    "permalink": "/rn-core/reference/DyteRecording"
+  }
+}

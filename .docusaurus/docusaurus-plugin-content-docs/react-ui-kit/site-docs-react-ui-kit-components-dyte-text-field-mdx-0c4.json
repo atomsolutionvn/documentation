@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-text-field",
+  "title": "DyteTextField",
+  "description": "Learn how to use and customize the DyteTextField component in Dyte's React UI Kit with our detailed documentation.",
+  "source": "@site/docs/react-ui-kit/components/dyte-text-field.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-text-field",
+  "permalink": "/react-ui-kit/components/dyte-text-field",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/components/dyte-text-field.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteTextField component in Dyte's React UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteSwitch",
+    "permalink": "/react-ui-kit/components/dyte-switch"
+  },
+  "next": {
+    "title": "DyteTextMessage",
+    "permalink": "/react-ui-kit/components/dyte-text-message"
+  }
+}

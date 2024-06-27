@@ -1,0 +1,48 @@
+{
+  "id": "polls/receiving-polls",
+  "title": "Receiving polls",
+  "description": "Understand how users can vote on polls in Flutter with Dyte's features. Follow our documentation for effective implementation in your app.",
+  "source": "@site/docs/flutter-core/polls/receiving-polls.mdx",
+  "sourceDirName": "polls",
+  "slug": "/polls/receiving-polls",
+  "permalink": "/flutter-core/polls/receiving-polls",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/polls/receiving-polls.mdx",
+  "tags": [
+    {
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "label": "polls",
+      "permalink": "/flutter-core/tags/polls"
+    },
+    {
+      "label": "votes",
+      "permalink": "/flutter-core/tags/votes"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Receiving polls",
+    "description": "Understand how users can vote on polls in Flutter with Dyte's features. Follow our documentation for effective implementation in your app.",
+    "sidebar_position": 3,
+    "tags": [
+      "flutter-core",
+      "polls",
+      "votes"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create & Vote a poll",
+    "permalink": "/flutter-core/polls/creating-a-poll"
+  },
+  "next": {
+    "title": "Voting on a poll",
+    "permalink": "/flutter-core/polls/voting-on-a-poll"
+  }
+}

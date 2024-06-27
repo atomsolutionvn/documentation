@@ -1,0 +1,30 @@
+{
+  "id": "rest-apis/quickstart",
+  "title": "Quickstart",
+  "description": "Get started with Dyte's REST APIs. Follow our guide for a quickstart on using REST APIs for seamless integration and development.",
+  "source": "@site/docs/guides/rest-apis/quickstart.mdx",
+  "sourceDirName": "rest-apis",
+  "slug": "/rest-apis/quickstart",
+  "permalink": "/guides/rest-apis/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/rest-apis/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Quickstart",
+    "sidebar_position": 1,
+    "description": "Get started with Dyte's REST APIs. Follow our guide for a quickstart on using REST APIs for seamless integration and development."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Restream to Social Platforms",
+    "permalink": "/guides/capabilities/misc/livestreaming-other-platforms"
+  },
+  "next": {
+    "title": "Live Stream APIs",
+    "permalink": "/guides/rest-apis/livestream-dyte-meeting"
+  }
+}

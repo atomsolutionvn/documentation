@@ -1,0 +1,29 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "This quickstart shows how to incorporate live video and audio into your React application using Dyte's Core SDKs. Core SDKs offer comprehensive customization and branding capabilities, enabling you to create your own user interface (UI) from scratch, without having to deal with complex media layers.",
+  "source": "@site/docs/react-web-core/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/react-web-core/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-web-core/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/react-web-core/introduction"
+  },
+  "next": {
+    "title": "Advance",
+    "permalink": "/react-web-core/advanced/advance"
+  }
+}

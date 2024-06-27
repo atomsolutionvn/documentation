@@ -1,0 +1,29 @@
+{
+  "id": "design-system",
+  "title": "Design System",
+  "description": "Let's look at how you can customize and brand your UI with Dyte's UI Kit.",
+  "source": "@site/docs/ios/design-system.mdx",
+  "sourceDirName": ".",
+  "slug": "/design-system",
+  "permalink": "/ios/design-system",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/design-system.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Design System"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/ios/quickstart"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/ios/events"
+  }
+}

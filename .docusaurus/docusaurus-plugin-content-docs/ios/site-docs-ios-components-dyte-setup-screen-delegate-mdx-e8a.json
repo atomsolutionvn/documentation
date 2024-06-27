@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-setup-screen-delegate",
+  "title": "SetupViewControllerDelegate",
+  "description": "Learn how to use and customize the SetupViewController component in Dyte's iOS UiKit with our detailed documentation.",
+  "source": "@site/docs/ios/components/dyte-setup-screen-delegate.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-setup-screen-delegate",
+  "permalink": "/ios/components/dyte-setup-screen-delegate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/components/dyte-setup-screen-delegate.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-setup-screen.svg",
+    "description": "Learn how to use and customize the SetupViewController component in Dyte's iOS UiKit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteSettingViewController",
+    "permalink": "/ios/components/dyte-settings"
+  },
+  "next": {
+    "title": "DyteSetupViewController",
+    "permalink": "/ios/components/dyte-setup-screen"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "reference/DyteThemePreset",
+  "title": "DyteThemePreset",
+  "description": "The DyteThemePreset class represents the meeting theme for the current participant",
+  "source": "@site/docs/rn-core/reference/DyteThemePreset.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/DyteThemePreset",
+  "permalink": "/rn-core/reference/DyteThemePreset",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/reference/DyteThemePreset.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15,
+    "web_core_version": "1.20.0"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DytePlugin",
+    "permalink": "/rn-core/reference/DytePlugin"
+  },
+  "next": {
+    "title": "DyteRecording",
+    "permalink": "/rn-core/reference/DyteRecording"
+  }
+}

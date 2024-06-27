@@ -1,0 +1,25 @@
+{
+  "id": "capabilities/recording/index",
+  "title": "Recording",
+  "description": "Learn how Dyte records the audio and video of multiple users in a meeting, as well as interacts with Dyte plugins, in a single file using composite recording mode.",
+  "source": "@site/docs/guides/capabilities/recording/index.mdx",
+  "sourceDirName": "capabilities/recording",
+  "slug": "/capabilities/recording/",
+  "permalink": "/guides/capabilities/recording/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/recording/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Picture in Picture",
+    "permalink": "/guides/capabilities/video/picture-in-picture"
+  },
+  "next": {
+    "title": "Recording Overview",
+    "permalink": "/guides/capabilities/recording/recording-overview"
+  }
+}

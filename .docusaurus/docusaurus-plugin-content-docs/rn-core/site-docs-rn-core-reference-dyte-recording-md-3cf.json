@@ -1,0 +1,29 @@
+{
+  "id": "reference/DyteRecording",
+  "title": "DyteRecording",
+  "description": "The DyteRecording module represents the state of the current recording, and allows",
+  "source": "@site/docs/rn-core/reference/DyteRecording.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/DyteRecording",
+  "permalink": "/rn-core/reference/DyteRecording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/reference/DyteRecording.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17,
+    "web_core_version": "1.20.0"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteThemePreset",
+    "permalink": "/rn-core/reference/DyteThemePreset"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/rn-core/release-notes"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "voice-conf/build-voice-app",
+  "title": "Server Integration",
+  "description": "<IntegrateDyte",
+  "source": "@site/docs/guides/voice-conf/build-voice-app.mdx",
+  "sourceDirName": "voice-conf",
+  "slug": "/voice-conf/build-voice-app",
+  "permalink": "/guides/voice-conf/build-voice-app",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/voice-conf/build-voice-app.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Server Integration",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concepts",
+    "permalink": "/guides/voice-conf/concepts"
+  },
+  "next": {
+    "title": "Client Setup",
+    "permalink": "/guides/voice-conf/client-setup/"
+  }
+}

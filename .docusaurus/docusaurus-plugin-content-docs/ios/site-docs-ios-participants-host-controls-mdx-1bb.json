@@ -1,0 +1,30 @@
+{
+  "id": "participants/host-controls",
+  "title": "Host Controls",
+  "description": "Learn how to create and use a \"More\" menu for host control in your iOS app with our detailed documentation.",
+  "source": "@site/docs/ios/participants/host-controls.mdx",
+  "sourceDirName": "participants",
+  "slug": "/participants/host-controls",
+  "permalink": "/ios/participants/host-controls",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/participants/host-controls.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/more-menu.svg",
+    "sidebar_position": 4,
+    "description": "Learn how to create and use a \"More\" menu for host control in your iOS app with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Participant Types",
+    "permalink": "/ios/participants/type-of-participants"
+  },
+  "next": {
+    "title": "Pre-built create poll Scren",
+    "permalink": "/ios/Pre-Built-Polls_Guides/Polls"
+  }
+}

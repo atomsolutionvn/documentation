@@ -1,0 +1,34 @@
+{
+  "id": "release-notes",
+  "title": "Release Notes",
+  "description": "Flutter Release Notes",
+  "source": "@site/docs/flutter/release-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/flutter/release-notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter/release-notes.mdx",
+  "tags": [
+    {
+      "label": "releasenotes",
+      "permalink": "/flutter/tags/releasenotes"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 101,
+  "frontMatter": {
+    "title": "Release Notes",
+    "sidebar_position": 101,
+    "sidebar_class_name": "releaseSidebarHeading",
+    "tags": [
+      "releasenotes"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteSetupScreen",
+    "permalink": "/flutter/Components/dyte-setup-screen-component"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-controlbar-button",
+  "title": "DyteControlBarButton",
+  "description": "Learn how to use and customize the DyteControlBarButton component in Dyte's iOS UiKit with our detailed documentation.",
+  "source": "@site/docs/ios/components/dyte-controlbar-button.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-controlbar-button",
+  "permalink": "/ios/components/dyte-controlbar-button",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/components/dyte-controlbar-button.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-controlbar-button.svg",
+    "description": "Learn how to use and customize the DyteControlBarButton component in Dyte's iOS UiKit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ConfigureWebinerAlertView",
+    "permalink": "/ios/components/dyte-configure-alertview-protocol"
+  },
+  "next": {
+    "title": "DyteEndMeetingControlBarButton",
+    "permalink": "/ios/components/dyte-end-meeting"
+  }
+}

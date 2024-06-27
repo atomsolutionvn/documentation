@@ -1,0 +1,27 @@
+{
+  "id": "Pre-Built-Plugins_Guides/load-plugin",
+  "title": "Load Plugins",
+  "description": "Learn how to use and customize the DyteAvatarView component in Dyte's iOS UiKit with our detailed documentation.",
+  "source": "@site/docs/ios/Pre-Built-Plugins_Guides/load-plugin.mdx",
+  "sourceDirName": "Pre-Built-Plugins_Guides",
+  "slug": "/Pre-Built-Plugins_Guides/load-plugin",
+  "permalink": "/ios/Pre-Built-Plugins_Guides/load-plugin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/Pre-Built-Plugins_Guides/load-plugin.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteAvatarView component in Dyte's iOS UiKit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pre-built Plugin screen",
+    "permalink": "/ios/Pre-Built-Plugins_Guides/Plugins"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/ios/participants/introduction"
+  }
+}

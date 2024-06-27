@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-header",
+  "title": "dyte-header",
+  "description": "Learn how to use and customize the dyte-header component in Dyte's Angular UI Kit with our detailed documentation.",
+  "source": "@site/docs/angular-ui-kit/components/dyte-header.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-header",
+  "permalink": "/angular-ui-kit/components/dyte-header",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/angular-ui-kit/components/dyte-header.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the dyte-header component in Dyte's Angular UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dyte-grid",
+    "permalink": "/angular-ui-kit/components/dyte-grid"
+  },
+  "next": {
+    "title": "dyte-icon",
+    "permalink": "/angular-ui-kit/components/dyte-icon"
+  }
+}

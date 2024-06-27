@@ -1,0 +1,33 @@
+{
+  "label": "android-core",
+  "permalink": "/android-core/tags/android-core",
+  "allTagsPath": "/android-core/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "livestream/introduction",
+      "title": "Introduction",
+      "description": "Get started with Android Livestreaming through this comprehensive introduction guide in Dyte Docs.",
+      "permalink": "/android-core/livestream/introduction"
+    },
+    {
+      "id": "livestream/dyte-livestream-object",
+      "title": "Livestream Objects and Methods",
+      "description": "Learn about the Android Livestream Object and its usage for effective livestream integration in your Android applications.",
+      "permalink": "/android-core/livestream/dyte-livestream-object"
+    },
+    {
+      "id": "quickstart",
+      "title": "Quickstart",
+      "description": "\"Explore Dyte's Android Core documentation",
+      "permalink": "/android-core/"
+    },
+    {
+      "id": "room/room-connection-events",
+      "title": "Room Connection Events",
+      "description": "Understand and handle room connection events in Android with Dyte's comprehensive documentation.",
+      "permalink": "/android-core/room/room-connection-events"
+    }
+  ],
+  "unlisted": false
+}

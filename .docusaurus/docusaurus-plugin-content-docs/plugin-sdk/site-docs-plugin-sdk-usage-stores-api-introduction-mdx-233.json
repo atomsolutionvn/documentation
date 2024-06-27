@@ -1,0 +1,30 @@
+{
+  "id": "usage/stores-api/introduction",
+  "title": "Introduction",
+  "description": "Explore the introduction to the Stores API in Dyte's Plugin SDK Usage documentation. Learn how to effectively use stores for your plugin development. Dyte Docs.",
+  "source": "@site/docs/plugin-sdk/usage/stores-api/introduction.mdx",
+  "sourceDirName": "usage/stores-api",
+  "slug": "/usage/stores-api/introduction",
+  "permalink": "/plugin-sdk/usage/stores-api/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/plugin-sdk/usage/stores-api/introduction.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "sidebar_position": 1,
+    "description": "Explore the introduction to the Stores API in Dyte's Plugin SDK Usage documentation. Learn how to effectively use stores for your plugin development. Dyte Docs."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/plugin-sdk/usage/rooms-api/events"
+  },
+  "next": {
+    "title": "Operations on Store",
+    "permalink": "/plugin-sdk/usage/stores-api/manage-stores"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "display-videos",
+  "title": "Render participant videos",
+  "description": "To display the videos of all participants you need to show on the screen, you",
+  "source": "@site/docs/react-ui-kit/display-videos.mdx",
+  "sourceDirName": ".",
+  "slug": "/basics/display-videos",
+  "permalink": "/react-ui-kit/basics/display-videos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/display-videos.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "slug": "/basics/display-videos"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Virtual background",
+    "permalink": "/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware"
+  },
+  "next": {
+    "title": "Gallery",
+    "permalink": "/react-ui-kit/components"
+  }
+}

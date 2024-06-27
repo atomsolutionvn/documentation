@@ -1,0 +1,25 @@
+{
+  "id": "capabilities/polls/getting_started",
+  "title": "Getting started with Polls",
+  "description": "Poll objects exist within a meeting and can only be accessed through a meeting object. This object provides methods to create polls, vote, and more.",
+  "source": "@site/docs/guides/capabilities/polls/getting_started.mdx",
+  "sourceDirName": "capabilities/polls",
+  "slug": "/capabilities/polls/getting_started",
+  "permalink": "/guides/capabilities/polls/getting_started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/polls/getting_started.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Polls",
+    "permalink": "/guides/capabilities/polls/"
+  },
+  "next": {
+    "title": "UIKit components for Polls",
+    "permalink": "/guides/capabilities/polls/uikit"
+  }
+}

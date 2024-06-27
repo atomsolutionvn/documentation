@@ -1,0 +1,27 @@
+{
+  "id": "introduction",
+  "title": "Introduction",
+  "description": "Beginner's guide to Dyte's Flutter UI Kit.",
+  "source": "@site/docs/flutter/introduction.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/flutter/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter/introduction.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Beginner's guide to Dyte's Flutter UI Kit.",
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/flutter/quickstart"
+  }
+}

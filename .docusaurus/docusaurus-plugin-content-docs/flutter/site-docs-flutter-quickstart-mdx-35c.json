@@ -1,0 +1,30 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "Quickstart guide for Dyte's Flutter UI Kit.",
+  "source": "@site/docs/flutter/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/flutter/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Quickstart",
+    "description": "Quickstart guide for Dyte's Flutter UI Kit.",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/flutter/"
+  },
+  "next": {
+    "title": "Design System",
+    "permalink": "/flutter/design-token"
+  }
+}

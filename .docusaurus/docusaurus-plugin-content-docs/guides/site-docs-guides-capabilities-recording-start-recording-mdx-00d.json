@@ -1,0 +1,30 @@
+{
+  "id": "capabilities/recording/start-recording",
+  "title": "Start Recording a Meeting",
+  "description": "Explore how to start recordings with Dyte's recording capabilities. Follow our guide for effective recording initiation.",
+  "source": "@site/docs/guides/capabilities/recording/start-recording.mdx",
+  "sourceDirName": "capabilities/recording",
+  "slug": "/capabilities/recording/start-recording",
+  "permalink": "/guides/capabilities/recording/start-recording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/recording/start-recording.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Start Recording a Meeting",
+    "sidebar_position": 2,
+    "description": "Explore how to start recordings with Dyte's recording capabilities. Follow our guide for effective recording initiation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recording Overview",
+    "permalink": "/guides/capabilities/recording/recording-overview"
+  },
+  "next": {
+    "title": "Stop Recording a Meeting",
+    "permalink": "/guides/capabilities/recording/stop-recording"
+  }
+}

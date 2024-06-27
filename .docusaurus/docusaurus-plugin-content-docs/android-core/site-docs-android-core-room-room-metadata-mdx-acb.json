@@ -1,0 +1,43 @@
+{
+  "id": "room/room-metadata",
+  "title": "Room Metadata",
+  "description": "Learn about managing room metadata in your Android application using Dyte Docs.",
+  "source": "@site/docs/android-core/room/room-metadata.mdx",
+  "sourceDirName": "room",
+  "slug": "/room/room-metadata",
+  "permalink": "/android-core/room/room-metadata",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/room/room-metadata.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/android-core/tags/mobile-core"
+    },
+    {
+      "label": "room-metadata",
+      "permalink": "/android-core/tags/room-metadata"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Room Metadata",
+    "description": "Learn about managing room metadata in your Android application using Dyte Docs.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "room-metadata"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Participant Events",
+    "permalink": "/android-core/participants/events"
+  },
+  "next": {
+    "title": "Room Connection Events",
+    "permalink": "/android-core/room/room-connection-events"
+  }
+}

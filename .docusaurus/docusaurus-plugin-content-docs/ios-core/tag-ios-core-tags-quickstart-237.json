@@ -1,0 +1,15 @@
+{
+  "label": "quickstart",
+  "permalink": "/ios-core/tags/quickstart",
+  "allTagsPath": "/ios-core/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "quickstart",
+      "title": "Quickstart",
+      "description": "Dive into Dyte's core documentation for iOS. Follow our guide for comprehensive understanding and effective iOS core development.",
+      "permalink": "/ios-core/"
+    }
+  ],
+  "unlisted": false
+}

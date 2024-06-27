@@ -1,0 +1,25 @@
+{
+  "id": "capabilities/ai/index",
+  "title": "Meeting AI",
+  "description": "Learn how you can harnesses the power of Artificial Intelligence in Dyte meetings to perform transcription, summarization, and so on.",
+  "source": "@site/docs/guides/capabilities/ai/index.mdx",
+  "sourceDirName": "capabilities/ai",
+  "slug": "/capabilities/ai/",
+  "permalink": "/guides/capabilities/ai/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/ai/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Displaying Screenshare",
+    "permalink": "/guides/capabilities/screensharing/displaying"
+  },
+  "next": {
+    "title": "Meeting Transcription",
+    "permalink": "/guides/capabilities/ai/meeting-transcription"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "capabilities/ai/meeting-transcription",
+  "title": "Meeting Transcription",
+  "description": "Explore meeting transcription capabilities with Dyte's AI. Follow our guide to understand and implement transcription features.",
+  "source": "@site/docs/guides/capabilities/ai/meeting-transcription.mdx",
+  "sourceDirName": "capabilities/ai",
+  "slug": "/capabilities/ai/meeting-transcription",
+  "permalink": "/guides/capabilities/ai/meeting-transcription",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/ai/meeting-transcription.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "description": "Explore meeting transcription capabilities with Dyte's AI. Follow our guide to understand and implement transcription features."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meeting AI",
+    "permalink": "/guides/capabilities/ai/"
+  },
+  "next": {
+    "title": "Export Chat Messages",
+    "permalink": "/guides/capabilities/chat/export-chat-dump"
+  }
+}

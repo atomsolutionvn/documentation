@@ -1,0 +1,43 @@
+{
+  "id": "recording",
+  "title": "Recording",
+  "description": "Explore the documentation on Android Recording in Dyte Docs.",
+  "source": "@site/docs/android-core/recording.mdx",
+  "sourceDirName": ".",
+  "slug": "/recording",
+  "permalink": "/android-core/recording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/recording.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/android-core/tags/mobile-core"
+    },
+    {
+      "label": "recording",
+      "permalink": "/android-core/tags/recording"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Recording",
+    "description": "Explore the documentation on Android Recording in Dyte Docs.",
+    "sidebar_position": 10,
+    "tags": [
+      "mobile-core",
+      "recording"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plugins",
+    "permalink": "/android-core/plugins"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/android-core/release-notes"
+  }
+}

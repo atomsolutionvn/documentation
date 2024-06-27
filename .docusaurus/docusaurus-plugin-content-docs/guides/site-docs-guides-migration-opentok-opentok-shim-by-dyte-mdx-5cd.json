@@ -1,0 +1,26 @@
+{
+  "id": "migration/opentok/opentok-shim-by-dyte",
+  "title": "Migrate from OpenTok to Dyte with Shim",
+  "description": "Learn how to use the OpenTok Shim by Dyte for seamless migration. Follow our guide for effective shim implementation and integration.",
+  "source": "@site/docs/guides/migration/opentok/opentok-shim-by-dyte.mdx",
+  "sourceDirName": "migration/opentok",
+  "slug": "/migration/opentok/opentok-shim-by-dyte",
+  "permalink": "/guides/migration/opentok/opentok-shim-by-dyte",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/migration/opentok/opentok-shim-by-dyte.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Migrate from OpenTok to Dyte with Shim",
+    "sidebar_position": 2,
+    "description": "Learn how to use the OpenTok Shim by Dyte for seamless migration. Follow our guide for effective shim implementation and integration."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Concepts: Media",
+    "permalink": "/guides/migration/opentok/concept-media-opentok"
+  }
+}

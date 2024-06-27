@@ -1,0 +1,29 @@
+{
+  "id": "capabilities/webhooks/webhooks-overview",
+  "title": "Webhooks Overview",
+  "description": "Get an overview of webhooks and their functionality in Dyte's capabilities. Follow our guide for a comprehensive understanding.",
+  "source": "@site/docs/guides/capabilities/webhooks/webhooks-overview.mdx",
+  "sourceDirName": "capabilities/webhooks",
+  "slug": "/capabilities/webhooks/webhooks-overview",
+  "permalink": "/guides/capabilities/webhooks/webhooks-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/webhooks/webhooks-overview.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "description": "Get an overview of webhooks and their functionality in Dyte's capabilities. Follow our guide for a comprehensive understanding."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Webhooks and Events",
+    "permalink": "/guides/capabilities/webhooks/"
+  },
+  "next": {
+    "title": "Set Up Webhooks to Receive Real-time Updates",
+    "permalink": "/guides/capabilities/webhooks/webhooks-and-events"
+  }
+}

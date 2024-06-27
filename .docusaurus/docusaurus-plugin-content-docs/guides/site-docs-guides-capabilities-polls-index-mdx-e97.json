@@ -1,0 +1,25 @@
+{
+  "id": "capabilities/polls/index",
+  "title": "Polls",
+  "description": "Polls can be integrated in all kinds of Dyte meetings ranging from voice to livestream. Dyte's SDK makes it really simple to perform all operations required to create and run a poll. You can choose to use the Core SDK with Dyte's UIKit to create seamless poll interactions in a couple of minutes, or you can also use the Core SDK with your custom components.",
+  "source": "@site/docs/guides/capabilities/polls/index.mdx",
+  "sourceDirName": "capabilities/polls",
+  "slug": "/capabilities/polls/",
+  "permalink": "/guides/capabilities/polls/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/polls/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plugin: Whiteboard",
+    "permalink": "/guides/capabilities/plugins/whiteboard"
+  },
+  "next": {
+    "title": "Getting started with Polls",
+    "permalink": "/guides/capabilities/polls/getting_started"
+  }
+}

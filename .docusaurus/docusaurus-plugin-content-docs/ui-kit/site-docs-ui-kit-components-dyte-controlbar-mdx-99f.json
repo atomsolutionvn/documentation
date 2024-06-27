@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-controlbar",
+  "title": "dyte-controlbar",
+  "description": "Learn how to use and customize the dyte-controlbar component in Dyte's UI Kit with our detailed documentation.",
+  "source": "@site/docs/ui-kit/components/dyte-controlbar.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-controlbar",
+  "permalink": "/ui-kit/components/dyte-controlbar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ui-kit/components/dyte-controlbar.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the dyte-controlbar component in Dyte's UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dyte-controlbar-button",
+    "permalink": "/ui-kit/components/dyte-controlbar-button"
+  },
+  "next": {
+    "title": "dyte-dialog-manager",
+    "permalink": "/ui-kit/components/dyte-dialog-manager"
+  }
+}

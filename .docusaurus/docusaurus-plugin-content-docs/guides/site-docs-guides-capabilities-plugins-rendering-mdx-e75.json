@@ -1,0 +1,28 @@
+{
+  "id": "capabilities/plugins/rendering",
+  "title": "Rendering",
+  "description": "Usage",
+  "source": "@site/docs/guides/capabilities/plugins/rendering.mdx",
+  "sourceDirName": "capabilities/plugins",
+  "slug": "/capabilities/plugins/rendering",
+  "permalink": "/guides/capabilities/plugins/rendering",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/plugins/rendering.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/guides/capabilities/plugins"
+  },
+  "next": {
+    "title": "Plugin: Document Sharing",
+    "permalink": "/guides/capabilities/plugins/docshare"
+  }
+}

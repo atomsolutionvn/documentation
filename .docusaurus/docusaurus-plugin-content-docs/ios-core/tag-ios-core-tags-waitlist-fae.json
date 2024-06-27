@@ -1,0 +1,15 @@
+{
+  "label": "waitlist",
+  "permalink": "/ios-core/tags/waitlist",
+  "allTagsPath": "/ios-core/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "waitlist-events",
+      "title": "Waitlist Events",
+      "description": "Discover how to handle waitlist events in iOS Core with Dyte Docs. Optimize your app's performance by effectively managing waitlisted users.",
+      "permalink": "/ios-core/waitlist-events"
+    }
+  ],
+  "unlisted": false
+}

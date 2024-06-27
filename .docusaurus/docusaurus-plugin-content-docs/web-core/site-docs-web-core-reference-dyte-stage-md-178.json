@@ -1,0 +1,29 @@
+{
+  "id": "reference/DyteStage",
+  "title": "DyteStage",
+  "description": "The DyteStage module represents a class to manage the Stage of the meeting",
+  "source": "@site/docs/web-core/reference/DyteStage.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/DyteStage",
+  "permalink": "/web-core/reference/DyteStage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/web-core/reference/DyteStage.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "web_core_version": "1.20.0"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DytePlugins",
+    "permalink": "/web-core/reference/DytePlugins"
+  },
+  "next": {
+    "title": "DyteLivestream",
+    "permalink": "/web-core/reference/DyteLivestream"
+  }
+}

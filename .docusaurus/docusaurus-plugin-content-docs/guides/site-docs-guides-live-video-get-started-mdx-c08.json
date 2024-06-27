@@ -1,0 +1,30 @@
+{
+  "id": "live-video/get-started",
+  "title": "Get your keys",
+  "description": "To get started with creating live video calls from Dyte, make sure to finish these steps and then move on to integrating Dyte in your application.",
+  "source": "@site/docs/guides/live-video/get-started.mdx",
+  "sourceDirName": "live-video",
+  "slug": "/live-video/get-started",
+  "permalink": "/guides/live-video/get-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/get-started.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Get your keys",
+    "slug": "/live-video/get-started",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/guides/live-video/intro-video-conf"
+  },
+  "next": {
+    "title": "Concepts",
+    "permalink": "/guides/live-video/concepts"
+  }
+}

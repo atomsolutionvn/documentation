@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-meeting",
+  "title": "DyteUIKit",
+  "description": "Learn how to use and customize the DyteUIKit component in Dyte's Android with our detailed documentation.",
+  "source": "@site/docs/android/components/dyte-meeting.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-meeting",
+  "permalink": "/android/components/dyte-meeting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/components/dyte-meeting.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-meeting.svg",
+    "description": "Learn how to use and customize the DyteUIKit component in Dyte's Android with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteMeetingTitleView",
+    "permalink": "/android/components/dyte-meeting-title"
+  },
+  "next": {
+    "title": "DyteMicToggleButton",
+    "permalink": "/android/components/dyte-mic-toggle"
+  }
+}

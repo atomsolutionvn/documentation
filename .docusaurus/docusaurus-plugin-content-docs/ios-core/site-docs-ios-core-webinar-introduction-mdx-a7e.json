@@ -1,0 +1,43 @@
+{
+  "id": "webinar/introduction",
+  "title": "Join and Leave Stage using Dyte's Webinar Platform",
+  "description": "Get introduced to webinars in iOS Core with Dyte Docs. Explore the features and benefits of integrating webinars into your app.",
+  "source": "@site/docs/ios-core/webinar/introduction.mdx",
+  "sourceDirName": "webinar",
+  "slug": "/webinar/introduction",
+  "permalink": "/ios-core/webinar/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/webinar/introduction.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "webinar",
+      "permalink": "/ios-core/tags/webinar"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Join and Leave Stage using Dyte's Webinar Platform",
+    "description": "Get introduced to webinars in iOS Core with Dyte Docs. Explore the features and benefits of integrating webinars into your app.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "webinar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plugins",
+    "permalink": "/ios-core/plugins"
+  },
+  "next": {
+    "title": "Manage Stage in Dyte's Webinar",
+    "permalink": "/ios-core/webinar/stage-management"
+  }
+}

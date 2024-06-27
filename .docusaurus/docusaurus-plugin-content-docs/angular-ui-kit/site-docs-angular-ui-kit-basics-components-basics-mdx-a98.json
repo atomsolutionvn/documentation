@@ -1,0 +1,29 @@
+{
+  "id": "basics/components-basics",
+  "title": "Components Basics",
+  "description": "Learn the basics of components in Dyte's Angular UI Kit through our detailed documentation.",
+  "source": "@site/docs/angular-ui-kit/basics/components-basics.mdx",
+  "sourceDirName": "basics",
+  "slug": "/basics/components-basics",
+  "permalink": "/angular-ui-kit/basics/components-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/angular-ui-kit/basics/components-basics.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "description": "Learn the basics of components in Dyte's Angular UI Kit through our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design System",
+    "permalink": "/angular-ui-kit/design-system"
+  },
+  "next": {
+    "title": "Prerequisite",
+    "permalink": "/angular-ui-kit/basics/pre-requisite"
+  }
+}

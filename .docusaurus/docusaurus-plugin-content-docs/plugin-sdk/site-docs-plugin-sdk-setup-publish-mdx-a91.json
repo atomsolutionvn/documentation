@@ -1,0 +1,30 @@
+{
+  "id": "setup/publish",
+  "title": "Publish your Plugin",
+  "description": "Guide on how to publish your plugin setup using the Dyte Plugin SDK. Ensure a seamless deployment and distribution process for your plugins.",
+  "source": "@site/docs/plugin-sdk/setup/publish.mdx",
+  "sourceDirName": "setup",
+  "slug": "/setup/publish",
+  "permalink": "/plugin-sdk/setup/publish",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/plugin-sdk/setup/publish.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Publish your Plugin",
+    "sidebar_position": 3,
+    "description": "Guide on how to publish your plugin setup using the Dyte Plugin SDK. Ensure a seamless deployment and distribution process for your plugins."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configure Plugin Properties",
+    "permalink": "/plugin-sdk/setup/customize"
+  },
+  "next": {
+    "title": "Set Up Development Environment",
+    "permalink": "/plugin-sdk/setup/develop"
+  }
+}

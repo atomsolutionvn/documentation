@@ -1,0 +1,27 @@
+{
+  "id": "voice-conf/client-setup/android",
+  "title": "Android",
+  "description": "Android Guide",
+  "source": "@site/docs/guides/voice-conf/client-setup/android.mdx",
+  "sourceDirName": "voice-conf/client-setup",
+  "slug": "/voice-conf/client-setup/android",
+  "permalink": "/guides/voice-conf/client-setup/android",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/voice-conf/client-setup/android.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Android",
+    "pagination_prev": null,
+    "pagination_next": "voice-conf/next-steps",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Next Steps",
+    "permalink": "/guides/voice-conf/next-steps"
+  }
+}

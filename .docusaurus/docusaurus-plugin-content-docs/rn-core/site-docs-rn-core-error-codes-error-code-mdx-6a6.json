@@ -1,0 +1,29 @@
+{
+  "id": "error-codes/error-code",
+  "title": "Debug System Error Codes",
+  "description": "This information is intended for developers debugging or troubleshooting Dyte's web core system errors.",
+  "source": "@site/docs/rn-core/error-codes/error-code.mdx",
+  "sourceDirName": "error-codes",
+  "slug": "/error-codes/error-code",
+  "permalink": "/rn-core/error-codes/error-code",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/error-codes/error-code.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Debug System Error Codes",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Livestreaming",
+    "permalink": "/rn-core/livestreaming"
+  },
+  "next": {
+    "title": "System Error Codes (0-16)",
+    "permalink": "/rn-core/error-codes/error-code-zero-ten"
+  }
+}

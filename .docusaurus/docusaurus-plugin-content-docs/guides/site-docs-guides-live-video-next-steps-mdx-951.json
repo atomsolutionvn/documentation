@@ -1,0 +1,29 @@
+{
+  "id": "live-video/next-steps",
+  "title": "Next Steps",
+  "description": "Capabilities",
+  "source": "@site/docs/guides/live-video/next-steps.mdx",
+  "sourceDirName": "live-video",
+  "slug": "/live-video/next-steps",
+  "permalink": "/guides/live-video/next-steps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/next-steps.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Next Steps",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flutter",
+    "permalink": "/guides/live-video/client-setup/flutter"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/guides/voice-conf/intro-voice-conf"
+  }
+}

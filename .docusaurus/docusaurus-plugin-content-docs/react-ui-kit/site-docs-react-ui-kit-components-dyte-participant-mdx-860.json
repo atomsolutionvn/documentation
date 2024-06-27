@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-participant",
+  "title": "DyteParticipant",
+  "description": "Learn how to use and customize the DyteParticipant component in Dyte's React UI Kit with our detailed documentation.",
+  "source": "@site/docs/react-ui-kit/components/dyte-participant.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-participant",
+  "permalink": "/react-ui-kit/components/dyte-participant",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/components/dyte-participant.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteParticipant component in Dyte's React UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteParticipantTile",
+    "permalink": "/react-ui-kit/components/dyte-participant-tile"
+  },
+  "next": {
+    "title": "DyteParticipantsAudio",
+    "permalink": "/react-ui-kit/components/dyte-participants-audio"
+  }
+}

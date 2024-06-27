@@ -1,0 +1,30 @@
+{
+  "id": "capabilities/breakoutroom/introduction-breakout-rooms",
+  "title": "Introduction to Dyte's Breakout Rooms",
+  "description": "Get an introduction to breakout rooms with Dyte's capabilities. Follow our guide for a smooth understanding and integration.",
+  "source": "@site/docs/guides/capabilities/breakoutroom/introduction-breakout-rooms.mdx",
+  "sourceDirName": "capabilities/breakoutroom",
+  "slug": "/capabilities/breakoutroom/introduction-breakout-rooms",
+  "permalink": "/guides/capabilities/breakoutroom/introduction-breakout-rooms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/breakoutroom/introduction-breakout-rooms.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Dyte's Breakout Rooms",
+    "sidebar_position": 1,
+    "description": "Get an introduction to breakout rooms with Dyte's capabilities. Follow our guide for a smooth understanding and integration."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Verify Webhooks Using Dyte's Signature and Webhook ID",
+    "permalink": "/guides/capabilities/webhooks/signatures"
+  },
+  "next": {
+    "title": "Create a Breakout Room",
+    "permalink": "/guides/capabilities/breakoutroom/create-breakout-rooms"
+  }
+}

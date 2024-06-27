@@ -1,0 +1,28 @@
+{
+  "id": "live-video/client-setup/ios",
+  "title": "iOS",
+  "description": "Get started with setting up the client for live video on iOS with Dyte's features. Follow our guide for a seamless iOS client setup.",
+  "source": "@site/docs/guides/live-video/client-setup/ios.mdx",
+  "sourceDirName": "live-video/client-setup",
+  "slug": "/live-video/client-setup/ios",
+  "permalink": "/guides/live-video/client-setup/ios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/client-setup/ios.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "iOS",
+    "pagination_prev": null,
+    "pagination_next": "live-video/next-steps",
+    "sidebar_position": 5,
+    "description": "Get started with setting up the client for live video on iOS with Dyte's features. Follow our guide for a seamless iOS client setup."
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Next Steps",
+    "permalink": "/guides/live-video/next-steps"
+  }
+}

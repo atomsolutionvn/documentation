@@ -1,0 +1,52 @@
+{
+  "id": "stage-management",
+  "title": "Stage management",
+  "description": "Access the stage APIs",
+  "source": "@site/docs/flutter-core/stage-management.mdx",
+  "sourceDirName": ".",
+  "slug": "/stage-management",
+  "permalink": "/flutter-core/stage-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/stage-management.mdx",
+  "tags": [
+    {
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "label": "stage",
+      "permalink": "/flutter-core/tags/stage"
+    },
+    {
+      "label": "livestream",
+      "permalink": "/flutter-core/tags/livestream"
+    },
+    {
+      "label": "webinar",
+      "permalink": "/flutter-core/tags/webinar"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Stage management",
+    "sidebar_position": 10,
+    "tags": [
+      "flutter-core",
+      "stage",
+      "livestream",
+      "webinar"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recording",
+    "permalink": "/flutter-core/recording"
+  },
+  "next": {
+    "title": "Waiting room",
+    "permalink": "/flutter-core/waiting-room"
+  }
+}

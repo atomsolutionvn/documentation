@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-mic-toggle",
+  "title": "dyte-mic-toggle",
+  "description": "Learn how to use and customize the dyte-mic-toggle component in Dyte's Angular UI Kit with our detailed documentation.",
+  "source": "@site/docs/angular-ui-kit/components/dyte-mic-toggle.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-mic-toggle",
+  "permalink": "/angular-ui-kit/components/dyte-mic-toggle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/angular-ui-kit/components/dyte-mic-toggle.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the dyte-mic-toggle component in Dyte's Angular UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dyte-menu",
+    "permalink": "/angular-ui-kit/components/dyte-menu"
+  },
+  "next": {
+    "title": "dyte-mixed-grid",
+    "permalink": "/angular-ui-kit/components/dyte-mixed-grid"
+  }
+}

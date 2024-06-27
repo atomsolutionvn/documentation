@@ -1,0 +1,29 @@
+{
+  "id": "reference/DyteRecording",
+  "title": "DyteRecording",
+  "description": "The DyteRecording module represents the state of the current recording, and allows",
+  "source": "@site/docs/react-web-core/reference/DyteRecording.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/DyteRecording",
+  "permalink": "/react-web-core/reference/DyteRecording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-web-core/reference/DyteRecording.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17,
+    "web_core_version": "1.20.0"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteRemote",
+    "permalink": "/react-web-core/reference/DyteRemote"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/react-web-core/release-notes"
+  }
+}

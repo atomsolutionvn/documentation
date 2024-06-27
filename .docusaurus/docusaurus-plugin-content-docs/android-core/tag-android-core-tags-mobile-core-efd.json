@@ -1,0 +1,117 @@
+{
+  "label": "mobile-core",
+  "permalink": "/android-core/tags/mobile-core",
+  "allTagsPath": "/android-core/tags",
+  "count": 18,
+  "items": [
+    {
+      "id": "polls/creating-a-poll",
+      "title": "Creating a poll",
+      "description": "Create and manage polls in your Android app using Dyte's documentation on Polls Creation.",
+      "permalink": "/android-core/polls/creating-a-poll"
+    },
+    {
+      "id": "local-user/events",
+      "title": "Events",
+      "description": "Understand and manage local user events in your Android application with Dyte's documentation on Local User Events.",
+      "permalink": "/android-core/local-user/events"
+    },
+    {
+      "id": "chat/introduction",
+      "title": "Introducing chat",
+      "description": "Learn the basics of integrating Dyte's chat functionality into your Android application – a step towards immersive real-time communication.",
+      "permalink": "/android-core/chat/introduction"
+    },
+    {
+      "id": "local-user/introduction",
+      "title": "Introduction",
+      "description": "Begin your journey with Dyte by exploring the basics of local user integration in Android applications.",
+      "permalink": "/android-core/local-user/introduction"
+    },
+    {
+      "id": "participants/introduction",
+      "title": "Introduction",
+      "description": "Get started with participants integration in Android apps with this introductory guide from Dyte documentation.",
+      "permalink": "/android-core/participants/introduction"
+    },
+    {
+      "id": "polls/introduction",
+      "title": "Introduction",
+      "description": "Learn the fundamentals of integrating polls into your Android application with Dyte's Polls Introduction guide.",
+      "permalink": "/android-core/polls/introduction"
+    },
+    {
+      "id": "stage/introduction",
+      "title": "Join and Leave Stage using Dyte's group call",
+      "description": "Get started with the introduction to the stage feature in Dyte's Android documentation.",
+      "permalink": "/android-core/stage/introduction"
+    },
+    {
+      "id": "stage/stage-management",
+      "title": "Manage Stage in Dyte's Group Call Meeting",
+      "description": "Effectively manage the stage in your Android application with Dyte's documentation on stage management.",
+      "permalink": "/android-core/stage/stage-management"
+    },
+    {
+      "id": "local-user/manage-permissions",
+      "title": "Media Permissions",
+      "description": "Learn how to manage permissions in your Android application for a secure and controlled user experience with Dyte Docs.",
+      "permalink": "/android-core/local-user/manage-permissions"
+    },
+    {
+      "id": "participants/events",
+      "title": "Participant Events",
+      "description": "Dive into the details of handling participant events in your Android application using Dyte's comprehensive documentation.",
+      "permalink": "/android-core/participants/events"
+    },
+    {
+      "id": "plugins",
+      "title": "Plugins",
+      "description": "Enhance your Android application with Dyte Plugins - comprehensive documentation for seamless integration and customization.",
+      "permalink": "/android-core/plugins"
+    },
+    {
+      "id": "chat/receiving-chat-messages",
+      "title": "Receiving chat messages",
+      "description": "\"Discover how to implement the functionality to receive chat messages in your Android app using Dyte",
+      "permalink": "/android-core/chat/receiving-chat-messages"
+    },
+    {
+      "id": "recording",
+      "title": "Recording",
+      "description": "Explore the documentation on Android Recording in Dyte Docs.",
+      "permalink": "/android-core/recording"
+    },
+    {
+      "id": "release-notes",
+      "title": "Release Notes",
+      "description": "Android Core Release Notes",
+      "permalink": "/android-core/release-notes"
+    },
+    {
+      "id": "room/room-connection-events",
+      "title": "Room Connection Events",
+      "description": "Understand and handle room connection events in Android with Dyte's comprehensive documentation.",
+      "permalink": "/android-core/room/room-connection-events"
+    },
+    {
+      "id": "room/room-metadata",
+      "title": "Room Metadata",
+      "description": "Learn about managing room metadata in your Android application using Dyte Docs.",
+      "permalink": "/android-core/room/room-metadata"
+    },
+    {
+      "id": "chat/sending-a-chat-message",
+      "title": "Sending a chat message",
+      "description": "\"Master the process of sending chat messages within your Android application with Dyte",
+      "permalink": "/android-core/chat/sending-a-chat-message"
+    },
+    {
+      "id": "participants/participant-object",
+      "title": "The participant object",
+      "description": "Explore the Android Participants Participant Object and its functionalities for effective integration in your application.",
+      "permalink": "/android-core/participants/participant-object"
+    }
+  ],
+  "unlisted": false
+}

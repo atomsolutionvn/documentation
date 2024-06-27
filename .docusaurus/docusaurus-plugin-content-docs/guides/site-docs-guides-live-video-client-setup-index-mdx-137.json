@@ -1,0 +1,27 @@
+{
+  "id": "live-video/client-setup/index",
+  "title": "Client Setup",
+  "description": "Client Setup Guide",
+  "source": "@site/docs/guides/live-video/client-setup/index.mdx",
+  "sourceDirName": "live-video/client-setup",
+  "slug": "/live-video/client-setup/",
+  "permalink": "/guides/live-video/client-setup/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/client-setup/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "title": "Client Setup"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Server Integration",
+    "permalink": "/guides/live-video/build-live-video-app"
+  },
+  "next": {
+    "title": "React",
+    "permalink": "/guides/live-video/client-setup/react"
+  }
+}

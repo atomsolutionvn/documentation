@@ -1,0 +1,30 @@
+{
+  "id": "participants/type-of-participants",
+  "title": "Participant Types",
+  "description": "Learn how to handle various types of participants in your iOS app using Dyte's participant view controllers with our detailed documentation.",
+  "source": "@site/docs/ios/participants/type-of-participants.mdx",
+  "sourceDirName": "participants",
+  "slug": "/participants/type-of-participants",
+  "permalink": "/ios/participants/type-of-participants",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/participants/type-of-participants.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/participant-types.svg",
+    "sidebar_position": 3,
+    "description": "Learn how to handle various types of participants in your iOS app using Dyte's participant view controllers with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pre-built Participants Screen",
+    "permalink": "/ios/participants/pre-built-participants-screen"
+  },
+  "next": {
+    "title": "Host Controls",
+    "permalink": "/ios/participants/host-controls"
+  }
+}

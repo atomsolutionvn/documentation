@@ -1,0 +1,40 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "Dive into the core of Flutter development with Dyte. Explore essential documentation to streamline your Flutter app integration.",
+  "source": "@site/docs/flutter-core/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/flutter-core/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/quickstart.mdx",
+  "tags": [
+    {
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "label": "quickstart",
+      "permalink": "/flutter-core/tags/quickstart"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Quickstart",
+    "description": "Dive into the core of Flutter development with Dyte. Explore essential documentation to streamline your Flutter app integration.",
+    "sidebar_position": 1,
+    "tags": [
+      "flutter-core",
+      "quickstart"
+    ],
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/flutter-core/local-user/introduction"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-more-toggle",
+  "title": "DyteMoreButtonControlBar",
+  "description": "Learn how to use and customize the DyteMoreToggleButton component in Dyte's iOS UiKit with our detailed documentation.",
+  "source": "@site/docs/ios/components/dyte-more-toggle.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-more-toggle",
+  "permalink": "/ios/components/dyte-more-toggle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/components/dyte-more-toggle.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteMoreToggleButton component in Dyte's iOS UiKit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteAudioButtonControlBar",
+    "permalink": "/ios/components/dyte-mic-toggle"
+  },
+  "next": {
+    "title": "DyteMeetingNameTag",
+    "permalink": "/ios/components/dyte-name-tag"
+  }
+}

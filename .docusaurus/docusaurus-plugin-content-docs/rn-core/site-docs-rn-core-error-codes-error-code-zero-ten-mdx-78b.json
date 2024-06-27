@@ -1,0 +1,29 @@
+{
+  "id": "error-codes/error-code-zero-ten",
+  "title": "System Error Codes (0-16)",
+  "description": "This topic describes web core system error codes 0-16.",
+  "source": "@site/docs/rn-core/error-codes/error-code-zero-ten.mdx",
+  "sourceDirName": "error-codes",
+  "slug": "/error-codes/error-code-zero-ten",
+  "permalink": "/rn-core/error-codes/error-code-zero-ten",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/error-codes/error-code-zero-ten.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "System Error Codes (0-16)",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Debug System Error Codes",
+    "permalink": "/rn-core/error-codes/error-code"
+  },
+  "next": {
+    "title": "DyteClient",
+    "permalink": "/rn-core/reference/DyteClient"
+  }
+}

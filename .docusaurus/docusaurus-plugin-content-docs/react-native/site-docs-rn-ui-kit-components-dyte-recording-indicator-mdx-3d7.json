@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-recording-indicator",
+  "title": "DyteRecordingIndicator",
+  "description": "Learn how to use and customize the DyteRecordingIndicator component in Dyte's React Native UI Kit with our detailed documentation.",
+  "source": "@site/docs/rn-ui-kit/components/dyte-recording-indicator.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-recording-indicator",
+  "permalink": "/react-native/components/dyte-recording-indicator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-ui-kit/components/dyte-recording-indicator.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-recording-indicator.svg",
+    "description": "Learn how to use and customize the DyteRecordingIndicator component in Dyte's React Native UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DytePolls",
+    "permalink": "/react-native/components/dyte-polls"
+  },
+  "next": {
+    "title": "DyteRecordingToggle",
+    "permalink": "/react-native/components/dyte-recording-toggle"
+  }
+}

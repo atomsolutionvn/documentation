@@ -1,0 +1,48 @@
+{
+  "id": "local-user/introduction",
+  "title": "Introduction",
+  "description": "Learn about local user management in iOS Core with Dyte Docs. Understand the fundamentals for effective integration and app customization.",
+  "source": "@site/docs/ios-core/local-user/introduction.mdx",
+  "sourceDirName": "local-user",
+  "slug": "/local-user/introduction",
+  "permalink": "/ios-core/local-user/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/local-user/introduction.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "local-user",
+      "permalink": "/ios-core/tags/local-user"
+    },
+    {
+      "label": "self",
+      "permalink": "/ios-core/tags/self"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Learn about local user management in iOS Core with Dyte Docs. Understand the fundamentals for effective integration and app customization.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "local-user",
+      "self"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/ios-core/"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/ios-core/local-user/events"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-camera-toggle",
+  "title": "DyteCameraToggle",
+  "description": "Learn how to use and customize the DyteCameraToggle component in Dyte's React Native UI Kit with our detailed documentation.",
+  "source": "@site/docs/rn-ui-kit/components/dyte-camera-toggle.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-camera-toggle",
+  "permalink": "/react-native/components/dyte-camera-toggle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-ui-kit/components/dyte-camera-toggle.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteCameraToggle component in Dyte's React Native UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteButton",
+    "permalink": "/react-native/components/dyte-button"
+  },
+  "next": {
+    "title": "DyteChatToggle",
+    "permalink": "/react-native/components/dyte-chat-toggle"
+  }
+}

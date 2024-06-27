@@ -1,0 +1,30 @@
+{
+  "id": "capabilities/recording/monitor-status",
+  "title": "Monitor Recording Status",
+  "description": "Explore how to monitor the status of recordings with Dyte's capabilities. Follow our guide for effective monitoring and management.",
+  "source": "@site/docs/guides/capabilities/recording/monitor-status.mdx",
+  "sourceDirName": "capabilities/recording",
+  "slug": "/capabilities/recording/monitor-status",
+  "permalink": "/guides/capabilities/recording/monitor-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/recording/monitor-status.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Monitor Recording Status",
+    "sidebar_position": 5,
+    "description": "Explore how to monitor the status of recordings with Dyte's capabilities. Follow our guide for effective monitoring and management."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Upload Recording to Your Cloud",
+    "permalink": "/guides/capabilities/recording/custom-cloud-storage"
+  },
+  "next": {
+    "title": "Configure Video Settings",
+    "permalink": "/guides/capabilities/recording/configure-codecs"
+  }
+}

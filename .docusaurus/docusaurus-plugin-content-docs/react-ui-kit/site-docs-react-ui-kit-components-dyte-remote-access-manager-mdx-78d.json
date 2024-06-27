@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-remote-access-manager",
+  "title": "DyteRemoteAccessManager",
+  "description": "Learn how to use and customize the DyteRemoteAccessManager component in Dyte's React UI Kit with our detailed documentation.",
+  "source": "@site/docs/react-ui-kit/components/dyte-remote-access-manager.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-remote-access-manager",
+  "permalink": "/react-ui-kit/components/dyte-remote-access-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/components/dyte-remote-access-manager.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-remote-access-manager.svg",
+    "description": "Learn how to use and customize the DyteRemoteAccessManager component in Dyte's React UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteRecordingToggle",
+    "permalink": "/react-ui-kit/components/dyte-recording-toggle"
+  },
+  "next": {
+    "title": "DyteScreenShareToggle",
+    "permalink": "/react-ui-kit/components/dyte-screen-share-toggle"
+  }
+}

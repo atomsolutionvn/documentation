@@ -1,0 +1,43 @@
+{
+  "id": "stage/introduction",
+  "title": "Join and Leave Stage using Dyte's group call",
+  "description": "Get started with the introduction to the stage feature in Dyte's Android documentation.",
+  "source": "@site/docs/android-core/stage/introduction.mdx",
+  "sourceDirName": "stage",
+  "slug": "/stage/introduction",
+  "permalink": "/android-core/stage/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/stage/introduction.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/android-core/tags/mobile-core"
+    },
+    {
+      "label": "stage",
+      "permalink": "/android-core/tags/stage"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Join and Leave Stage using Dyte's group call",
+    "description": "Get started with the introduction to the stage feature in Dyte's Android documentation.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "stage"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voting on a poll",
+    "permalink": "/android-core/polls/voting-on-a-poll"
+  },
+  "next": {
+    "title": "Manage Stage in Dyte's Group Call Meeting",
+    "permalink": "/android-core/stage/stage-management"
+  }
+}

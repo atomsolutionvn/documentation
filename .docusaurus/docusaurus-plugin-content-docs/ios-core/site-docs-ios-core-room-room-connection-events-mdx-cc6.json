@@ -1,0 +1,53 @@
+{
+  "id": "room/room-connection-events",
+  "title": "Room Connection Events",
+  "description": "Explore room connection events in iOS Core with Dyte Docs. Understand how to leverage these events for enhanced user experiences.",
+  "source": "@site/docs/ios-core/room/room-connection-events.mdx",
+  "sourceDirName": "room",
+  "slug": "/room/room-connection-events",
+  "permalink": "/ios-core/room/room-connection-events",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/room/room-connection-events.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
+    },
+    {
+      "label": "connection events",
+      "permalink": "/ios-core/tags/connection-events"
+    },
+    {
+      "label": "reconnection",
+      "permalink": "/ios-core/tags/reconnection"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Room Connection Events",
+    "description": "Explore room connection events in iOS Core with Dyte Docs. Understand how to leverage these events for enhanced user experiences.",
+    "sidebar_position": 2,
+    "tags": [
+      "mobile-core",
+      "ios-core",
+      "connection events",
+      "reconnection"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Room Metadata",
+    "permalink": "/ios-core/room/room-metadata"
+  },
+  "next": {
+    "title": "Introducing chat",
+    "permalink": "/ios-core/chat/introduction"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "capabilities/recording/advanced/configure-dyte-bucket-config",
+  "title": "Disable upload to Dyte's bucket",
+  "description": "Explore how to configure Dyte bucket settings for recording. Follow our guide for effective bucket configuration.",
+  "source": "@site/docs/guides/capabilities/recording/advanced/configure-dyte-bucket-config.mdx",
+  "sourceDirName": "capabilities/recording/advanced",
+  "slug": "/capabilities/recording/configure-dyte-bucket-config",
+  "permalink": "/guides/capabilities/recording/configure-dyte-bucket-config",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/recording/advanced/configure-dyte-bucket-config.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Disable upload to Dyte's bucket",
+    "sidebar_position": 8,
+    "slug": "/capabilities/recording/configure-dyte-bucket-config",
+    "description": "Explore how to configure Dyte bucket settings for recording. Follow our guide for effective bucket configuration."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Recording Config Precedence Order",
+    "permalink": "/guides/capabilities/recording/manage-recording-config-hierarchy"
+  },
+  "next": {
+    "title": "Interactive Recordings with Timed Metadata",
+    "permalink": "/guides/capabilities/recording/interactive-recording"
+  }
+}

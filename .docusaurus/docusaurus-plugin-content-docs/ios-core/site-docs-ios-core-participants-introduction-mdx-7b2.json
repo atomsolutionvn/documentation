@@ -1,0 +1,48 @@
+{
+  "id": "participants/introduction",
+  "title": "Introduction",
+  "description": "Explore the introduction to participants in iOS Core with Dyte Docs. Learn how to enhance your app's collaborative features seamlessly.",
+  "source": "@site/docs/ios-core/participants/introduction.mdx",
+  "sourceDirName": "participants",
+  "slug": "/participants/introduction",
+  "permalink": "/ios-core/participants/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/participants/introduction.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "participants",
+      "permalink": "/ios-core/tags/participants"
+    },
+    {
+      "label": "participant",
+      "permalink": "/ios-core/tags/participant"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Explore the introduction to participants in iOS Core with Dyte Docs. Learn how to enhance your app's collaborative features seamlessly.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "participants",
+      "participant"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sharing screen on iOS",
+    "permalink": "/ios-core/local-user/screen-share-guide"
+  },
+  "next": {
+    "title": "The participant object",
+    "permalink": "/ios-core/participants/participant-object"
+  }
+}

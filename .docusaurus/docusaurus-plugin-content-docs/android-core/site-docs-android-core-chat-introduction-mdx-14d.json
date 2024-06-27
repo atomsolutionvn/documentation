@@ -1,0 +1,43 @@
+{
+  "id": "chat/introduction",
+  "title": "Introducing chat",
+  "description": "Learn the basics of integrating Dyte's chat functionality into your Android application – a step towards immersive real-time communication.",
+  "source": "@site/docs/android-core/chat/introduction.mdx",
+  "sourceDirName": "chat",
+  "slug": "/chat/introduction",
+  "permalink": "/android-core/chat/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/chat/introduction.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/android-core/tags/mobile-core"
+    },
+    {
+      "label": "chat",
+      "permalink": "/android-core/tags/chat"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introducing chat",
+    "description": "Learn the basics of integrating Dyte's chat functionality into your Android application – a step towards immersive real-time communication.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "chat"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Room Connection Events",
+    "permalink": "/android-core/room/room-connection-events"
+  },
+  "next": {
+    "title": "Sending a chat message",
+    "permalink": "/android-core/chat/sending-a-chat-message"
+  }
+}

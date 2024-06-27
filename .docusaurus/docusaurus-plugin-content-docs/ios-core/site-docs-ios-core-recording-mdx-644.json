@@ -1,0 +1,43 @@
+{
+  "id": "recording",
+  "title": "Recording",
+  "description": "Delve into the recording capabilities of iOS Core with Dyte Docs. Learn how to seamlessly integrate and enhance your app's recording functionalities.",
+  "source": "@site/docs/ios-core/recording.mdx",
+  "sourceDirName": ".",
+  "slug": "/recording",
+  "permalink": "/ios-core/recording",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/recording.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "recording",
+      "permalink": "/ios-core/tags/recording"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Recording",
+    "description": "Delve into the recording capabilities of iOS Core with Dyte Docs. Learn how to seamlessly integrate and enhance your app's recording functionalities.",
+    "sidebar_position": 9,
+    "tags": [
+      "mobile-core",
+      "recording"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Stage in Dyte's Webinar",
+    "permalink": "/ios-core/webinar/stage-management"
+  },
+  "next": {
+    "title": "Waitlist Events",
+    "permalink": "/ios-core/waitlist-events"
+  }
+}

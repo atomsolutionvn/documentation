@@ -1,0 +1,30 @@
+{
+  "id": "livestream/client-setup/ios",
+  "title": "iOS",
+  "description": "Get started with setting up the Livestream client on iOS with Dyte. Follow our guide for a seamless iOS client setup.",
+  "source": "@site/docs/guides/livestream/client-setup/ios.mdx",
+  "sourceDirName": "livestream/client-setup",
+  "slug": "/livestream/client-setup/ios",
+  "permalink": "/guides/livestream/client-setup/ios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/livestream/client-setup/ios.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "iOS",
+    "sidebar_position": 5,
+    "description": "Get started with setting up the Livestream client on iOS with Dyte. Follow our guide for a seamless iOS client setup."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android",
+    "permalink": "/guides/livestream/client-setup/android"
+  },
+  "next": {
+    "title": "Flutter",
+    "permalink": "/guides/livestream/client-setup/flutter"
+  }
+}

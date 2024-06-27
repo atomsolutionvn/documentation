@@ -1,0 +1,28 @@
+{
+  "id": "live-video/client-setup/javascript",
+  "title": "Web (Other)",
+  "description": "Explore the setup of the client for live video in JavaScript with Dyte's features. Follow our guide for effective JavaScript client setup.",
+  "source": "@site/docs/guides/live-video/client-setup/javascript.mdx",
+  "sourceDirName": "live-video/client-setup",
+  "slug": "/live-video/client-setup/javascript",
+  "permalink": "/guides/live-video/client-setup/javascript",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/client-setup/javascript.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Web (Other)",
+    "sidebar_position": 3,
+    "pagination_prev": null,
+    "pagination_next": "live-video/next-steps",
+    "description": "Explore the setup of the client for live video in JavaScript with Dyte's features. Follow our guide for effective JavaScript client setup."
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Next Steps",
+    "permalink": "/guides/live-video/next-steps"
+  }
+}

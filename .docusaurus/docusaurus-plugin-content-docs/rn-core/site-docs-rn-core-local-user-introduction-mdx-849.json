@@ -1,0 +1,48 @@
+{
+  "id": "local-user/introduction",
+  "title": "Introduction",
+  "description": "Local user setup guide.",
+  "source": "@site/docs/rn-core/local-user/introduction.mdx",
+  "sourceDirName": "local-user",
+  "slug": "/local-user/introduction",
+  "permalink": "/rn-core/local-user/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/local-user/introduction.mdx",
+  "tags": [
+    {
+      "label": "rn-core",
+      "permalink": "/rn-core/tags/rn-core"
+    },
+    {
+      "label": "local-user",
+      "permalink": "/rn-core/tags/local-user"
+    },
+    {
+      "label": "self",
+      "permalink": "/rn-core/tags/self"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Local user setup guide.",
+    "sidebar_position": 1,
+    "tags": [
+      "rn-core",
+      "local-user",
+      "self"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/rn-core/quickstart"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/rn-core/local-user/events"
+  }
+}

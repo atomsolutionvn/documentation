@@ -1,0 +1,43 @@
+{
+  "id": "livestream/dyte-livestream-object",
+  "title": "Livestream objects & methods",
+  "description": "Dive into the details of the Dyte Livestream Object in iOS Core with Dyte Docs. Understand key elements for effective integration and streaming management.",
+  "source": "@site/docs/ios-core/livestream/dyte-livestream-object.mdx",
+  "sourceDirName": "livestream",
+  "slug": "/livestream/dyte-livestream-object",
+  "permalink": "/ios-core/livestream/dyte-livestream-object",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/livestream/dyte-livestream-object.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "livestream",
+      "permalink": "/ios-core/tags/livestream"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Livestream objects & methods",
+    "description": "Dive into the details of the Dyte Livestream Object in iOS Core with Dyte Docs. Understand key elements for effective integration and streaming management.",
+    "sidebar_position": 2,
+    "tags": [
+      "mobile-core",
+      "livestream"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/ios-core/livestream/introduction"
+  },
+  "next": {
+    "title": "Livestream event listeners",
+    "permalink": "/ios-core/livestream/dyte-livestream-listener"
+  }
+}

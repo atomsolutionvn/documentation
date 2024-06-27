@@ -1,0 +1,28 @@
+{
+  "id": "live-video/client-setup/flutter",
+  "title": "Flutter",
+  "description": "Learn how to set up the client for live video in Flutter with Dyte's features. Follow our guide for effective Flutter client setup.",
+  "source": "@site/docs/guides/live-video/client-setup/flutter.mdx",
+  "sourceDirName": "live-video/client-setup",
+  "slug": "/live-video/client-setup/flutter",
+  "permalink": "/guides/live-video/client-setup/flutter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/client-setup/flutter.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Flutter",
+    "pagination_prev": null,
+    "pagination_next": "live-video/next-steps",
+    "sidebar_position": 6,
+    "description": "Learn how to set up the client for live video in Flutter with Dyte's features. Follow our guide for effective Flutter client setup."
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Next Steps",
+    "permalink": "/guides/live-video/next-steps"
+  }
+}

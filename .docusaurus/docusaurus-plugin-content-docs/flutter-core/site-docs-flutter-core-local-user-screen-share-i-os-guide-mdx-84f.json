@@ -1,0 +1,37 @@
+{
+  "id": "local-user/screen-share-iOS-guide",
+  "title": "Sharing screen on iOS",
+  "description": "This document explains how to setup screen sharing on a Flutter iOS App using Dyte SDK",
+  "source": "@site/docs/flutter-core/local-user/screen-share-iOS-guide.mdx",
+  "sourceDirName": "local-user",
+  "slug": "/local-user/screen-share-iOS-guide",
+  "permalink": "/flutter-core/local-user/screen-share-iOS-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/local-user/screen-share-iOS-guide.mdx",
+  "tags": [
+    {
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "Sharing screen on iOS",
+    "sidebar_position": 12,
+    "tags": [
+      "flutter-core"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Media Devices",
+    "permalink": "/flutter-core/local-user/manage-media-devices"
+  },
+  "next": {
+    "title": "Room Metadata",
+    "permalink": "/flutter-core/room-metadata"
+  }
+}

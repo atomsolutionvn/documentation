@@ -1,0 +1,25 @@
+{
+  "id": "Components/dyte-provider",
+  "title": "DyteProvider",
+  "description": "A foundational widget designed to initialize and provide the necessary Dyte environment for a Flutter application. The DyteProvider acts as a context wrapper that sets up design tokens, client configurations, and UI Kit information required for Dyte components. It ensures that Dyte functionalities are available and properly initialized throughout the widget tree where it's used.",
+  "source": "@site/docs/flutter/Components/dyte-provider.mdx",
+  "sourceDirName": "Components",
+  "slug": "/Components/dyte-provider",
+  "permalink": "/flutter/Components/dyte-provider",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter/Components/dyte-provider.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DytePollsScreen",
+    "permalink": "/flutter/Components/dyte-polls-screen"
+  },
+  "next": {
+    "title": "DyteSelfAudioToggleButton",
+    "permalink": "/flutter/Components/dyte-self-audio-toggle"
+  }
+}

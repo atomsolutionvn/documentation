@@ -1,0 +1,43 @@
+{
+  "id": "chat/introduction",
+  "title": "Introducing chat",
+  "description": "Get started with Dyte's chat capabilities in iOS Core. Follow our guide for an introduction to chat features in iOS Core.",
+  "source": "@site/docs/ios-core/chat/introduction.mdx",
+  "sourceDirName": "chat",
+  "slug": "/chat/introduction",
+  "permalink": "/ios-core/chat/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/chat/introduction.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "chat",
+      "permalink": "/ios-core/tags/chat"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introducing chat",
+    "description": "Get started with Dyte's chat capabilities in iOS Core. Follow our guide for an introduction to chat features in iOS Core.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "chat"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Room Connection Events",
+    "permalink": "/ios-core/room/room-connection-events"
+  },
+  "next": {
+    "title": "Sending a chat message",
+    "permalink": "/ios-core/chat/sending-a-chat-message"
+  }
+}

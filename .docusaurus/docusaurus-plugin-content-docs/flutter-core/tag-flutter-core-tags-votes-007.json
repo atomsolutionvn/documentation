@@ -1,0 +1,21 @@
+{
+  "label": "votes",
+  "permalink": "/flutter-core/tags/votes",
+  "allTagsPath": "/flutter-core/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "polls/receiving-polls",
+      "title": "Receiving polls",
+      "description": "Understand how users can vote on polls in Flutter with Dyte's features. Follow our documentation for effective implementation in your app.",
+      "permalink": "/flutter-core/polls/receiving-polls"
+    },
+    {
+      "id": "polls/voting-on-a-poll",
+      "title": "Voting on a poll",
+      "description": "Understand how users can vote on polls in Flutter with Dyte's features. Follow our documentation for effective implementation in your app.",
+      "permalink": "/flutter-core/polls/voting-on-a-poll"
+    }
+  ],
+  "unlisted": false
+}

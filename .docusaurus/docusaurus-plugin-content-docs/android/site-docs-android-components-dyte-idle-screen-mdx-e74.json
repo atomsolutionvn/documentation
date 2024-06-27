@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-idle-screen",
+  "title": "DyteLoaderView",
+  "description": "Learn how to use and customize the DyteLoaderView component in Dyte's Android with our detailed documentation.",
+  "source": "@site/docs/android/components/dyte-idle-screen.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-idle-screen",
+  "permalink": "/android/components/dyte-idle-screen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/components/dyte-idle-screen.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-idle-screen.svg",
+    "description": "Learn how to use and customize the DyteLoaderView component in Dyte's Android with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteGridViewV2",
+    "permalink": "/android/components/dyte-grid"
+  },
+  "next": {
+    "title": "DyteJoinStage",
+    "permalink": "/android/components/dyte-join-stage"
+  }
+}

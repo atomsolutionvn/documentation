@@ -1,0 +1,29 @@
+{
+  "id": "chat/prebuilt-screen",
+  "title": "Prebuilt Chat Screen",
+  "description": "Introduction to Chat in Dyte Meetings",
+  "source": "@site/docs/android/chat/prebuilt-screen.mdx",
+  "sourceDirName": "chat",
+  "slug": "/chat/prebuilt-screen",
+  "permalink": "/android/chat/prebuilt-screen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/chat/prebuilt-screen.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Prebuilt Chat Screen"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Building Your Own UI",
+    "permalink": "/android/render-participant-videos/custom-ui"
+  },
+  "next": {
+    "title": "Types",
+    "permalink": "/android/participants/introduction"
+  }
+}

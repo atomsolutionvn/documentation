@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-mixed-grid",
+  "title": "dyte-mixed-grid",
+  "description": "Learn how to use and customize the dyte-mixed-grid component in Dyte's UI Kit with our detailed documentation.",
+  "source": "@site/docs/ui-kit/components/dyte-mixed-grid.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-mixed-grid",
+  "permalink": "/ui-kit/components/dyte-mixed-grid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ui-kit/components/dyte-mixed-grid.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-mixed-grid.svg",
+    "description": "Learn how to use and customize the dyte-mixed-grid component in Dyte's UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dyte-mic-toggle",
+    "permalink": "/ui-kit/components/dyte-mic-toggle"
+  },
+  "next": {
+    "title": "dyte-more-toggle",
+    "permalink": "/ui-kit/components/dyte-more-toggle"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "chat/sending-a-chat-message",
+  "title": "Sending a chat message",
+  "description": "Explore the process of sending a chat message in iOS Core with Dyte Docs. Empower users to communicate effectively within your app.",
+  "source": "@site/docs/ios-core/chat/sending-a-chat-message.mdx",
+  "sourceDirName": "chat",
+  "slug": "/chat/sending-a-chat-message",
+  "permalink": "/ios-core/chat/sending-a-chat-message",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/chat/sending-a-chat-message.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "chat",
+      "permalink": "/ios-core/tags/chat"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Sending a chat message",
+    "description": "Explore the process of sending a chat message in iOS Core with Dyte Docs. Empower users to communicate effectively within your app.",
+    "sidebar_position": 2,
+    "tags": [
+      "mobile-core",
+      "chat"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducing chat",
+    "permalink": "/ios-core/chat/introduction"
+  },
+  "next": {
+    "title": "Receiving chat messages",
+    "permalink": "/ios-core/chat/receiving-chat-messages"
+  }
+}

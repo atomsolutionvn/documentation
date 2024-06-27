@@ -1,0 +1,28 @@
+{
+  "id": "live-video/client-setup/android",
+  "title": "Android",
+  "description": "Learn how to set up the client for live video on Android with Dyte's features. Follow our guide for effective Android client setup.",
+  "source": "@site/docs/guides/live-video/client-setup/android.mdx",
+  "sourceDirName": "live-video/client-setup",
+  "slug": "/live-video/client-setup/android",
+  "permalink": "/guides/live-video/client-setup/android",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/live-video/client-setup/android.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Android",
+    "pagination_prev": null,
+    "pagination_next": "live-video/next-steps",
+    "sidebar_position": 4,
+    "description": "Learn how to set up the client for live video on Android with Dyte's features. Follow our guide for effective Android client setup."
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Next Steps",
+    "permalink": "/guides/live-video/next-steps"
+  }
+}

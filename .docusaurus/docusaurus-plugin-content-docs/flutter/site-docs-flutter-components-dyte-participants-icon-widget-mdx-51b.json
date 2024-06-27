@@ -1,0 +1,25 @@
+{
+  "id": "Components/dyte-participants-icon-widget",
+  "title": "DyteParticipantsIconWidget",
+  "description": "This widget is designed to integrate a participants icon within a Dyte-based Flutter application. It facilitates navigation to the DyteParticipantPage when pressed, serving as a user interface element for accessing the participants list of a Dyte session.",
+  "source": "@site/docs/flutter/Components/dyte-participants-icon-widget.mdx",
+  "sourceDirName": "Components",
+  "slug": "/Components/dyte-participants-icon-widget",
+  "permalink": "/flutter/Components/dyte-participants-icon-widget",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter/Components/dyte-participants-icon-widget.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteParticipantTile",
+    "permalink": "/flutter/Components/dyte-participant-tile"
+  },
+  "next": {
+    "title": "DytePluginsScreen",
+    "permalink": "/flutter/Components/dyte-plugins-screen"
+  }
+}

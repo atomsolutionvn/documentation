@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-menu-item",
+  "title": "DyteMenuItem",
+  "description": "Learn how to use and customize the DyteMenuItem component in Dyte's React UI Kit with our detailed documentation.",
+  "source": "@site/docs/react-ui-kit/components/dyte-menu-item.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-menu-item",
+  "permalink": "/react-ui-kit/components/dyte-menu-item",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/components/dyte-menu-item.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteMenuItem component in Dyte's React UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteMeeting",
+    "permalink": "/react-ui-kit/components/dyte-meeting"
+  },
+  "next": {
+    "title": "DyteMenuList",
+    "permalink": "/react-ui-kit/components/dyte-menu-list"
+  }
+}

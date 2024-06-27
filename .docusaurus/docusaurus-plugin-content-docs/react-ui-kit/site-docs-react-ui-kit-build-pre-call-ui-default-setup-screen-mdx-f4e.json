@@ -1,0 +1,29 @@
+{
+  "id": "build-pre-call-ui/default-setup-screen",
+  "title": "DyteSetupScreen",
+  "description": "Dyte provides a default pre-call preview UI, also known as setup screen as part of our UI components.",
+  "source": "@site/docs/react-ui-kit/build-pre-call-ui/default-setup-screen.mdx",
+  "sourceDirName": "build-pre-call-ui",
+  "slug": "/build-pre-call-ui/default-setup-screen",
+  "permalink": "/react-ui-kit/build-pre-call-ui/default-setup-screen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/build-pre-call-ui/default-setup-screen.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "DyteSetupScreen",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Use Web Core Hooks",
+    "permalink": "/react-ui-kit/using-hooks"
+  },
+  "next": {
+    "title": "Basic structure",
+    "permalink": "/react-ui-kit/build-pre-call-ui/build-your-own/initial-code-skeleton"
+  }
+}

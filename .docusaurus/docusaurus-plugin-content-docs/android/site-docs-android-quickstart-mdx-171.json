@@ -1,0 +1,26 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "Dive into Dyte's Android documentation to integrate video collaboration seamlessly into your Android applications.",
+  "source": "@site/docs/android/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/android/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/",
+    "description": "Dive into Dyte's Android documentation to integrate video collaboration seamlessly into your Android applications."
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Customize your Meeting UI",
+    "permalink": "/android/customize-meeting-ui"
+  }
+}

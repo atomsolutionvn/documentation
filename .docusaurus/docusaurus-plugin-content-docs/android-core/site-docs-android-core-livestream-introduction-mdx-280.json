@@ -1,0 +1,43 @@
+{
+  "id": "livestream/introduction",
+  "title": "Introduction",
+  "description": "Get started with Android Livestreaming through this comprehensive introduction guide in Dyte Docs.",
+  "source": "@site/docs/android-core/livestream/introduction.mdx",
+  "sourceDirName": "livestream",
+  "slug": "/livestream/introduction",
+  "permalink": "/android-core/livestream/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/livestream/introduction.mdx",
+  "tags": [
+    {
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
+    },
+    {
+      "label": "livestream",
+      "permalink": "/android-core/tags/livestream"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Get started with Android Livestreaming through this comprehensive introduction guide in Dyte Docs.",
+    "sidebar_position": 1,
+    "tags": [
+      "android-core",
+      "livestream"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Receiving chat messages",
+    "permalink": "/android-core/chat/receiving-chat-messages"
+  },
+  "next": {
+    "title": "Livestream Objects and Methods",
+    "permalink": "/android-core/livestream/dyte-livestream-object"
+  }
+}

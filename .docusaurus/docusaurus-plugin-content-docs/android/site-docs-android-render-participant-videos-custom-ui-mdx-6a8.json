@@ -1,0 +1,29 @@
+{
+  "id": "render-participant-videos/custom-ui",
+  "title": "Building Your Own UI",
+  "description": "In this guide, we will walk you through building a custom UI to render participant videos using",
+  "source": "@site/docs/android/render-participant-videos/custom-ui.mdx",
+  "sourceDirName": "render-participant-videos",
+  "slug": "/render-participant-videos/custom-ui",
+  "permalink": "/android/render-participant-videos/custom-ui",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/render-participant-videos/custom-ui.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Building Your Own UI",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using DyteGridView",
+    "permalink": "/android/render-participant-videos/using-dytegrid"
+  },
+  "next": {
+    "title": "Prebuilt Chat Screen",
+    "permalink": "/android/chat/prebuilt-screen"
+  }
+}

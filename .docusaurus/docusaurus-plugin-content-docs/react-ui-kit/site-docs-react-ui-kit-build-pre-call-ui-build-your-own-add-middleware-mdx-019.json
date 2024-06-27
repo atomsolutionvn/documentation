@@ -1,0 +1,29 @@
+{
+  "id": "build-pre-call-ui/build-your-own/add-middleware",
+  "title": "Virtual background",
+  "description": "To add a video background changer, we need to do the install an addon first.",
+  "source": "@site/docs/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware.mdx",
+  "sourceDirName": "build-pre-call-ui/build-your-own",
+  "slug": "/build-pre-call-ui/build-your-own/add-middleware",
+  "permalink": "/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Virtual background",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Audio/video - Device Selection",
+    "permalink": "/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-device"
+  },
+  "next": {
+    "title": "Render participant videos",
+    "permalink": "/react-ui-kit/basics/display-videos"
+  }
+}

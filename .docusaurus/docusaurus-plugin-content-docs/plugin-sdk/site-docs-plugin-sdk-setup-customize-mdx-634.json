@@ -1,0 +1,30 @@
+{
+  "id": "setup/customize",
+  "title": "Configure Plugin Properties",
+  "description": "Customize your plugin setup with Dyte Plugin SDK using our detailed guide. Tailor the setup process to match your app's unique requirements.",
+  "source": "@site/docs/plugin-sdk/setup/customize.mdx",
+  "sourceDirName": "setup",
+  "slug": "/setup/customize",
+  "permalink": "/plugin-sdk/setup/customize",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/plugin-sdk/setup/customize.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Configure Plugin Properties",
+    "sidebar_position": 2,
+    "description": "Customize your plugin setup with Dyte Plugin SDK using our detailed guide. Tailor the setup process to match your app's unique requirements."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Plugin",
+    "permalink": "/plugin-sdk/setup/create"
+  },
+  "next": {
+    "title": "Publish your Plugin",
+    "permalink": "/plugin-sdk/setup/publish"
+  }
+}

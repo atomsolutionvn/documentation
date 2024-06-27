@@ -1,0 +1,32 @@
+{
+  "id": "device-emulator/intro",
+  "title": "Introduction",
+  "description": "For a product, integration tests are one of the crucial part that improves quality & stability. For a WebRTC based solution like Dyte, having integration tests that can test multi-user call with Audio/Video on is necessary.",
+  "source": "@site/docs/community-packages/device-emulator/intro.mdx",
+  "sourceDirName": "device-emulator",
+  "slug": "/device-emulator",
+  "permalink": "/community-packages/device-emulator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/community-packages/device-emulator/intro.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/device-emulator",
+    "sidebar_position": 1,
+    "keywords": [
+      "opensource"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Community packages",
+    "permalink": "/community-packages/"
+  },
+  "next": {
+    "title": "Examples",
+    "permalink": "/community-packages/device-emulator/examples"
+  }
+}

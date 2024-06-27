@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-avatar",
+  "title": "DyteAvatar",
+  "description": "Learn how to use and customize the DyteAvatar component in Dyte's React Native UI Kit with our detailed documentation.",
+  "source": "@site/docs/rn-ui-kit/components/dyte-avatar.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-avatar",
+  "permalink": "/react-native/components/dyte-avatar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-ui-kit/components/dyte-avatar.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteAvatar component in Dyte's React Native UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gallery",
+    "permalink": "/react-native/components"
+  },
+  "next": {
+    "title": "DyteButton",
+    "permalink": "/react-native/components/dyte-button"
+  }
+}

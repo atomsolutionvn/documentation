@@ -1,0 +1,43 @@
+{
+  "id": "waitlist-events",
+  "title": "Waitlist Events",
+  "description": "Discover how to handle waitlist events in iOS Core with Dyte Docs. Optimize your app's performance by effectively managing waitlisted users.",
+  "source": "@site/docs/ios-core/waitlist-events.mdx",
+  "sourceDirName": ".",
+  "slug": "/waitlist-events",
+  "permalink": "/ios-core/waitlist-events",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/waitlist-events.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "waitlist",
+      "permalink": "/ios-core/tags/waitlist"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Waitlist Events",
+    "description": "Discover how to handle waitlist events in iOS Core with Dyte Docs. Optimize your app's performance by effectively managing waitlisted users.",
+    "sidebar_position": 10,
+    "tags": [
+      "mobile-core",
+      "waitlist"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Recording",
+    "permalink": "/ios-core/recording"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/ios-core/release-notes"
+  }
+}

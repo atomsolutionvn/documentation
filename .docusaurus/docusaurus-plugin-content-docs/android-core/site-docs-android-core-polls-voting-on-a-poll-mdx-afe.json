@@ -1,0 +1,48 @@
+{
+  "id": "polls/voting-on-a-poll",
+  "title": "Voting on a poll",
+  "description": "Understand the process of voting on polls within your Android app using Dyte's documentation on Polls Voting.",
+  "source": "@site/docs/android-core/polls/voting-on-a-poll.mdx",
+  "sourceDirName": "polls",
+  "slug": "/polls/voting-on-a-poll",
+  "permalink": "/android-core/polls/voting-on-a-poll",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/polls/voting-on-a-poll.mdx",
+  "tags": [
+    {
+      "label": "web-core",
+      "permalink": "/android-core/tags/web-core"
+    },
+    {
+      "label": "polls",
+      "permalink": "/android-core/tags/polls"
+    },
+    {
+      "label": "votes",
+      "permalink": "/android-core/tags/votes"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Voting on a poll",
+    "description": "Understand the process of voting on polls within your Android app using Dyte's documentation on Polls Voting.",
+    "sidebar_position": 3,
+    "tags": [
+      "web-core",
+      "polls",
+      "votes"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating a poll",
+    "permalink": "/android-core/polls/creating-a-poll"
+  },
+  "next": {
+    "title": "Join and Leave Stage using Dyte's group call",
+    "permalink": "/android-core/stage/introduction"
+  }
+}

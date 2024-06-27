@@ -1,0 +1,30 @@
+{
+  "id": "realtime-chat/build-in-app-chat-exp",
+  "title": "Start Building",
+  "description": "Learn how to build an in-app chat experience with Dyte's realtime chat capabilities. Follow our guide for effective in-app chat development.",
+  "source": "@site/docs/guides/realtime-chat/build-in-app-chat-exp.mdx",
+  "sourceDirName": "realtime-chat",
+  "slug": "/realtime-chat/build-in-app-chat-exp",
+  "permalink": "/guides/realtime-chat/build-in-app-chat-exp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/realtime-chat/build-in-app-chat-exp.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Start Building",
+    "sidebar_position": 3,
+    "description": "Learn how to build an in-app chat experience with Dyte's realtime chat capabilities. Follow our guide for effective in-app chat development."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/guides/realtime-chat/intro-chat"
+  },
+  "next": {
+    "title": "Processing - Middlewares",
+    "permalink": "/guides/capabilities/audio/processing"
+  }
+}

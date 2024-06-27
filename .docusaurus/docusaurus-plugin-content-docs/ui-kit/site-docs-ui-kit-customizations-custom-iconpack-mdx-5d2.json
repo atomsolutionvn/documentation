@@ -1,0 +1,28 @@
+{
+  "id": "customizations/custom-iconpack",
+  "title": "Customize Meeting Icons",
+  "description": "Dyte's UI Kit provides all the necessary UI components to allow complete customization of all its UI Kit components. You can customize your meeting icons such as chat, clock, leave meeting, mic on and off, and more.",
+  "source": "@site/docs/ui-kit/customizations/custom-iconpack.mdx",
+  "sourceDirName": "customizations",
+  "slug": "/customizations/custom-iconpack",
+  "permalink": "/ui-kit/customizations/custom-iconpack",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ui-kit/customizations/custom-iconpack.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dyte-viewer-count",
+    "permalink": "/ui-kit/components/dyte-viewer-count"
+  },
+  "next": {
+    "title": "Customize Meeting Locale",
+    "permalink": "/ui-kit/customizations/custom-locale"
+  }
+}

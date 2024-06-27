@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-grid",
+  "title": "DyteGridViewV2",
+  "description": "Learn how to use and customize the DyteGridViewV2 component in Dyte's Android with our detailed documentation.",
+  "source": "@site/docs/android/components/dyte-grid.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-grid",
+  "permalink": "/android/components/dyte-grid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/components/dyte-grid.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-grid.svg",
+    "description": "Learn how to use and customize the DyteGridViewV2 component in Dyte's Android with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteGridPaginatorView",
+    "permalink": "/android/components/dyte-grid-pagination"
+  },
+  "next": {
+    "title": "DyteLoaderView",
+    "permalink": "/android/components/dyte-idle-screen"
+  }
+}

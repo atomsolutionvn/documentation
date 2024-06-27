@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-grid-pagination",
+  "title": "DyteGridPaginatorView",
+  "description": "Learn how to use and customize the DyteGridPaginatorView component in Dyte's Android with our detailed documentation.",
+  "source": "@site/docs/android/components/dyte-grid-pagination.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-grid-pagination",
+  "permalink": "/android/components/dyte-grid-pagination",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/components/dyte-grid-pagination.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-grid-pagination.svg",
+    "description": "Learn how to use and customize the DyteGridPaginatorView component in Dyte's Android with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteControlBarButton",
+    "permalink": "/android/components/dyte-controlbar-button"
+  },
+  "next": {
+    "title": "DyteGridViewV2",
+    "permalink": "/android/components/dyte-grid"
+  }
+}

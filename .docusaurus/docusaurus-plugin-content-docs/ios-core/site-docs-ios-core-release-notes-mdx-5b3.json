@@ -1,0 +1,39 @@
+{
+  "id": "release-notes",
+  "title": "Release Notes",
+  "description": "iOS Core Release Notes",
+  "source": "@site/docs/ios-core/release-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/ios-core/release-notes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/release-notes.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "releasenotes",
+      "permalink": "/ios-core/tags/releasenotes"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 101,
+  "frontMatter": {
+    "title": "Release Notes",
+    "sidebar_position": 101,
+    "sidebar_class_name": "releaseSidebarHeading",
+    "tags": [
+      "mobile-core",
+      "releasenotes"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Waitlist Events",
+    "permalink": "/ios-core/waitlist-events"
+  }
+}

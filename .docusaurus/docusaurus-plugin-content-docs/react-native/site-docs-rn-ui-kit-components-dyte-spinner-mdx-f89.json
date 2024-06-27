@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-spinner",
+  "title": "DyteSpinner",
+  "description": "Learn how to use and customize the DyteSpinner component in Dyte's React Native UI Kit with our detailed documentation.",
+  "source": "@site/docs/rn-ui-kit/components/dyte-spinner.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-spinner",
+  "permalink": "/react-native/components/dyte-spinner",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-ui-kit/components/dyte-spinner.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-spinner.svg",
+    "description": "Learn how to use and customize the DyteSpinner component in Dyte's React Native UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteSimpleGrid",
+    "permalink": "/react-native/components/dyte-simple-grid"
+  },
+  "next": {
+    "title": "DyteSpotlightGrid",
+    "permalink": "/react-native/components/dyte-spotlight-grid"
+  }
+}

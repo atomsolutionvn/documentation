@@ -1,0 +1,15 @@
+{
+  "label": "connection events",
+  "permalink": "/ios-core/tags/connection-events",
+  "allTagsPath": "/ios-core/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "room/room-connection-events",
+      "title": "Room Connection Events",
+      "description": "Explore room connection events in iOS Core with Dyte Docs. Understand how to leverage these events for enhanced user experiences.",
+      "permalink": "/ios-core/room/room-connection-events"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "using-hooks",
+  "title": "Use Web Core Hooks",
+  "description": "Dyte's React UI Kit provides multiple",
+  "source": "@site/docs/react-ui-kit/using-hooks.mdx",
+  "sourceDirName": ".",
+  "slug": "/using-hooks",
+  "permalink": "/react-ui-kit/using-hooks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/using-hooks.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customization Prerequisite",
+    "permalink": "/react-ui-kit/basics/integrate"
+  },
+  "next": {
+    "title": "DyteSetupScreen",
+    "permalink": "/react-ui-kit/build-pre-call-ui/default-setup-screen"
+  }
+}

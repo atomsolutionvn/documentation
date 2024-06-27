@@ -1,0 +1,48 @@
+{
+  "id": "participants/introduction",
+  "title": "Introduction",
+  "description": "Learn about participants in Flutter and how to integrate participant features with Dyte's documentation. Follow our guide for a smooth introduction.",
+  "source": "@site/docs/flutter-core/participants/introduction.mdx",
+  "sourceDirName": "participants",
+  "slug": "/participants/introduction",
+  "permalink": "/flutter-core/participants/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/participants/introduction.mdx",
+  "tags": [
+    {
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "label": "participants",
+      "permalink": "/flutter-core/tags/participants"
+    },
+    {
+      "label": "participant",
+      "permalink": "/flutter-core/tags/participant"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Learn about participants in Flutter and how to integrate participant features with Dyte's documentation. Follow our guide for a smooth introduction.",
+    "sidebar_position": 1,
+    "tags": [
+      "flutter-core",
+      "participants",
+      "participant"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Room Metadata",
+    "permalink": "/flutter-core/room-metadata"
+  },
+  "next": {
+    "title": "Participant object",
+    "permalink": "/flutter-core/participants/participant-object"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Components/dyte-leave-meeting-dialog",
+  "title": "DyteLeaveMeetingDialog",
+  "description": "A dialog widget designed for confirming the action of leaving a Dyte meeting. This widget is part of the Dyte UI Kit and is intended to provide a clear and concise user interface for confirming the exit process from a meeting environment.",
+  "source": "@site/docs/flutter/Components/dyte-leave-meeting-dialog.mdx",
+  "sourceDirName": "Components",
+  "slug": "/Components/dyte-leave-meeting-dialog",
+  "permalink": "/flutter/Components/dyte-leave-meeting-dialog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter/Components/dyte-leave-meeting-dialog.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteLeaveButton",
+    "permalink": "/flutter/Components/dyte-leave-button"
+  },
+  "next": {
+    "title": "DyteMeetingTitle",
+    "permalink": "/flutter/Components/dyte-meeting-title"
+  }
+}

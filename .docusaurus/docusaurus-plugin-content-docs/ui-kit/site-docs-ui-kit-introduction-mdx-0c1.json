@@ -1,0 +1,26 @@
+{
+  "id": "introduction",
+  "title": "Introduction",
+  "description": "Dyte's UI Kit is a prebuilt design library of UI components that makes it easy",
+  "source": "@site/docs/ui-kit/introduction.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/ui-kit/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ui-kit/introduction.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/",
+    "image": "/static/ui-kit/1.x.x/ui-kit-cover.jpg"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/ui-kit/quickstart"
+  }
+}

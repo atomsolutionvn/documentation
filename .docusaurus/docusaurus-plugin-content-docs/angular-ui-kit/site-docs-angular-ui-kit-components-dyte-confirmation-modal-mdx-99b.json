@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-confirmation-modal",
+  "title": "dyte-confirmation-modal",
+  "description": "Learn how to use and customize the dyte-confirmation-modal component in Dyte's Angular UI Kit with our detailed documentation.",
+  "source": "@site/docs/angular-ui-kit/components/dyte-confirmation-modal.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-confirmation-modal",
+  "permalink": "/angular-ui-kit/components/dyte-confirmation-modal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/angular-ui-kit/components/dyte-confirmation-modal.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the dyte-confirmation-modal component in Dyte's Angular UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dyte-clock",
+    "permalink": "/angular-ui-kit/components/dyte-clock"
+  },
+  "next": {
+    "title": "dyte-controlbar-button",
+    "permalink": "/angular-ui-kit/components/dyte-controlbar-button"
+  }
+}

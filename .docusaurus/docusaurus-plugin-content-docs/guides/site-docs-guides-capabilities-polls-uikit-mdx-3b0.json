@@ -1,0 +1,25 @@
+{
+  "id": "capabilities/polls/uikit",
+  "title": "UIKit components for Polls",
+  "description": "Using Dyte's UIKit you can simplify the process of adding polls in your meetings!",
+  "source": "@site/docs/guides/capabilities/polls/uikit.mdx",
+  "sourceDirName": "capabilities/polls",
+  "slug": "/capabilities/polls/uikit",
+  "permalink": "/guides/capabilities/polls/uikit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/capabilities/polls/uikit.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting started with Polls",
+    "permalink": "/guides/capabilities/polls/getting_started"
+  },
+  "next": {
+    "title": "Introduction to Dyte's Webinar",
+    "permalink": "/guides/capabilities/webinar/intro-webinar"
+  }
+}

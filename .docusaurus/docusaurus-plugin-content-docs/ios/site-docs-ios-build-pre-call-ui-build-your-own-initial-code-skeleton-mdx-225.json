@@ -1,0 +1,29 @@
+{
+  "id": "build-pre-call-ui/build-your-own/initial-code-skeleton",
+  "title": "Basic structure",
+  "description": "What are we building?",
+  "source": "@site/docs/ios/build-pre-call-ui/build-your-own/initial-code-skeleton.mdx",
+  "sourceDirName": "build-pre-call-ui/build-your-own",
+  "slug": "/build-pre-call-ui/build-your-own/initial-code-skeleton",
+  "permalink": "/ios/build-pre-call-ui/build-your-own/initial-code-skeleton",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/build-pre-call-ui/build-your-own/initial-code-skeleton.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Basic structure",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteSetupScreen",
+    "permalink": "/ios/build-pre-call-ui/default-setup-screen"
+  },
+  "next": {
+    "title": "Setting Screen",
+    "permalink": "/ios/build-pre-call-ui/build-your-own/dyte-setting"
+  }
+}

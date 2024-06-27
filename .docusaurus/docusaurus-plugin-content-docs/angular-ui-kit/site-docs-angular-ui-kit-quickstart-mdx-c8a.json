@@ -1,0 +1,29 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "Get started quickly with Dyte's Angular UI Kit by following our step-by-step Quickstart guide.",
+  "source": "@site/docs/angular-ui-kit/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/angular-ui-kit/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/angular-ui-kit/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "description": "Get started quickly with Dyte's Angular UI Kit by following our step-by-step Quickstart guide."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/angular-ui-kit/"
+  },
+  "next": {
+    "title": "Design System",
+    "permalink": "/angular-ui-kit/design-system"
+  }
+}

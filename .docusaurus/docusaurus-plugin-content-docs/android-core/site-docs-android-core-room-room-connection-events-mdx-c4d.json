@@ -1,0 +1,53 @@
+{
+  "id": "room/room-connection-events",
+  "title": "Room Connection Events",
+  "description": "Understand and handle room connection events in Android with Dyte's comprehensive documentation.",
+  "source": "@site/docs/android-core/room/room-connection-events.mdx",
+  "sourceDirName": "room",
+  "slug": "/room/room-connection-events",
+  "permalink": "/android-core/room/room-connection-events",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/room/room-connection-events.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/android-core/tags/mobile-core"
+    },
+    {
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
+    },
+    {
+      "label": "connection events",
+      "permalink": "/android-core/tags/connection-events"
+    },
+    {
+      "label": "reconnection",
+      "permalink": "/android-core/tags/reconnection"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Room Connection Events",
+    "description": "Understand and handle room connection events in Android with Dyte's comprehensive documentation.",
+    "sidebar_position": 2,
+    "tags": [
+      "mobile-core",
+      "android-core",
+      "connection events",
+      "reconnection"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Room Metadata",
+    "permalink": "/android-core/room/room-metadata"
+  },
+  "next": {
+    "title": "Introducing chat",
+    "permalink": "/android-core/chat/introduction"
+  }
+}

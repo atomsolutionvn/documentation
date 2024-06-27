@@ -1,0 +1,30 @@
+{
+  "id": "migration/twilio/feature-comparison",
+  "title": "🧮 Compatibility Matrix",
+  "description": "Features",
+  "source": "@site/docs/guides/migration/twilio/feature-comparison.mdx",
+  "sourceDirName": "migration/twilio",
+  "slug": "/migration/twilio/feature-comparison",
+  "permalink": "/guides/migration/twilio/feature-comparison",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/guides/migration/twilio/feature-comparison.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "🧮 Compatibility Matrix",
+    "wrapperClassName": "test2",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🏗️ Misc",
+    "permalink": "/guides/migration/twilio/misc"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/guides/migration/twilio/twilio-shim-by-dyte"
+  }
+}

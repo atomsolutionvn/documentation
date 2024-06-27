@@ -1,0 +1,43 @@
+{
+  "id": "chat/sending-a-chat-message",
+  "title": "Sending a chat message",
+  "description": "Learn how to send chat messages in your Flutter app with Dyte's features. Follow our documentation for seamless implementation.",
+  "source": "@site/docs/flutter-core/chat/sending-a-chat-message.mdx",
+  "sourceDirName": "chat",
+  "slug": "/chat/sending-a-chat-message",
+  "permalink": "/flutter-core/chat/sending-a-chat-message",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/flutter-core/chat/sending-a-chat-message.mdx",
+  "tags": [
+    {
+      "label": "flutter-core",
+      "permalink": "/flutter-core/tags/flutter-core"
+    },
+    {
+      "label": "chat",
+      "permalink": "/flutter-core/tags/chat"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Sending a chat message",
+    "description": "Learn how to send chat messages in your Flutter app with Dyte's features. Follow our documentation for seamless implementation.",
+    "sidebar_position": 2,
+    "tags": [
+      "flutter-core",
+      "chat"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducing chat",
+    "permalink": "/flutter-core/chat/introduction"
+  },
+  "next": {
+    "title": "Receiving chat messages",
+    "permalink": "/flutter-core/chat/receiving-chat-messages"
+  }
+}

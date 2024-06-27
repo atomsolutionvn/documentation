@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-mic-toggle",
+  "title": "DyteMicToggleButton",
+  "description": "Learn how to use and customize the DyteMicToggleButton component in Dyte's Android with our detailed documentation.",
+  "source": "@site/docs/android/components/dyte-mic-toggle.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-mic-toggle",
+  "permalink": "/android/components/dyte-mic-toggle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/components/dyte-mic-toggle.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteMicToggleButton component in Dyte's Android with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteUIKit",
+    "permalink": "/android/components/dyte-meeting"
+  },
+  "next": {
+    "title": "DyteMoreToggleButton",
+    "permalink": "/android/components/dyte-more-toggle"
+  }
+}

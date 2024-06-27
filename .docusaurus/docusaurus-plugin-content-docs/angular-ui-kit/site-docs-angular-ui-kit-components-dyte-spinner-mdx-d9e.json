@@ -1,0 +1,28 @@
+{
+  "id": "components/dyte-spinner",
+  "title": "dyte-spinner",
+  "description": "Learn how to use and customize the dyte-spinner component in Dyte's Angular UI Kit with our detailed documentation.",
+  "source": "@site/docs/angular-ui-kit/components/dyte-spinner.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-spinner",
+  "permalink": "/angular-ui-kit/components/dyte-spinner",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/angular-ui-kit/components/dyte-spinner.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "image": "/static/ui-kit/1.x.x/components/dyte-spinner.svg",
+    "description": "Learn how to use and customize the dyte-spinner component in Dyte's Angular UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dyte-simple-grid",
+    "permalink": "/angular-ui-kit/components/dyte-simple-grid"
+  },
+  "next": {
+    "title": "dyte-spotlight-grid",
+    "permalink": "/angular-ui-kit/components/dyte-spotlight-grid"
+  }
+}

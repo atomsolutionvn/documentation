@@ -1,0 +1,43 @@
+{
+  "id": "polls/introduction",
+  "title": "Introduction",
+  "description": "Learn the fundamentals of integrating polls into your Android application with Dyte's Polls Introduction guide.",
+  "source": "@site/docs/android-core/polls/introduction.mdx",
+  "sourceDirName": "polls",
+  "slug": "/polls/introduction",
+  "permalink": "/android-core/polls/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/polls/introduction.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/android-core/tags/mobile-core"
+    },
+    {
+      "label": "polls",
+      "permalink": "/android-core/tags/polls"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Learn the fundamentals of integrating polls into your Android application with Dyte's Polls Introduction guide.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "polls"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Livestream Event Listeners",
+    "permalink": "/android-core/livestream/dyte-livestream-listener"
+  },
+  "next": {
+    "title": "Creating a poll",
+    "permalink": "/android-core/polls/creating-a-poll"
+  }
+}

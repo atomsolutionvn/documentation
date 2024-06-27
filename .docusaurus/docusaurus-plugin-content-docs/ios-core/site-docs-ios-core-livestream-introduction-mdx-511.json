@@ -1,0 +1,43 @@
+{
+  "id": "livestream/introduction",
+  "title": "Introduction",
+  "description": "Get introduced to the livestream feature in iOS Core with Dyte Docs. Explore the features and benefits of integrating livestreaming into your app.",
+  "source": "@site/docs/ios-core/livestream/introduction.mdx",
+  "sourceDirName": "livestream",
+  "slug": "/livestream/introduction",
+  "permalink": "/ios-core/livestream/introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/livestream/introduction.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "livestream",
+      "permalink": "/ios-core/tags/livestream"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "description": "Get introduced to the livestream feature in iOS Core with Dyte Docs. Explore the features and benefits of integrating livestreaming into your app.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "livestream"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Receiving chat messages",
+    "permalink": "/ios-core/chat/receiving-chat-messages"
+  },
+  "next": {
+    "title": "Livestream objects & methods",
+    "permalink": "/ios-core/livestream/dyte-livestream-object"
+  }
+}

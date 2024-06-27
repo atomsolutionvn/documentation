@@ -1,0 +1,27 @@
+{
+  "id": "components/dyte-icon",
+  "title": "DyteIcon",
+  "description": "Learn how to use and customize the DyteIcon component in Dyte's React UI Kit with our detailed documentation.",
+  "source": "@site/docs/react-ui-kit/components/dyte-icon.mdx",
+  "sourceDirName": "components",
+  "slug": "/components/dyte-icon",
+  "permalink": "/react-ui-kit/components/dyte-icon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/components/dyte-icon.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {
+    "description": "Learn how to use and customize the DyteIcon component in Dyte's React UI Kit with our detailed documentation."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DyteHeader",
+    "permalink": "/react-ui-kit/components/dyte-header"
+  },
+  "next": {
+    "title": "DyteIdleScreen",
+    "permalink": "/react-ui-kit/components/dyte-idle-screen"
+  }
+}

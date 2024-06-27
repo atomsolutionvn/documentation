@@ -1,0 +1,29 @@
+{
+  "id": "polls/prebuilt-polls-screen",
+  "title": "Prebuilt Polls Screen",
+  "description": "Introduction to Polls in Dyte Meetings",
+  "source": "@site/docs/android/polls/prebuilt-polls-screen.mdx",
+  "sourceDirName": "polls",
+  "slug": "/polls/prebuilt-polls-screen",
+  "permalink": "/android/polls/prebuilt-polls-screen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android/polls/prebuilt-polls-screen.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Prebuilt Polls Screen"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prebuilt",
+    "permalink": "/android/plugins/prebuilt"
+  },
+  "next": {
+    "title": "Prebuilt Create Poll Screen",
+    "permalink": "/android/polls/prebuilt-create-poll"
+  }
+}

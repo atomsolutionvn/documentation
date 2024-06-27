@@ -1,0 +1,15 @@
+{
+  "label": "reconnection",
+  "permalink": "/android-core/tags/reconnection",
+  "allTagsPath": "/android-core/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "room/room-connection-events",
+      "title": "Room Connection Events",
+      "description": "Understand and handle room connection events in Android with Dyte's comprehensive documentation.",
+      "permalink": "/android-core/room/room-connection-events"
+    }
+  ],
+  "unlisted": false
+}

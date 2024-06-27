@@ -1,0 +1,40 @@
+{
+  "id": "quickstart",
+  "title": "Quickstart",
+  "description": "Dive into Dyte's core documentation for iOS. Follow our guide for comprehensive understanding and effective iOS core development.",
+  "source": "@site/docs/ios-core/quickstart.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/ios-core/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/quickstart.mdx",
+  "tags": [
+    {
+      "label": "mobile-core",
+      "permalink": "/ios-core/tags/mobile-core"
+    },
+    {
+      "label": "quickstart",
+      "permalink": "/ios-core/tags/quickstart"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Quickstart",
+    "description": "Dive into Dyte's core documentation for iOS. Follow our guide for comprehensive understanding and effective iOS core development.",
+    "sidebar_position": 1,
+    "tags": [
+      "mobile-core",
+      "quickstart"
+    ],
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/ios-core/local-user/introduction"
+  }
+}
