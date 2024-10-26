@@ -11,7 +11,8 @@
   "editUrl": null,
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "frontMatter": {
     "id": "DyteNotificationsAudio",
     "title": "Class: DyteNotificationsAudio",

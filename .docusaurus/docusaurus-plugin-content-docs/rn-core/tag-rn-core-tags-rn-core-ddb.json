@@ -23,6 +23,12 @@
       "permalink": "/rn-core/local-user/events"
     },
     {
+      "id": "participants/events",
+      "title": "Events",
+      "description": "Event handling for participants.",
+      "permalink": "/rn-core/participants/events"
+    },
+    {
       "id": "plugins/disable-plugin",
       "title": "Functions to disable plugins",
       "description": "Methods on a plugin in a meeting.",
@@ -101,16 +107,10 @@
       "permalink": "/rn-core/polls/other-poll-functions"
     },
     {
-      "id": "participants/events",
-      "title": "Participant Events",
-      "description": "Event handling for participants.",
-      "permalink": "/rn-core/participants/events"
-    },
-    {
-      "id": "participants/participants",
-      "title": "Participants",
-      "description": "Events, methods and data pertaining to meeting participants.",
-      "permalink": "/rn-core/participants/"
+      "id": "participants/participant-object",
+      "title": "Participant Object",
+      "description": "The object corresponding to a particular participant.",
+      "permalink": "/rn-core/participants/participant-object"
     },
     {
       "id": "quickstart",
@@ -131,6 +131,12 @@
       "permalink": "/rn-core/recording"
     },
     {
+      "id": "release-notes",
+      "title": "Release Notes",
+      "description": "React Native Core Release Notes",
+      "permalink": "/rn-core/release-notes"
+    },
+    {
       "id": "room-metadata",
       "title": "Room Metadata",
       "description": "All metadata pertaining to a meeting.",
@@ -141,12 +147,6 @@
       "title": "Sending a chat message",
       "description": "Send a chat message in a meeting.",
       "permalink": "/rn-core/chat/sending-a-chat-message"
-    },
-    {
-      "id": "participants/participant-object",
-      "title": "The participant object",
-      "description": "The object corresponding to a particular participant.",
-      "permalink": "/rn-core/participants/participant-object"
     },
     {
       "id": "polls/voting-on-a-poll",

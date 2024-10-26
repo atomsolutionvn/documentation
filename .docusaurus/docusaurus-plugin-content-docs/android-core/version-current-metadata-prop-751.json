@@ -18,6 +18,51 @@
       },
       {
         "type": "category",
+        "label": "Pre-call",
+        "collapsible": true,
+        "collapsed": true,
+        "className": "pre-call-docs",
+        "items": [
+          {
+            "type": "link",
+            "label": "Media Preview",
+            "href": "/android-core/pre-call/media-preview",
+            "docId": "pre-call/media-preview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Handling Device Permissions",
+            "href": "/android-core/pre-call/handling-permissions",
+            "docId": "pre-call/handling-permissions",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Meeting Metadata",
+            "href": "/android-core/pre-call/meeting-meta",
+            "docId": "pre-call/meeting-meta",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Waiting Room",
+            "href": "/android-core/pre-call/waiting-room",
+            "docId": "pre-call/waiting-room",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/android-core/Introduction",
+        "className": "module-seperation",
+        "docId": "Introduction",
+        "unlisted": false
+      },
+      {
+        "type": "category",
         "label": "Local User",
         "collapsible": true,
         "collapsed": true,
@@ -54,20 +99,20 @@
       },
       {
         "type": "category",
-        "label": "Participants",
+        "label": "Remote Participants",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Introduction",
-            "href": "/android-core/participants/introduction",
-            "docId": "participants/introduction",
+            "label": "Participant Types",
+            "href": "/android-core/participants/",
+            "docId": "participants/remote-participants",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "The participant object",
+            "label": "Participant Object",
             "href": "/android-core/participants/participant-object",
             "docId": "participants/participant-object",
             "unlisted": false
@@ -78,27 +123,12 @@
             "href": "/android-core/participants/events",
             "docId": "participants/events",
             "unlisted": false
-          }
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Room",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Room Metadata",
-            "href": "/android-core/room/room-metadata",
-            "docId": "room/room-metadata",
-            "unlisted": false
           },
           {
             "type": "link",
-            "label": "Room Connection Events",
-            "href": "/android-core/room/room-connection-events",
-            "docId": "room/room-connection-events",
+            "label": "Waitlisted Participants",
+            "href": "/android-core/participants/waitlisted-participants",
+            "docId": "participants/waitlisted-participants",
             "unlisted": false
           }
         ]
@@ -128,6 +158,71 @@
             "label": "Receiving chat messages",
             "href": "/android-core/chat/receiving-chat-messages",
             "docId": "chat/receiving-chat-messages",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Plugins",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/android-core/plugins/introduction",
+            "docId": "plugins/introduction",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Functions to enable plugins",
+            "href": "/android-core/plugins/enable-disable-plugin",
+            "docId": "plugins/enable-disable-plugin",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Other methods",
+            "href": "/android-core/plugins/extra",
+            "docId": "plugins/extra",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Recording",
+        "href": "/android-core/recording",
+        "docId": "recording",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Stage Management",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/android-core/stage-management/introduction",
+            "docId": "stage-management/introduction",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Stage Host Controls",
+            "href": "/android-core/stage-management/host-controls",
+            "docId": "stage-management/host-controls",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Stage Access for Viewers",
+            "href": "/android-core/stage-management/viewer-participants",
+            "docId": "stage-management/viewer-participants",
             "unlisted": false
           }
         ]
@@ -191,39 +286,17 @@
         ]
       },
       {
-        "type": "category",
-        "label": "Stage",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Join and Leave Stage using Dyte's group call",
-            "href": "/android-core/stage/introduction",
-            "docId": "stage/introduction",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Manage Stage in Dyte's Group Call Meeting",
-            "href": "/android-core/stage/stage-management",
-            "docId": "stage/stage-management",
-            "unlisted": false
-          }
-        ]
-      },
-      {
         "type": "link",
-        "label": "Plugins",
-        "href": "/android-core/plugins",
-        "docId": "plugins",
+        "label": "Room Metadata",
+        "href": "/android-core/room-metadata",
+        "docId": "room-metadata",
         "unlisted": false
       },
       {
         "type": "link",
-        "label": "Recording",
-        "href": "/android-core/recording",
-        "docId": "recording",
+        "label": "System Error Codes",
+        "href": "/android-core/error-codes",
+        "docId": "error-codes",
         "unlisted": false
       },
       {
@@ -253,6 +326,18 @@
       "id": "chat/sending-a-chat-message",
       "title": "Sending a chat message",
       "description": "\"Master the process of sending chat messages within your Android application with Dyte",
+      "sidebar": "tutorialSidebar"
+    },
+    "error-codes": {
+      "id": "error-codes",
+      "title": "System Error Codes",
+      "description": "This information is intended for developers debugging or troubleshooting Dyte's mobile core system errors.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Introduction": {
+      "id": "Introduction",
+      "title": "Introduction",
+      "description": "The Dyte Core SDK is designed to provide you with an easy way to incorporate live video, voice, livestream and chat capabilities",
       "sidebar": "tutorialSidebar"
     },
     "livestream/dyte-livestream-listener": {
@@ -303,22 +388,40 @@
       "description": "Dive into the details of handling participant events in your Android application using Dyte's comprehensive documentation.",
       "sidebar": "tutorialSidebar"
     },
-    "participants/introduction": {
-      "id": "participants/introduction",
-      "title": "Introduction",
-      "description": "Get started with participants integration in Android apps with this introductory guide from Dyte documentation.",
-      "sidebar": "tutorialSidebar"
-    },
     "participants/participant-object": {
       "id": "participants/participant-object",
-      "title": "The participant object",
-      "description": "Explore the Android Participants Participant Object and its functionalities for effective integration in your application.",
+      "title": "Participant Object",
+      "description": "The object corresponding to a particular participant.",
       "sidebar": "tutorialSidebar"
     },
-    "plugins": {
-      "id": "plugins",
-      "title": "Plugins",
-      "description": "Enhance your Android application with Dyte Plugins - comprehensive documentation for seamless integration and customization.",
+    "participants/remote-participants": {
+      "id": "participants/remote-participants",
+      "title": "Participant Types",
+      "description": "Events, methods and data pertaining to meeting participants.",
+      "sidebar": "tutorialSidebar"
+    },
+    "participants/waitlisted-participants": {
+      "id": "participants/waitlisted-participants",
+      "title": "Waitlisted Participants",
+      "description": "Events, methods and data to manage waiting room participants.",
+      "sidebar": "tutorialSidebar"
+    },
+    "plugins/enable-disable-plugin": {
+      "id": "plugins/enable-disable-plugin",
+      "title": "Functions to enable plugins",
+      "description": "Methods on a plugin in a meeting.",
+      "sidebar": "tutorialSidebar"
+    },
+    "plugins/extra": {
+      "id": "plugins/extra",
+      "title": "Other methods",
+      "description": "Methods on a plugin in a meeting.",
+      "sidebar": "tutorialSidebar"
+    },
+    "plugins/introduction": {
+      "id": "plugins/introduction",
+      "title": "Introduction",
+      "description": "Manage plugins in a meeting.",
       "sidebar": "tutorialSidebar"
     },
     "polls/creating-a-poll": {
@@ -339,16 +442,40 @@
       "description": "Understand the process of voting on polls within your Android app using Dyte's documentation on Polls Voting.",
       "sidebar": "tutorialSidebar"
     },
+    "pre-call/handling-permissions": {
+      "id": "pre-call/handling-permissions",
+      "title": "Handling Device Permissions",
+      "description": "Before allowing users to interact with their camera and microphone, it's important to check if the necessary permissions are",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/media-preview": {
+      "id": "pre-call/media-preview",
+      "title": "Media Preview",
+      "description": "Before joining a meeting, users may want to preview and configure their media devices like camera, microphone, and audio output.",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/meeting-meta": {
+      "id": "pre-call/meeting-meta",
+      "title": "Meeting Metadata",
+      "description": "Change the name of the user",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/waiting-room": {
+      "id": "pre-call/waiting-room",
+      "title": "Waiting Room",
+      "description": "When you call meeting.joinRoom(), the user either enters the meeting room directly if allowed, or they are placed in the waiting room",
+      "sidebar": "tutorialSidebar"
+    },
     "quickstart": {
       "id": "quickstart",
       "title": "Quickstart",
-      "description": "\"Explore Dyte's Android Core documentation",
+      "description": "This quickstart shows how to use Dyte's core SDKs to add live video and audio to",
       "sidebar": "tutorialSidebar"
     },
     "recording": {
       "id": "recording",
       "title": "Recording",
-      "description": "Explore the documentation on Android Recording in Dyte Docs.",
+      "description": "Control recordings in a meeting.",
       "sidebar": "tutorialSidebar"
     },
     "release-notes": {
@@ -357,28 +484,28 @@
       "description": "Android Core Release Notes",
       "sidebar": "tutorialSidebar"
     },
-    "room/room-connection-events": {
-      "id": "room/room-connection-events",
-      "title": "Room Connection Events",
-      "description": "Understand and handle room connection events in Android with Dyte's comprehensive documentation.",
-      "sidebar": "tutorialSidebar"
-    },
-    "room/room-metadata": {
-      "id": "room/room-metadata",
+    "room-metadata": {
+      "id": "room-metadata",
       "title": "Room Metadata",
-      "description": "Learn about managing room metadata in your Android application using Dyte Docs.",
+      "description": "All metadata pertaining to a meeting.",
       "sidebar": "tutorialSidebar"
     },
-    "stage/introduction": {
-      "id": "stage/introduction",
-      "title": "Join and Leave Stage using Dyte's group call",
-      "description": "Get started with the introduction to the stage feature in Dyte's Android documentation.",
+    "stage-management/host-controls": {
+      "id": "stage-management/host-controls",
+      "title": "Stage Host Controls",
+      "description": "Stage management APIs for Host in Dyte meetings.",
       "sidebar": "tutorialSidebar"
     },
-    "stage/stage-management": {
-      "id": "stage/stage-management",
-      "title": "Manage Stage in Dyte's Group Call Meeting",
-      "description": "Effectively manage the stage in your Android application with Dyte's documentation on stage management.",
+    "stage-management/introduction": {
+      "id": "stage-management/introduction",
+      "title": "Introduction",
+      "description": "Stage management in Dyte meetings.",
+      "sidebar": "tutorialSidebar"
+    },
+    "stage-management/viewer-participants": {
+      "id": "stage-management/viewer-participants",
+      "title": "Stage Access for Viewers",
+      "description": "Stage APIs for Viewers in Dyte meetings.",
       "sidebar": "tutorialSidebar"
     }
   }

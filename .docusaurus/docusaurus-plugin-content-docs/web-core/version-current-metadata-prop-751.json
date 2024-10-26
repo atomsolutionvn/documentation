@@ -11,13 +11,6 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Introduction",
-        "href": "/web-core/Introduction",
-        "docId": "Introduction",
-        "unlisted": false
-      },
-      {
-        "type": "link",
         "label": "Quickstart",
         "href": "/web-core/",
         "docId": "quickstart",
@@ -68,11 +61,18 @@
         ]
       },
       {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/web-core/Introduction",
+        "className": "module-seperation",
+        "docId": "Introduction",
+        "unlisted": false
+      },
+      {
         "type": "category",
         "label": "Initialization",
         "collapsible": true,
         "collapsed": true,
-        "className": "top-border",
         "items": [
           {
             "type": "link",
@@ -339,6 +339,7 @@
         "label": "Reference",
         "collapsible": true,
         "collapsed": true,
+        "className": "releaseSidebarHeading",
         "items": [
           {
             "type": "link",
@@ -363,16 +364,16 @@
           },
           {
             "type": "link",
-            "label": "DyteParticipant",
-            "href": "/web-core/reference/DyteParticipant",
-            "docId": "reference/DyteParticipant",
+            "label": "DyteParticipantMap",
+            "href": "/web-core/reference/DyteParticipantMap",
+            "docId": "reference/DyteParticipantMap",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "DyteParticipantMap",
-            "href": "/web-core/reference/DyteParticipantMap",
-            "docId": "reference/DyteParticipantMap",
+            "label": "DyteParticipant",
+            "href": "/web-core/reference/DyteParticipant",
+            "docId": "reference/DyteParticipant",
             "unlisted": false
           },
           {
@@ -426,13 +427,6 @@
           },
           {
             "type": "link",
-            "label": "DyteAi",
-            "href": "/web-core/reference/DyteAi",
-            "docId": "reference/DyteAi",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "DytePluginMap",
             "href": "/web-core/reference/DytePluginMap",
             "docId": "reference/DytePluginMap",
@@ -461,9 +455,23 @@
           },
           {
             "type": "link",
+            "label": "DyteAi",
+            "href": "/web-core/reference/DyteAi",
+            "docId": "reference/DyteAi",
+            "unlisted": false
+          },
+          {
+            "type": "link",
             "label": "DyteRemote",
             "href": "/web-core/reference/DyteRemote",
             "docId": "reference/DyteRemote",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "DyteConnectedMeetings",
+            "href": "/web-core/reference/DyteConnectedMeetings",
+            "docId": "reference/DyteConnectedMeetings",
             "unlisted": false
           },
           {
@@ -479,7 +487,6 @@
         "type": "link",
         "label": "Release Notes",
         "href": "/web-core/release-notes",
-        "className": "releaseSidebarHeading",
         "docId": "release-notes",
         "unlisted": false
       }
@@ -699,7 +706,7 @@
     "reference/DyteAi": {
       "id": "reference/DyteAi",
       "title": "DyteAi",
-      "description": "(Beta - API not stable)",
+      "description": "This module consists of the ai object which is used to interface with Dyte's AI features.",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteChat": {
@@ -712,6 +719,12 @@
       "id": "reference/DyteClient",
       "title": "DyteClient",
       "description": "The DyteClient class is the main class of the web core library.",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/DyteConnectedMeetings": {
+      "id": "reference/DyteConnectedMeetings",
+      "title": "DyteConnectedMeetings",
+      "description": "This consists of the methods to faciliate connected meetings",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteLivestream": {
@@ -735,7 +748,7 @@
     "reference/DyteParticipantMap": {
       "id": "reference/DyteParticipantMap",
       "title": "DyteParticipantMap",
-      "description": "This is a map of participants, indexed by participant.id (a participant's peer ID).",
+      "description": "The following objects are DyteParticipantMap objects",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteParticipants": {
@@ -801,7 +814,7 @@
     "reference/DyteStage": {
       "id": "reference/DyteStage",
       "title": "DyteStage",
-      "description": "The DyteStage module represents a class to manage the Stage of the meeting",
+      "description": "The DyteStage module represents a class to mange the Stage of the meeting",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteThemePreset": {

@@ -11,7 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/angular-ui-kit/components/dyte-settings.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "frontMatter": {
     "image": "/static/ui-kit/1.x.x/components/dyte-settings.svg",
     "description": "Learn how to use and customize the dyte-settings component in Dyte's Angular UI Kit with our detailed documentation."

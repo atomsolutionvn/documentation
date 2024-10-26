@@ -11,15 +11,21 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-web-core/introduction.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
-  "sidebarPosition": 1,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
   "frontMatter": {
     "title": "Introduction",
-    "sidebar_position": 1
+    "sidebar_position": 3,
+    "sidebar_class_name": "module-seperation"
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Waiting Room",
+    "permalink": "/react-web-core/pre-call/waiting-room"
+  },
   "next": {
-    "title": "Quickstart",
-    "permalink": "/react-web-core/"
+    "title": "Advance",
+    "permalink": "/react-web-core/advanced/advance"
   }
 }

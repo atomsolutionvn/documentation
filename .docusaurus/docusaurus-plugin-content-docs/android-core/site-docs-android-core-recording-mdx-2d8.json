@@ -1,7 +1,7 @@
 {
   "id": "recording",
   "title": "Recording",
-  "description": "Explore the documentation on Android Recording in Dyte Docs.",
+  "description": "Control recordings in a meeting.",
   "source": "@site/docs/android-core/recording.mdx",
   "sourceDirName": ".",
   "slug": "/recording",
@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/recording.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/android-core/tags/mobile-core"
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
     },
     {
       "label": "recording",
@@ -20,24 +20,25 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
-  "sidebarPosition": 10,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 9,
   "frontMatter": {
     "title": "Recording",
-    "description": "Explore the documentation on Android Recording in Dyte Docs.",
-    "sidebar_position": 10,
+    "description": "Control recordings in a meeting.",
+    "sidebar_position": 9,
     "tags": [
-      "mobile-core",
+      "android-core",
       "recording"
     ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Plugins",
-    "permalink": "/android-core/plugins"
+    "title": "Other methods",
+    "permalink": "/android-core/plugins/extra"
   },
   "next": {
-    "title": "Release Notes",
-    "permalink": "/android-core/release-notes"
+    "title": "Introduction",
+    "permalink": "/android-core/stage-management/introduction"
   }
 }

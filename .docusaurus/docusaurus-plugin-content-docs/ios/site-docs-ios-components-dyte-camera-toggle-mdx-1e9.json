@@ -11,7 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios/components/dyte-camera-toggle.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "frontMatter": {
     "description": "Learn how to use and customize the DyteSwitchCameraButtonControlBar component in Dyte's iOS UiKit with our detailed documentation."
   },

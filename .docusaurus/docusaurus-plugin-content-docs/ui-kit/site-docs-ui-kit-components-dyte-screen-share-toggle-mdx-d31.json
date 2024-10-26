@@ -11,7 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ui-kit/components/dyte-screen-share-toggle.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "frontMatter": {
     "description": "Learn how to use and customize the dyte-screen-share-toggle component in Dyte's UI Kit with our detailed documentation."
   },

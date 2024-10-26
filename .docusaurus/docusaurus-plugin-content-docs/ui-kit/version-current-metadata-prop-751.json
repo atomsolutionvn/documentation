@@ -312,6 +312,13 @@
           },
           {
             "type": "link",
+            "label": "dyte-network-indicator",
+            "href": "/ui-kit/components/dyte-network-indicator",
+            "docId": "components/dyte-network-indicator",
+            "unlisted": false
+          },
+          {
+            "type": "link",
             "label": "dyte-notification",
             "href": "/ui-kit/components/dyte-notification",
             "docId": "components/dyte-notification",
@@ -899,6 +906,12 @@
       "id": "components/dyte-name-tag",
       "title": "dyte-name-tag",
       "description": "Learn how to use and customize the dyte-name-tag component in Dyte's UI Kit with our detailed documentation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "components/dyte-network-indicator": {
+      "id": "components/dyte-network-indicator",
+      "title": "dyte-network-indicator",
+      "description": "Learn how to use and customize the dyte-network-indicator component in Dyte's React UI Kit with our detailed documentation.",
       "sidebar": "tutorialSidebar"
     },
     "components/dyte-notification": {

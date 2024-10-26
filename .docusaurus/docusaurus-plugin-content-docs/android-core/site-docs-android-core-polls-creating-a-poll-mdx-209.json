@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/polls/creating-a-poll.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/android-core/tags/mobile-core"
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
     },
     {
       "label": "polls",
@@ -24,14 +24,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Creating a poll",
     "description": "Create and manage polls in your Android app using Dyte's documentation on Polls Creation.",
     "sidebar_position": 2,
     "tags": [
-      "mobile-core",
+      "android-core",
       "polls",
       "create"
     ]

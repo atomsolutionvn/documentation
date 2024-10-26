@@ -103,6 +103,71 @@
         ]
       },
       {
+        "type": "category",
+        "label": "In-call UI",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "DyteMeeting",
+            "href": "/react-ui-kit/build-in-call-ui/default-meeting-ui",
+            "docId": "build-in-call-ui/default-meeting-ui",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Build your own",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Handling States and Configs",
+                "href": "/react-ui-kit/build-in-call-ui/build-your-own/handling-states-and-configs",
+                "docId": "build-in-call-ui/build-your-own/handling-states-and-configs",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "States Based UI Split",
+                "href": "/react-ui-kit/build-in-call-ui/build-your-own/states based UI Split",
+                "docId": "build-in-call-ui/build-your-own/states based UI Split",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Customize Header",
+                "href": "/react-ui-kit/build-in-call-ui/build-your-own/customize-header",
+                "docId": "build-in-call-ui/build-your-own/customize-header",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Customize Control Bar",
+                "href": "/react-ui-kit/build-in-call-ui/build-your-own/customize-control-bar",
+                "docId": "build-in-call-ui/build-your-own/customize-control-bar",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Build Stage UI using DyteGrid",
+                "href": "/react-ui-kit/build-in-call-ui/build-your-own/stage-ui-using-dyte-grid",
+                "docId": "build-in-call-ui/build-your-own/stage-ui-using-dyte-grid",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Add custom sidebar",
+                "href": "/react-ui-kit/build-in-call-ui/build-your-own/add-custom-sidebar",
+                "docId": "build-in-call-ui/build-your-own/add-custom-sidebar",
+                "unlisted": false
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "link",
         "label": "Render participant videos",
         "href": "/react-ui-kit/basics/display-videos",
@@ -365,6 +430,13 @@
             "label": "DyteNameTag",
             "href": "/react-ui-kit/components/dyte-name-tag",
             "docId": "components/dyte-name-tag",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "DyteNetworkIndicator",
+            "href": "/react-ui-kit/components/dyte-network-indicator",
+            "docId": "components/dyte-network-indicator",
             "unlisted": false
           },
           {
@@ -736,6 +808,48 @@
     ]
   },
   "docs": {
+    "build-in-call-ui/build-your-own/add-custom-sidebar": {
+      "id": "build-in-call-ui/build-your-own/add-custom-sidebar",
+      "title": "Add custom sidebar",
+      "description": "Source Code//github.com/dyte-io/react-samples/tree/main/samples/create-your-own-ui",
+      "sidebar": "tutorialSidebar"
+    },
+    "build-in-call-ui/build-your-own/customize-control-bar": {
+      "id": "build-in-call-ui/build-your-own/customize-control-bar",
+      "title": "Customize Control Bar",
+      "description": "Source Code//github.com/dyte-io/react-samples/tree/main/samples/create-your-own-ui",
+      "sidebar": "tutorialSidebar"
+    },
+    "build-in-call-ui/build-your-own/customize-header": {
+      "id": "build-in-call-ui/build-your-own/customize-header",
+      "title": "Customize Header",
+      "description": "Source Code//github.com/dyte-io/react-samples/tree/main/samples/create-your-own-ui",
+      "sidebar": "tutorialSidebar"
+    },
+    "build-in-call-ui/build-your-own/handling-states-and-configs": {
+      "id": "build-in-call-ui/build-your-own/handling-states-and-configs",
+      "title": "Handling States and Configs",
+      "description": "Source Code//github.com/dyte-io/react-samples/tree/main/samples/create-your-own-ui",
+      "sidebar": "tutorialSidebar"
+    },
+    "build-in-call-ui/build-your-own/stage-ui-using-dyte-grid": {
+      "id": "build-in-call-ui/build-your-own/stage-ui-using-dyte-grid",
+      "title": "Build Stage UI using DyteGrid",
+      "description": "Source Code//github.com/dyte-io/react-samples/tree/main/samples/create-your-own-ui",
+      "sidebar": "tutorialSidebar"
+    },
+    "build-in-call-ui/build-your-own/states based UI Split": {
+      "id": "build-in-call-ui/build-your-own/states based UI Split",
+      "title": "States Based UI Split",
+      "description": "Source Code//github.com/dyte-io/react-samples/tree/main/samples/create-your-own-ui",
+      "sidebar": "tutorialSidebar"
+    },
+    "build-in-call-ui/default-meeting-ui": {
+      "id": "build-in-call-ui/default-meeting-ui",
+      "title": "DyteMeeting",
+      "description": "Dyte provides, DyteMeeting an all encompassing component that internally handles everything from showing a pre-call UI to in-call UI and post-call screen.",
+      "sidebar": "tutorialSidebar"
+    },
     "build-pre-call-ui/build-your-own/add-audio-video-device": {
       "id": "build-pre-call-ui/build-your-own/add-audio-video-device",
       "title": "Audio/video - Device Selection",
@@ -980,6 +1094,12 @@
       "id": "components/dyte-name-tag",
       "title": "DyteNameTag",
       "description": "Learn how to use and customize the DyteNameTag component in Dyte's React UI Kit with our detailed documentation.",
+      "sidebar": "tutorialSidebar"
+    },
+    "components/dyte-network-indicator": {
+      "id": "components/dyte-network-indicator",
+      "title": "DyteNetworkIndicator",
+      "description": "Learn how to use and customize the DyteNetworkIndicator component in Dyte's React UI Kit with our detailed documentation.",
       "sidebar": "tutorialSidebar"
     },
     "components/dyte-notification": {

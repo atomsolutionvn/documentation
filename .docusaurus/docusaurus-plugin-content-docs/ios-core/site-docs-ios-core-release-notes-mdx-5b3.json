@@ -1,7 +1,7 @@
 {
   "id": "release-notes",
   "title": "Release Notes",
-  "description": "iOS Core Release Notes",
+  "description": "The release notes lists all new features, resolved issues, and known issues of iOS Core in chronological order.",
   "source": "@site/docs/ios-core/release-notes.mdx",
   "sourceDirName": ".",
   "slug": "/release-notes",
@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/release-notes.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/ios-core/tags/mobile-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "releasenotes",
@@ -20,20 +20,21 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 101,
   "frontMatter": {
     "title": "Release Notes",
     "sidebar_position": 101,
     "sidebar_class_name": "releaseSidebarHeading",
     "tags": [
-      "mobile-core",
+      "ios-core",
       "releasenotes"
     ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Waitlist Events",
-    "permalink": "/ios-core/waitlist-events"
+    "title": "System Error Codes",
+    "permalink": "/ios-core/error-codes"
   }
 }

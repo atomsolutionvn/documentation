@@ -20,12 +20,12 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 101,
   "frontMatter": {
     "title": "Release Notes",
     "sidebar_position": 101,
-    "sidebar_class_name": "releaseSidebarHeading",
     "tags": [
       "web-core",
       "releasenotes"

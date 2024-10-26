@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/local-user/manage-media-devices.mdx",
   "tags": [
     {
-      "label": "web-core",
-      "permalink": "/ios-core/tags/web-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "local-user",
@@ -24,14 +24,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 3,
   "frontMatter": {
     "title": "Manage Media Devices",
     "description": "Discover how to manage media devices for local users in iOS Core with Dyte Docs. Optimize your app's media handling capabilities seamlessly.",
     "sidebar_position": 3,
     "tags": [
-      "web-core",
+      "ios-core",
       "local-user",
       "localUser",
       "localUser events"
@@ -39,8 +40,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Events",
-    "permalink": "/ios-core/local-user/events"
+    "title": "Introduction",
+    "permalink": "/ios-core/local-user/introduction"
   },
   "next": {
     "title": "Media Permissions",

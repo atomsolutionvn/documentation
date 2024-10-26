@@ -11,7 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/web-core/advanced/advance.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "Advance",
@@ -19,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Waiting Room",
-    "permalink": "/web-core/pre-call/waiting-room"
+    "title": "Introduction",
+    "permalink": "/web-core/Introduction"
   },
   "next": {
     "title": "Introduction",

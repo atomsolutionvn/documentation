@@ -5,10 +5,10 @@
   "count": 1,
   "items": [
     {
-      "id": "room/room-metadata",
+      "id": "room-metadata",
       "title": "Room Metadata",
-      "description": "Learn about managing room metadata in your Android application using Dyte Docs.",
-      "permalink": "/android-core/room/room-metadata"
+      "description": "All metadata pertaining to a meeting.",
+      "permalink": "/android-core/room-metadata"
     }
   ],
   "unlisted": false

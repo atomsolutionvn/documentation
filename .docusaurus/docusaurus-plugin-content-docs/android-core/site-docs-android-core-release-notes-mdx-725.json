@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/release-notes.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/android-core/tags/mobile-core"
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
     },
     {
       "label": "releasenotes",
@@ -20,20 +20,21 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 101,
   "frontMatter": {
     "title": "Release Notes",
     "sidebar_position": 101,
     "sidebar_class_name": "releaseSidebarHeading",
     "tags": [
-      "mobile-core",
+      "android-core",
       "releasenotes"
     ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Recording",
-    "permalink": "/android-core/recording"
+    "title": "System Error Codes",
+    "permalink": "/android-core/error-codes"
   }
 }

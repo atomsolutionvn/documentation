@@ -1,6 +1,6 @@
 {
   "id": "participants/events",
-  "title": "Participant Events",
+  "title": "Events",
   "description": "Event handling for participants.",
   "source": "@site/docs/rn-core/participants/events.mdx",
   "sourceDirName": "participants",
@@ -24,10 +24,11 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 3,
   "frontMatter": {
-    "title": "Participant Events",
+    "title": "Events",
     "description": "Event handling for participants.",
     "sidebar_position": 3,
     "tags": [
@@ -38,11 +39,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The participant object",
+    "title": "Participant Object",
     "permalink": "/rn-core/participants/participant-object"
   },
   "next": {
-    "title": "Introducing chat",
-    "permalink": "/rn-core/chat/introduction"
+    "title": "Permissions",
+    "permalink": "/rn-core/participants/permissions"
   }
 }

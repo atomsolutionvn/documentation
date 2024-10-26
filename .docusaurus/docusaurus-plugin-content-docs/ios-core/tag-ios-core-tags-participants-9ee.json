@@ -2,25 +2,31 @@
   "label": "participants",
   "permalink": "/ios-core/tags/participants",
   "allTagsPath": "/ios-core/tags",
-  "count": 3,
+  "count": 4,
   "items": [
-    {
-      "id": "participants/introduction",
-      "title": "Introduction",
-      "description": "Explore the introduction to participants in iOS Core with Dyte Docs. Learn how to enhance your app's collaborative features seamlessly.",
-      "permalink": "/ios-core/participants/introduction"
-    },
     {
       "id": "participants/events",
       "title": "Participant Events",
-      "description": "Explore participant events in iOS Core with Dyte Docs. Leverage these events for dynamic interactions and enhanced collaboration within your app.",
+      "description": "Dive into the details of handling participant events in your iOS application using Dyte's comprehensive documentation.",
       "permalink": "/ios-core/participants/events"
     },
     {
       "id": "participants/participant-object",
-      "title": "The participant object",
-      "description": "Dive into the details of iOS Core Participant Objects with Dyte Docs. Understand the key elements for effective integration and participant management.",
+      "title": "Participant Object",
+      "description": "The object corresponding to a particular participant.",
       "permalink": "/ios-core/participants/participant-object"
+    },
+    {
+      "id": "participants/remote-participants",
+      "title": "Participant Types",
+      "description": "Events, methods and data pertaining to meeting participants.",
+      "permalink": "/ios-core/participants/"
+    },
+    {
+      "id": "participants/waitlisted-participants",
+      "title": "Waitlisted Participants",
+      "description": "Events, methods and data to manage waiting room participants.",
+      "permalink": "/ios-core/participants/waitlisted-participants"
     }
   ],
   "unlisted": false

@@ -24,7 +24,8 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "Introduction",
@@ -38,8 +39,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Quickstart",
-    "permalink": "/rn-core/quickstart"
+    "title": "Waiting Room",
+    "permalink": "/rn-core/pre-call/waiting-room"
   },
   "next": {
     "title": "Events",

@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/release-notes.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/rn-core/tags/mobile-core"
+      "label": "rn-core",
+      "permalink": "/rn-core/tags/rn-core"
     },
     {
       "label": "releasenotes",
@@ -20,14 +20,14 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 101,
   "frontMatter": {
     "title": "Release Notes",
     "sidebar_position": 101,
-    "sidebar_class_name": "releaseSidebarHeading",
     "tags": [
-      "mobile-core",
+      "rn-core",
       "releasenotes"
     ]
   },

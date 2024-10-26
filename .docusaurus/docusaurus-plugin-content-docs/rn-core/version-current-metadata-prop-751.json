@@ -25,9 +25,47 @@
       },
       {
         "type": "category",
+        "label": "Pre-call",
+        "collapsible": true,
+        "collapsed": true,
+        "className": "pre-call-docs",
+        "items": [
+          {
+            "type": "link",
+            "label": "Media Preview",
+            "href": "/rn-core/pre-call/media-preview",
+            "docId": "pre-call/media-preview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Handling Permissions",
+            "href": "/rn-core/pre-call/handling-permissions",
+            "docId": "pre-call/handling-permissions",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Meeting Metadata",
+            "href": "/rn-core/pre-call/meeting-meta",
+            "docId": "pre-call/meeting-meta",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Waiting Room",
+            "href": "/rn-core/pre-call/waiting-room",
+            "docId": "pre-call/waiting-room",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "Local User",
         "collapsible": true,
         "collapsed": true,
+        "className": "module-seperation",
         "items": [
           {
             "type": "link",
@@ -75,26 +113,39 @@
       },
       {
         "type": "category",
-        "label": "Participants",
+        "label": "Remote Participants",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "The participant object",
+            "label": "Participant Maps",
+            "href": "/rn-core/participants/",
+            "docId": "participants/remote-participants",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Participant Object",
             "href": "/rn-core/participants/participant-object",
             "docId": "participants/participant-object",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Participant Events",
+            "label": "Events",
             "href": "/rn-core/participants/events",
             "docId": "participants/events",
             "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Permissions",
+            "href": "/rn-core/participants/permissions",
+            "docId": "participants/permissions",
+            "unlisted": false
           }
-        ],
-        "href": "/rn-core/participants/"
+        ]
       },
       {
         "type": "category",
@@ -259,6 +310,7 @@
         "label": "Reference",
         "collapsible": true,
         "collapsed": true,
+        "className": "releaseSidebarHeading",
         "items": [
           {
             "type": "link",
@@ -283,16 +335,16 @@
           },
           {
             "type": "link",
-            "label": "DyteParticipant",
-            "href": "/rn-core/reference/DyteParticipant",
-            "docId": "reference/DyteParticipant",
+            "label": "DyteParticipantMap",
+            "href": "/rn-core/reference/DyteParticipantMap",
+            "docId": "reference/DyteParticipantMap",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "DyteParticipantMap",
-            "href": "/rn-core/reference/DyteParticipantMap",
-            "docId": "reference/DyteParticipantMap",
+            "label": "DyteParticipant",
+            "href": "/rn-core/reference/DyteParticipant",
+            "docId": "reference/DyteParticipant",
             "unlisted": false
           },
           {
@@ -353,6 +405,13 @@
           },
           {
             "type": "link",
+            "label": "DyteSelfMedia",
+            "href": "/rn-core/reference/DyteSelfMedia",
+            "docId": "reference/DyteSelfMedia",
+            "unlisted": false
+          },
+          {
+            "type": "link",
             "label": "DytePlugin",
             "href": "/rn-core/reference/DytePlugin",
             "docId": "reference/DytePlugin",
@@ -363,6 +422,27 @@
             "label": "DyteThemePreset",
             "href": "/rn-core/reference/DyteThemePreset",
             "docId": "reference/DyteThemePreset",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "DyteAi",
+            "href": "/rn-core/reference/DyteAi",
+            "docId": "reference/DyteAi",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "DyteRemote",
+            "href": "/rn-core/reference/DyteRemote",
+            "docId": "reference/DyteRemote",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "DyteConnectedMeetings",
+            "href": "/rn-core/reference/DyteConnectedMeetings",
+            "docId": "reference/DyteConnectedMeetings",
             "unlisted": false
           },
           {
@@ -378,7 +458,6 @@
         "type": "link",
         "label": "Release Notes",
         "href": "/rn-core/release-notes",
-        "className": "releaseSidebarHeading",
         "docId": "release-notes",
         "unlisted": false
       }
@@ -471,19 +550,25 @@
     },
     "participants/events": {
       "id": "participants/events",
-      "title": "Participant Events",
+      "title": "Events",
       "description": "Event handling for participants.",
       "sidebar": "tutorialSidebar"
     },
     "participants/participant-object": {
       "id": "participants/participant-object",
-      "title": "The participant object",
+      "title": "Participant Object",
       "description": "The object corresponding to a particular participant.",
       "sidebar": "tutorialSidebar"
     },
-    "participants/participants": {
-      "id": "participants/participants",
-      "title": "Participants",
+    "participants/permissions": {
+      "id": "participants/permissions",
+      "title": "Permissions",
+      "description": "Permissions for a participant are defined by the preset. However they can updated in meeting by calling updatePermissions for remote participants",
+      "sidebar": "tutorialSidebar"
+    },
+    "participants/remote-participants": {
+      "id": "participants/remote-participants",
+      "title": "Participant Maps",
       "description": "Events, methods and data pertaining to meeting participants.",
       "sidebar": "tutorialSidebar"
     },
@@ -535,6 +620,30 @@
       "description": "Voting on polls in a meeting.",
       "sidebar": "tutorialSidebar"
     },
+    "pre-call/handling-permissions": {
+      "id": "pre-call/handling-permissions",
+      "title": "Handling Permissions",
+      "description": "Properties",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/media-preview": {
+      "id": "pre-call/media-preview",
+      "title": "Media Preview",
+      "description": "This section focuses on pre-call functionality, providing developers with the tools needed to prepare the media environment before joining the meeting. If you are using our UI Kits, this will be handled by DyteSetupScreen or could be built with DyteParticipantTile and other components.",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/meeting-meta": {
+      "id": "pre-call/meeting-meta",
+      "title": "Meeting Metadata",
+      "description": "Change the name of the user",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/waiting-room": {
+      "id": "pre-call/waiting-room",
+      "title": "Waiting Room",
+      "description": "After you call .join() on meeting, you either get a roomJoined event if you are allowed to join or a waitlisted event.",
+      "sidebar": "tutorialSidebar"
+    },
     "quickstart": {
       "id": "quickstart",
       "title": "Quickstart",
@@ -547,6 +656,12 @@
       "description": "Control recordings in a meeting.",
       "sidebar": "tutorialSidebar"
     },
+    "reference/DyteAi": {
+      "id": "reference/DyteAi",
+      "title": "DyteAi",
+      "description": "This module consists of the ai object which is used to interface with Dyte's AI features.",
+      "sidebar": "tutorialSidebar"
+    },
     "reference/DyteChat": {
       "id": "reference/DyteChat",
       "title": "DyteChat",
@@ -556,7 +671,13 @@
     "reference/DyteClient": {
       "id": "reference/DyteClient",
       "title": "DyteClient",
-      "description": "The DyteClient class is the main class of the web core library.",
+      "description": "The DyteClient class is the main class of this library.",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/DyteConnectedMeetings": {
+      "id": "reference/DyteConnectedMeetings",
+      "title": "DyteConnectedMeetings",
+      "description": "This consists of the methods to faciliate connected meetings",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteLivestream": {
@@ -580,7 +701,7 @@
     "reference/DyteParticipantMap": {
       "id": "reference/DyteParticipantMap",
       "title": "DyteParticipantMap",
-      "description": "This is a map of participants, indexed by participant.id (a participant's peer ID).",
+      "description": "The following objects are DyteParticipantMap objects",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteParticipants": {
@@ -625,16 +746,28 @@
       "description": "The DyteRecording module represents the state of the current recording, and allows",
       "sidebar": "tutorialSidebar"
     },
+    "reference/DyteRemote": {
+      "id": "reference/DyteRemote",
+      "title": "DyteRemote",
+      "description": "This module provides the ability to control a remotely shared screen using mouse and keyboard.",
+      "sidebar": "tutorialSidebar"
+    },
     "reference/DyteSelf": {
       "id": "reference/DyteSelf",
       "title": "DyteSelf",
       "description": "The DyteSelf module represents the current user, and allows to modify the state",
       "sidebar": "tutorialSidebar"
     },
+    "reference/DyteSelfMedia": {
+      "id": "reference/DyteSelfMedia",
+      "title": "DyteSelfMedia",
+      "description": "This module allows users to initialize media before initializing the root DyteClient.init object",
+      "sidebar": "tutorialSidebar"
+    },
     "reference/DyteStage": {
       "id": "reference/DyteStage",
       "title": "DyteStage",
-      "description": "The DyteStage module represents a class to manage the Stage of the meeting",
+      "description": "The DyteStage module represents a class to mange the Stage of the meeting",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteThemePreset": {

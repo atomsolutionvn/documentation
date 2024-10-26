@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/chat/sending-a-chat-message.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/android-core/tags/mobile-core"
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
     },
     {
       "label": "chat",
@@ -20,14 +20,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Sending a chat message",
     "description": "\"Master the process of sending chat messages within your Android application with Dyte",
     "sidebar_position": 2,
     "tags": [
-      "mobile-core",
+      "android-core",
       "chat"
     ]
   },

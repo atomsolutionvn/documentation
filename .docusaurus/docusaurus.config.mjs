@@ -34,7 +34,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "cli",
         "path": "docs/cli",
         "routeBasePath": "/cli"
@@ -55,7 +55,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "plugin-sdk",
         "path": "docs/plugin-sdk",
         "routeBasePath": "/plugin-sdk",
@@ -81,7 +81,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "community-packages",
         "path": "docs/community-packages",
         "routeBasePath": "/community-packages"
@@ -102,7 +102,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "ui-kit",
         "path": "docs/ui-kit",
         "routeBasePath": "/ui-kit",
@@ -128,7 +128,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "react-ui-kit",
         "path": "docs/react-ui-kit",
         "routeBasePath": "/react-ui-kit",
@@ -154,7 +154,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "angular-ui-kit",
         "path": "docs/angular-ui-kit",
         "routeBasePath": "/angular-ui-kit",
@@ -180,7 +180,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "web-core",
         "path": "docs/web-core",
         "routeBasePath": "/web-core",
@@ -206,7 +206,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "react-web-core",
         "path": "docs/react-web-core",
         "routeBasePath": "/react-web-core",
@@ -232,7 +232,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "android-core",
         "path": "docs/android-core",
         "routeBasePath": "/android-core",
@@ -258,7 +258,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "flutter-core",
         "path": "docs/flutter-core",
         "routeBasePath": "/flutter-core",
@@ -284,7 +284,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "ios-core",
         "path": "docs/ios-core",
         "routeBasePath": "/ios-core",
@@ -310,7 +310,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "rn-core",
         "path": "docs/rn-core",
         "routeBasePath": "/rn-core",
@@ -336,7 +336,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "android",
         "path": "docs/android",
         "routeBasePath": "/android",
@@ -362,7 +362,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "flutter",
         "path": "docs/flutter",
         "routeBasePath": "/flutter",
@@ -388,7 +388,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "ios",
         "path": "docs/ios",
         "routeBasePath": "/ios",
@@ -414,7 +414,7 @@ export default {
             }
           ]
         ],
-        "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js",
+        "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js",
         "id": "react-native",
         "path": "docs/rn-ui-kit",
         "routeBasePath": "/react-native",
@@ -437,7 +437,7 @@ export default {
     "@docusaurus/theme-mermaid"
   ],
   "clientModules": [
-    "C:\\Github\\dyte_docs\\src\\client\\define-ui-kit.js"
+    "C:\\Github\\atom\\documentation\\src\\client\\define-ui-kit.js"
   ],
   "scripts": [
     {
@@ -474,13 +474,13 @@ export default {
               }
             ]
           ],
-          "sidebarPath": "C:\\Github\\dyte_docs\\sidebars-default.js"
+          "sidebarPath": "C:\\Github\\atom\\documentation\\sidebars-default.js"
         },
         "blog": false,
         "theme": {
           "customCss": [
-            "C:\\Github\\dyte_docs\\src\\css\\custom.css",
-            "C:\\Github\\dyte_docs\\src\\css\\api-reference.css"
+            "C:\\Github\\atom\\documentation\\src\\css\\custom.css",
+            "C:\\Github\\atom\\documentation\\src\\css\\api-reference.css"
           ]
         },
         "sitemap": {
@@ -550,7 +550,7 @@ export default {
           "items": [
             {
               "type": "html",
-              "value": "<div\r\n  class=\"resources-dropdown-menu flex flex-col rounded-2xl p-4 lg:min-w-[220px]\"\r\n>\r\n  <ul\r\n    class=\"flex list-none flex-col gap-2 pl-0 text-gray-700 dark:text-zinc-200\"\r\n  >\r\n    <li>\r\n      <a\r\n        href=\"https://dev.dyte.io\"\r\n        class=\"flex items-center gap-2 text-inherit\"\r\n        target=\"_blank\"\r\n      >\r\n        <img\r\n          src=\"/static/landing-page/sdk-icons/resources/web.svg\"\r\n          width=\"22\"\r\n          height=\"22\"\r\n        />\r\n        Developer Portal\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a href=\"/faq\" class=\"flex items-center gap-2 text-inherit\">\r\n        <img\r\n          src=\"/static/landing-page/sdk-icons/resources/faq.svg\"\r\n          width=\"22\"\r\n          height=\"22\"\r\n        />\r\n        FAQ\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a\r\n        href=\"https://www.youtube.com/@dyte-io\"\r\n        target=\"_blank\"\r\n        class=\"flex items-center gap-2 text-inherit\"\r\n      >\r\n        <img\r\n          src=\"/static/landing-page/sdk-icons/resources/video.svg\"\r\n          width=\"22\"\r\n          height=\"22\"\r\n        />\r\n        Videos\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a\r\n        href=\"https://github.com/dyte-io\"\r\n        target=\"_blank\"\r\n        class=\"flex items-center gap-2 text-inherit\"\r\n      >\r\n        <img\r\n          src=\"/static/landing-page/sdk-icons/resources/github.svg\"\r\n          width=\"22\"\r\n          height=\"22\"\r\n        />\r\n        Sample Apps\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a href=\"/release-notes\" class=\"flex items-center gap-2 text-inherit\">\r\n        <img src=\"/static/landing-page/sdk-icons/resources/book-open.svg\" />\r\n        Release Notes\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a\r\n        href=\"/community-packages\"\r\n        class=\"flex items-center gap-2 text-inherit\"\r\n      >\r\n        <img src=\"/static/landing-page/sdk-icons/resources/book-open.svg\" />\r\n        Community packages\r\n      </a>\r\n    </li>\r\n  </ul>\r\n</div>\r\n",
+              "value": "<div\r\n  class=\"resources-dropdown-menu flex flex-col rounded-2xl p-4 lg:min-w-[220px]\"\r\n>\r\n  <ul\r\n    class=\"flex list-none flex-col gap-2 pl-0 text-gray-700 dark:text-zinc-200\"\r\n  >\r\n    <li>\r\n      <a href=\"/faq\" class=\"flex items-center gap-2 text-inherit\">\r\n        <img\r\n          src=\"/static/landing-page/sdk-icons/resources/faq.svg\"\r\n          width=\"22\"\r\n          height=\"22\"\r\n        />\r\n        FAQ\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a\r\n        href=\"https://github.com/dyte-io\"\r\n        target=\"_blank\"\r\n        class=\"flex items-center gap-2 text-inherit\"\r\n      >\r\n        <img\r\n          src=\"/static/landing-page/sdk-icons/resources/github.svg\"\r\n          width=\"22\"\r\n          height=\"22\"\r\n        />\r\n        Sample Apps\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a href=\"/release-notes\" class=\"flex items-center gap-2 text-inherit\">\r\n        <img src=\"/static/landing-page/sdk-icons/resources/book-open.svg\" />\r\n        Release Notes\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a\r\n        href=\"/community-packages\"\r\n        class=\"flex items-center gap-2 text-inherit\"\r\n      >\r\n        <img src=\"/static/landing-page/sdk-icons/resources/book-open.svg\" />\r\n        Community packages\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a\r\n        href=\"https://dev.dyte.io\"\r\n        class=\"flex items-center gap-2 text-inherit\"\r\n        target=\"_blank\"\r\n      >\r\n        <img\r\n          src=\"/static/landing-page/sdk-icons/resources/web.svg\"\r\n          width=\"22\"\r\n          height=\"22\"\r\n        />\r\n        Developer Portal\r\n      </a>\r\n    </li>\r\n    <li>\r\n      <a\r\n        href=\"https://www.youtube.com/@dyte-io\"\r\n        target=\"_blank\"\r\n        class=\"flex items-center gap-2 text-inherit\"\r\n      >\r\n        <img\r\n          src=\"/static/landing-page/sdk-icons/resources/video.svg\"\r\n          width=\"22\"\r\n          height=\"22\"\r\n        />\r\n        Videos\r\n      </a>\r\n    </li>\r\n  </ul>\r\n</div>\r\n",
               "className": "dyte-dropdown"
             }
           ],
@@ -879,15 +879,15 @@ export default {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
     },
+    "liveCodeBlock": {
+      "playgroundPosition": "bottom"
+    },
     "mermaid": {
       "theme": {
         "dark": "dark",
         "light": "default"
       },
       "options": {}
-    },
-    "liveCodeBlock": {
-      "playgroundPosition": "bottom"
     }
   },
   "webpack": {},

@@ -7,7 +7,7 @@
     {
       "id": "quickstart",
       "title": "Quickstart",
-      "description": "Dive into Dyte's core documentation for iOS. Follow our guide for comprehensive understanding and effective iOS core development.",
+      "description": "This quickstart shows how to use Dyte's core SDKs to add live video and audio to",
       "permalink": "/ios-core/"
     }
   ],

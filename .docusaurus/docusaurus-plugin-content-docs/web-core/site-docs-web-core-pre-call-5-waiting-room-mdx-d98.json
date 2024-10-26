@@ -11,7 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/web-core/pre-call/5-waiting-room.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 5,
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
@@ -20,7 +21,7 @@
     "permalink": "/web-core/pre-call/meeting-meta"
   },
   "next": {
-    "title": "Advance",
-    "permalink": "/web-core/advanced/advance"
+    "title": "Introduction",
+    "permalink": "/web-core/Introduction"
   }
 }

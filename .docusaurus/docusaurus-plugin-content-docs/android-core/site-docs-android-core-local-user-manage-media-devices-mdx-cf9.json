@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/local-user/manage-media-devices.mdx",
   "tags": [
     {
-      "label": "web-core",
-      "permalink": "/android-core/tags/web-core"
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
     },
     {
       "label": "local-user",
@@ -28,14 +28,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 3,
   "frontMatter": {
     "title": "Manage Media Devices",
     "description": "\"Effectively manage media devices on Android using Dyte's documentation",
     "sidebar_position": 3,
     "tags": [
-      "web-core",
+      "android-core",
       "local-user",
       "self",
       "self events"

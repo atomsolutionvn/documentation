@@ -11,16 +11,17 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-web-core/reference/DyteRecording.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
-  "sidebarPosition": 17,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 18,
   "frontMatter": {
-    "sidebar_position": 17,
-    "web_core_version": "1.20.0"
+    "sidebar_position": 18,
+    "web_core_version": "1.32.1"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "DyteRemote",
-    "permalink": "/react-web-core/reference/DyteRemote"
+    "title": "DyteConnectedMeetings",
+    "permalink": "/react-web-core/reference/DyteConnectedMeetings"
   },
   "next": {
     "title": "Release Notes",

@@ -1,7 +1,7 @@
 {
   "id": "polls/creating-a-poll",
   "title": "Creating a poll",
-  "description": "Learn the step-by-step process of creating a poll in iOS Core with Dyte Docs. Enhance your app's engagement and decision-making capabilities.",
+  "description": "Create and manage polls in your iOS app using Dyte's documentation on Polls Creation.",
   "source": "@site/docs/ios-core/polls/creating-a-poll.mdx",
   "sourceDirName": "polls",
   "slug": "/polls/creating-a-poll",
@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/polls/creating-a-poll.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/ios-core/tags/mobile-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "polls",
@@ -24,14 +24,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Creating a poll",
-    "description": "Learn the step-by-step process of creating a poll in iOS Core with Dyte Docs. Enhance your app's engagement and decision-making capabilities.",
+    "description": "Create and manage polls in your iOS app using Dyte's documentation on Polls Creation.",
     "sidebar_position": 2,
     "tags": [
-      "mobile-core",
+      "ios-core",
       "polls",
       "create"
     ]

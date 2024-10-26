@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/livestream/dyte-livestream-listener.mdx",
   "tags": [
     {
-      "label": "flutter-core",
-      "permalink": "/android-core/tags/flutter-core"
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
     },
     {
       "label": "livestream",
@@ -20,14 +20,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 3,
   "frontMatter": {
     "title": "Livestream Event Listeners",
     "description": "Explore the functionalities and implementation of the Android Livestream Listener in Dyte documentation.",
     "sidebar_position": 3,
     "tags": [
-      "flutter-core",
+      "android-core",
       "livestream"
     ]
   },

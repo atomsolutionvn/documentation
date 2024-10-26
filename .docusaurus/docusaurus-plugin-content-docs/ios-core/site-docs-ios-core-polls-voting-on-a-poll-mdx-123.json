@@ -1,7 +1,7 @@
 {
   "id": "polls/voting-on-a-poll",
   "title": "Voting on a poll",
-  "description": "Understand the voting process on polls within iOS Core with Dyte Docs. Empower users to actively participate and express their opinions.",
+  "description": "Understand the process of voting on polls within your iOS app using Dyte's documentation on Polls Voting.",
   "source": "@site/docs/ios-core/polls/voting-on-a-poll.mdx",
   "sourceDirName": "polls",
   "slug": "/polls/voting-on-a-poll",
@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/polls/voting-on-a-poll.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/ios-core/tags/mobile-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "polls",
@@ -24,14 +24,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 3,
   "frontMatter": {
     "title": "Voting on a poll",
-    "description": "Understand the voting process on polls within iOS Core with Dyte Docs. Empower users to actively participate and express their opinions.",
+    "description": "Understand the process of voting on polls within your iOS app using Dyte's documentation on Polls Voting.",
     "sidebar_position": 3,
     "tags": [
-      "mobile-core",
+      "ios-core",
       "polls",
       "votes"
     ]
@@ -42,7 +43,7 @@
     "permalink": "/ios-core/polls/creating-a-poll"
   },
   "next": {
-    "title": "Plugins",
-    "permalink": "/ios-core/plugins"
+    "title": "System Error Codes",
+    "permalink": "/ios-core/error-codes"
   }
 }

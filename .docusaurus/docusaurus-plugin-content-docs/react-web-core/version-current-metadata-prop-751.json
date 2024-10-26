@@ -11,16 +11,61 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Introduction",
-        "href": "/react-web-core/introduction",
-        "docId": "introduction",
-        "unlisted": false
-      },
-      {
-        "type": "link",
         "label": "Quickstart",
         "href": "/react-web-core/",
         "docId": "quickstart",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Pre-call",
+        "collapsible": true,
+        "collapsed": true,
+        "className": "pre-call-docs",
+        "items": [
+          {
+            "type": "link",
+            "label": "Media Preview",
+            "href": "/react-web-core/pre-call/media-preview",
+            "docId": "pre-call/media-preview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Handling Browser Permissions",
+            "href": "/react-web-core/pre-call/handling-permissions",
+            "docId": "pre-call/handling-permissions",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Virtual BG and Noise Cancellation",
+            "href": "/react-web-core/pre-call/virtual-bg",
+            "docId": "pre-call/virtual-bg",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Meeting Metadata",
+            "href": "/react-web-core/pre-call/meeting-meta",
+            "docId": "pre-call/meeting-meta",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Waiting Room",
+            "href": "/react-web-core/pre-call/waiting-room",
+            "docId": "pre-call/waiting-room",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/react-web-core/introduction",
+        "className": "module-seperation",
+        "docId": "introduction",
         "unlisted": false
       },
       {
@@ -294,6 +339,7 @@
         "label": "Reference",
         "collapsible": true,
         "collapsed": true,
+        "className": "releaseSidebarHeading",
         "items": [
           {
             "type": "link",
@@ -318,16 +364,16 @@
           },
           {
             "type": "link",
-            "label": "DyteParticipant",
-            "href": "/react-web-core/reference/DyteParticipant",
-            "docId": "reference/DyteParticipant",
+            "label": "DyteParticipantMap",
+            "href": "/react-web-core/reference/DyteParticipantMap",
+            "docId": "reference/DyteParticipantMap",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "DyteParticipantMap",
-            "href": "/react-web-core/reference/DyteParticipantMap",
-            "docId": "reference/DyteParticipantMap",
+            "label": "DyteParticipant",
+            "href": "/react-web-core/reference/DyteParticipant",
+            "docId": "reference/DyteParticipant",
             "unlisted": false
           },
           {
@@ -381,13 +427,6 @@
           },
           {
             "type": "link",
-            "label": "DyteAi",
-            "href": "/react-web-core/reference/DyteAi",
-            "docId": "reference/DyteAi",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "DytePluginMap",
             "href": "/react-web-core/reference/DytePluginMap",
             "docId": "reference/DytePluginMap",
@@ -416,9 +455,23 @@
           },
           {
             "type": "link",
+            "label": "DyteAi",
+            "href": "/react-web-core/reference/DyteAi",
+            "docId": "reference/DyteAi",
+            "unlisted": false
+          },
+          {
+            "type": "link",
             "label": "DyteRemote",
             "href": "/react-web-core/reference/DyteRemote",
             "docId": "reference/DyteRemote",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "DyteConnectedMeetings",
+            "href": "/react-web-core/reference/DyteConnectedMeetings",
+            "docId": "reference/DyteConnectedMeetings",
             "unlisted": false
           },
           {
@@ -434,7 +487,6 @@
         "type": "link",
         "label": "Release Notes",
         "href": "/react-web-core/release-notes",
-        "className": "releaseSidebarHeading",
         "docId": "release-notes",
         "unlisted": false
       }
@@ -609,6 +661,36 @@
       "description": "Voting on polls in a meeting.",
       "sidebar": "tutorialSidebar"
     },
+    "pre-call/handling-permissions": {
+      "id": "pre-call/handling-permissions",
+      "title": "Handling Browser Permissions",
+      "description": "Properties",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/media-preview": {
+      "id": "pre-call/media-preview",
+      "title": "Media Preview",
+      "description": "This section focuses on pre-call functionality, providing developers with the tools needed to prepare the media environment before joining the meeting. If you are using our UI Kits, this will be handled by dyte-setup-screen or could be built with dyte-participant-tile, dyte-settings components.",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/meeting-meta": {
+      "id": "pre-call/meeting-meta",
+      "title": "Meeting Metadata",
+      "description": "Change the name of the user",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/virtual-bg": {
+      "id": "pre-call/virtual-bg",
+      "title": "",
+      "description": "Virtual Background",
+      "sidebar": "tutorialSidebar"
+    },
+    "pre-call/waiting-room": {
+      "id": "pre-call/waiting-room",
+      "title": "Waiting Room",
+      "description": "After you call .join() on meeting, you either get a roomJoined event if you are allowed to join or a waitlisted event.",
+      "sidebar": "tutorialSidebar"
+    },
     "quickstart": {
       "id": "quickstart",
       "title": "Quickstart",
@@ -624,7 +706,7 @@
     "reference/DyteAi": {
       "id": "reference/DyteAi",
       "title": "DyteAi",
-      "description": "(Beta - API not stable)",
+      "description": "This module consists of the ai object which is used to interface with Dyte's AI features.",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteChat": {
@@ -636,7 +718,13 @@
     "reference/DyteClient": {
       "id": "reference/DyteClient",
       "title": "DyteClient",
-      "description": "The DyteClient class is the main class of the web core library.",
+      "description": "The DyteClient class is the main class of this library.",
+      "sidebar": "tutorialSidebar"
+    },
+    "reference/DyteConnectedMeetings": {
+      "id": "reference/DyteConnectedMeetings",
+      "title": "DyteConnectedMeetings",
+      "description": "This consists of the methods to faciliate connected meetings",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteLivestream": {
@@ -660,7 +748,7 @@
     "reference/DyteParticipantMap": {
       "id": "reference/DyteParticipantMap",
       "title": "DyteParticipantMap",
-      "description": "This is a map of participants, indexed by participant.id (a participant's peer ID).",
+      "description": "The following objects are DyteParticipantMap objects",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteParticipants": {
@@ -726,7 +814,7 @@
     "reference/DyteStage": {
       "id": "reference/DyteStage",
       "title": "DyteStage",
-      "description": "The DyteStage module represents a class to manage the Stage of the meeting",
+      "description": "The DyteStage module represents a class to mange the Stage of the meeting",
       "sidebar": "tutorialSidebar"
     },
     "reference/DyteThemePreset": {

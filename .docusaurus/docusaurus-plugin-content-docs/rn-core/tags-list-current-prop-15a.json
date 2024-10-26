@@ -50,6 +50,11 @@
     "count": 2
   },
   {
+    "label": "web-core",
+    "permalink": "/rn-core/tags/web-core",
+    "count": 1
+  },
+  {
     "label": "plugins",
     "permalink": "/rn-core/tags/plugins",
     "count": 4
@@ -87,11 +92,6 @@
   {
     "label": "recording",
     "permalink": "/rn-core/tags/recording",
-    "count": 1
-  },
-  {
-    "label": "mobile-core",
-    "permalink": "/rn-core/tags/mobile-core",
     "count": 1
   },
   {

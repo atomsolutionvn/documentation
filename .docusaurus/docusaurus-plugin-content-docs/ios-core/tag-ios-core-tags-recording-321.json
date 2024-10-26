@@ -7,7 +7,7 @@
     {
       "id": "recording",
       "title": "Recording",
-      "description": "Delve into the recording capabilities of iOS Core with Dyte Docs. Learn how to seamlessly integrate and enhance your app's recording functionalities.",
+      "description": "Control recordings in a meeting.",
       "permalink": "/ios-core/recording"
     }
   ],

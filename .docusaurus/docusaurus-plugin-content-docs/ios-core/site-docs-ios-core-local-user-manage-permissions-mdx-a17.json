@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/local-user/manage-permissions.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/ios-core/tags/mobile-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "local-user",
@@ -28,14 +28,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 4,
   "frontMatter": {
     "title": "Media Permissions",
     "description": "Learn how to manage permissions for local users in iOS Core with Dyte Docs. Ensure a smooth and secure user experience within your app.",
     "sidebar_position": 4,
     "tags": [
-      "mobile-core",
+      "ios-core",
       "local-user",
       "self",
       "self events"

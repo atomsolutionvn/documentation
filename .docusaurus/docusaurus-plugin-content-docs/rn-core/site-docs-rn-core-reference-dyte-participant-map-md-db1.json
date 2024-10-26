@@ -1,7 +1,7 @@
 {
   "id": "reference/DyteParticipantMap",
   "title": "DyteParticipantMap",
-  "description": "This is a map of participants, indexed by participant.id (a participant's peer ID).",
+  "description": "The following objects are DyteParticipantMap objects",
   "source": "@site/docs/rn-core/reference/DyteParticipantMap.md",
   "sourceDirName": "reference",
   "slug": "/reference/DyteParticipantMap",
@@ -11,19 +11,20 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/rn-core/reference/DyteParticipantMap.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4,
-    "web_core_version": "1.20.0"
+    "web_core_version": "1.32.1"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "DyteParticipant",
-    "permalink": "/rn-core/reference/DyteParticipant"
+    "title": "DyteParticipants",
+    "permalink": "/rn-core/reference/DyteParticipants"
   },
   "next": {
-    "title": "DytePermissionsPreset",
-    "permalink": "/rn-core/reference/DytePermissionsPreset"
+    "title": "DyteParticipant",
+    "permalink": "/rn-core/reference/DyteParticipant"
   }
 }

@@ -4,81 +4,81 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '0f2'),
+    component: ComponentCreator('/__docusaurus/debug', '6fb'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'c12'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'c93'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'bb6'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'ace'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c64'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'abb'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'ade'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '673'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '01a'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '6ee'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '499'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '78b'),
     exact: true
   },
   {
     path: '/api',
-    component: ComponentCreator('/api', '789'),
+    component: ComponentCreator('/api', 'e00'),
     exact: true
   },
   {
     path: '/api/v2',
-    component: ComponentCreator('/api/v2', 'ff0'),
+    component: ComponentCreator('/api/v2', '2d0'),
     exact: true
   },
   {
     path: '/faq',
-    component: ComponentCreator('/faq', 'efe'),
+    component: ComponentCreator('/faq', 'a7c'),
     exact: true
   },
   {
     path: '/getting-started',
-    component: ComponentCreator('/getting-started', 'edb'),
+    component: ComponentCreator('/getting-started', '4d6'),
     exact: true
   },
   {
     path: '/release-notes',
-    component: ComponentCreator('/release-notes', 'c11'),
+    component: ComponentCreator('/release-notes', 'dce'),
     exact: true
   },
   {
     path: '/release-notes/rest-api',
-    component: ComponentCreator('/release-notes/rest-api', 'a3f'),
+    component: ComponentCreator('/release-notes/rest-api', 'b31'),
     exact: true
   },
   {
     path: '/search',
-    component: ComponentCreator('/search', 'a60'),
+    component: ComponentCreator('/search', '98d'),
     exact: true
   },
   {
     path: '/android',
-    component: ComponentCreator('/android', '246'),
+    component: ComponentCreator('/android', '1ec'),
     routes: [
       {
         path: '/android',
-        component: ComponentCreator('/android', '5a8'),
+        component: ComponentCreator('/android', '1e1'),
         routes: [
           {
             path: '/android/tags',
@@ -102,299 +102,299 @@ export default [
           },
           {
             path: '/android',
-            component: ComponentCreator('/android', 'dde'),
+            component: ComponentCreator('/android', 'f2f'),
             routes: [
               {
                 path: '/android',
-                component: ComponentCreator('/android', 'c2d'),
+                component: ComponentCreator('/android', 'f2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/advanced-usage',
-                component: ComponentCreator('/android/advanced-usage', '9d5'),
+                component: ComponentCreator('/android/advanced-usage', 'dfe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/build-pre-call-ui/build-your-own/add-audio-video-device',
-                component: ComponentCreator('/android/build-pre-call-ui/build-your-own/add-audio-video-device', '726'),
+                component: ComponentCreator('/android/build-pre-call-ui/build-your-own/add-audio-video-device', '1c9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/build-pre-call-ui/build-your-own/add-audio-video-preview',
-                component: ComponentCreator('/android/build-pre-call-ui/build-your-own/add-audio-video-preview', '987'),
+                component: ComponentCreator('/android/build-pre-call-ui/build-your-own/add-audio-video-preview', 'd28'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/build-pre-call-ui/build-your-own/edit-user-name',
-                component: ComponentCreator('/android/build-pre-call-ui/build-your-own/edit-user-name', '269'),
+                component: ComponentCreator('/android/build-pre-call-ui/build-your-own/edit-user-name', '95b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/build-pre-call-ui/build-your-own/initial-code-skeleton',
-                component: ComponentCreator('/android/build-pre-call-ui/build-your-own/initial-code-skeleton', '1d9'),
+                component: ComponentCreator('/android/build-pre-call-ui/build-your-own/initial-code-skeleton', 'f3a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/build-pre-call-ui/default-setup-screen',
-                component: ComponentCreator('/android/build-pre-call-ui/default-setup-screen', '163'),
+                component: ComponentCreator('/android/build-pre-call-ui/default-setup-screen', '577'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/chat/prebuilt-screen',
-                component: ComponentCreator('/android/chat/prebuilt-screen', '13f'),
+                component: ComponentCreator('/android/chat/prebuilt-screen', 'ace'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components',
-                component: ComponentCreator('/android/components', 'bb5'),
+                component: ComponentCreator('/android/components', '035'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-audio-selector',
-                component: ComponentCreator('/android/components/dyte-audio-selector', '609'),
+                component: ComponentCreator('/android/components/dyte-audio-selector', 'f24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-audio-visualizer',
-                component: ComponentCreator('/android/components/dyte-audio-visualizer', 'a63'),
+                component: ComponentCreator('/android/components/dyte-audio-visualizer', 'bd7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-avatar',
-                component: ComponentCreator('/android/components/dyte-avatar', '503'),
+                component: ComponentCreator('/android/components/dyte-avatar', '10c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-button',
-                component: ComponentCreator('/android/components/dyte-button', '198'),
+                component: ComponentCreator('/android/components/dyte-button', 'ab4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-camera-toggle',
-                component: ComponentCreator('/android/components/dyte-camera-toggle', '971'),
+                component: ComponentCreator('/android/components/dyte-camera-toggle', '1f0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-chat',
-                component: ComponentCreator('/android/components/dyte-chat', '9b1'),
+                component: ComponentCreator('/android/components/dyte-chat', '017'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-clock',
-                component: ComponentCreator('/android/components/dyte-clock', 'c23'),
+                component: ComponentCreator('/android/components/dyte-clock', '701'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-controlbar-button',
-                component: ComponentCreator('/android/components/dyte-controlbar-button', 'bd8'),
+                component: ComponentCreator('/android/components/dyte-controlbar-button', 'a1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-grid',
-                component: ComponentCreator('/android/components/dyte-grid', '6c8'),
+                component: ComponentCreator('/android/components/dyte-grid', 'c94'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-grid-pagination',
-                component: ComponentCreator('/android/components/dyte-grid-pagination', '08f'),
+                component: ComponentCreator('/android/components/dyte-grid-pagination', 'dd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-idle-screen',
-                component: ComponentCreator('/android/components/dyte-idle-screen', '790'),
+                component: ComponentCreator('/android/components/dyte-idle-screen', 'b71'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-join-stage',
-                component: ComponentCreator('/android/components/dyte-join-stage', '3c2'),
+                component: ComponentCreator('/android/components/dyte-join-stage', 'df1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-leave-button',
-                component: ComponentCreator('/android/components/dyte-leave-button', '09e'),
+                component: ComponentCreator('/android/components/dyte-leave-button', '8ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-leave-meeting',
-                component: ComponentCreator('/android/components/dyte-leave-meeting', 'c8c'),
+                component: ComponentCreator('/android/components/dyte-leave-meeting', 'd9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-meeting',
-                component: ComponentCreator('/android/components/dyte-meeting', 'b00'),
+                component: ComponentCreator('/android/components/dyte-meeting', 'a30'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-meeting-title',
-                component: ComponentCreator('/android/components/dyte-meeting-title', 'bb2'),
+                component: ComponentCreator('/android/components/dyte-meeting-title', 'ed4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-mic-toggle',
-                component: ComponentCreator('/android/components/dyte-mic-toggle', 'ee5'),
+                component: ComponentCreator('/android/components/dyte-mic-toggle', '6fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-more-toggle',
-                component: ComponentCreator('/android/components/dyte-more-toggle', '577'),
+                component: ComponentCreator('/android/components/dyte-more-toggle', '9df'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-name-tag',
-                component: ComponentCreator('/android/components/dyte-name-tag', 'fc0'),
+                component: ComponentCreator('/android/components/dyte-name-tag', '787'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-participant-count',
-                component: ComponentCreator('/android/components/dyte-participant-count', 'bc2'),
+                component: ComponentCreator('/android/components/dyte-participant-count', '541'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-participants',
-                component: ComponentCreator('/android/components/dyte-participants', 'ed8'),
+                component: ComponentCreator('/android/components/dyte-participants', '7bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-plugins',
-                component: ComponentCreator('/android/components/dyte-plugins', '07a'),
+                component: ComponentCreator('/android/components/dyte-plugins', 'be3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-poll-form',
-                component: ComponentCreator('/android/components/dyte-poll-form', 'f28'),
+                component: ComponentCreator('/android/components/dyte-poll-form', '89f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-polls',
-                component: ComponentCreator('/android/components/dyte-polls', 'e04'),
+                component: ComponentCreator('/android/components/dyte-polls', '00b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-recording-indicator',
-                component: ComponentCreator('/android/components/dyte-recording-indicator', '9f2'),
+                component: ComponentCreator('/android/components/dyte-recording-indicator', '3b2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-settings',
-                component: ComponentCreator('/android/components/dyte-settings', 'ee4'),
+                component: ComponentCreator('/android/components/dyte-settings', '496'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-setup-screen',
-                component: ComponentCreator('/android/components/dyte-setup-screen', 'e82'),
+                component: ComponentCreator('/android/components/dyte-setup-screen', 'cc7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-video-selector',
-                component: ComponentCreator('/android/components/dyte-video-selector', '9b9'),
+                component: ComponentCreator('/android/components/dyte-video-selector', 'b6e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/components/dyte-webinar-stage-toggle',
-                component: ComponentCreator('/android/components/dyte-webinar-stage-toggle', 'bf0'),
+                component: ComponentCreator('/android/components/dyte-webinar-stage-toggle', '159'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/customize-meeting-ui',
-                component: ComponentCreator('/android/customize-meeting-ui', '30b'),
+                component: ComponentCreator('/android/customize-meeting-ui', '45c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/participants/introduction',
-                component: ComponentCreator('/android/participants/introduction', 'b79'),
+                component: ComponentCreator('/android/participants/introduction', '9c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/participants/prebuilt',
-                component: ComponentCreator('/android/participants/prebuilt', '3dd'),
+                component: ComponentCreator('/android/participants/prebuilt', '5ff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/plugins/introduction',
-                component: ComponentCreator('/android/plugins/introduction', '3ea'),
+                component: ComponentCreator('/android/plugins/introduction', 'e69'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/plugins/prebuilt',
-                component: ComponentCreator('/android/plugins/prebuilt', 'dfc'),
+                component: ComponentCreator('/android/plugins/prebuilt', 'ace'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/polls/prebuilt-create-poll',
-                component: ComponentCreator('/android/polls/prebuilt-create-poll', '09b'),
+                component: ComponentCreator('/android/polls/prebuilt-create-poll', '334'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/polls/prebuilt-polls-screen',
-                component: ComponentCreator('/android/polls/prebuilt-polls-screen', 'd21'),
+                component: ComponentCreator('/android/polls/prebuilt-polls-screen', 'ea4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/release-notes',
-                component: ComponentCreator('/android/release-notes', 'a14'),
+                component: ComponentCreator('/android/release-notes', 'abb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/render-participant-videos/custom-ui',
-                component: ComponentCreator('/android/render-participant-videos/custom-ui', '9bb'),
+                component: ComponentCreator('/android/render-participant-videos/custom-ui', '941'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/render-participant-videos/using-dytegrid',
-                component: ComponentCreator('/android/render-participant-videos/using-dytegrid', 'd52'),
+                component: ComponentCreator('/android/render-participant-videos/using-dytegrid', '4b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android/sample-app',
-                component: ComponentCreator('/android/sample-app', 'dea'),
+                component: ComponentCreator('/android/sample-app', 'eb2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -406,11 +406,11 @@ export default [
   },
   {
     path: '/android-core',
-    component: ComponentCreator('/android-core', 'cd6'),
+    component: ComponentCreator('/android-core', '0d6'),
     routes: [
       {
         path: '/android-core',
-        component: ComponentCreator('/android-core', '750'),
+        component: ComponentCreator('/android-core', 'a74'),
         routes: [
           {
             path: '/android-core/tags',
@@ -428,18 +428,8 @@ export default [
             exact: true
           },
           {
-            path: '/android-core/tags/connection-events',
-            component: ComponentCreator('/android-core/tags/connection-events', '1ce'),
-            exact: true
-          },
-          {
             path: '/android-core/tags/create',
             component: ComponentCreator('/android-core/tags/create', '18c'),
-            exact: true
-          },
-          {
-            path: '/android-core/tags/flutter-core',
-            component: ComponentCreator('/android-core/tags/flutter-core', '974'),
             exact: true
           },
           {
@@ -450,16 +440,6 @@ export default [
           {
             path: '/android-core/tags/local-user',
             component: ComponentCreator('/android-core/tags/local-user', '141'),
-            exact: true
-          },
-          {
-            path: '/android-core/tags/mobile-core',
-            component: ComponentCreator('/android-core/tags/mobile-core', 'e25'),
-            exact: true
-          },
-          {
-            path: '/android-core/tags/participant',
-            component: ComponentCreator('/android-core/tags/participant', 'c91'),
             exact: true
           },
           {
@@ -480,11 +460,6 @@ export default [
           {
             path: '/android-core/tags/quickstart',
             component: ComponentCreator('/android-core/tags/quickstart', '93c'),
-            exact: true
-          },
-          {
-            path: '/android-core/tags/reconnection',
-            component: ComponentCreator('/android-core/tags/reconnection', 'c24'),
             exact: true
           },
           {
@@ -513,6 +488,11 @@ export default [
             exact: true
           },
           {
+            path: '/android-core/tags/setup',
+            component: ComponentCreator('/android-core/tags/setup', '6d6'),
+            exact: true
+          },
+          {
             path: '/android-core/tags/stage',
             component: ComponentCreator('/android-core/tags/stage', 'd74'),
             exact: true
@@ -523,155 +503,214 @@ export default [
             exact: true
           },
           {
-            path: '/android-core/tags/web-core',
-            component: ComponentCreator('/android-core/tags/web-core', 'a3c'),
+            path: '/android-core/tags/waiting-room',
+            component: ComponentCreator('/android-core/tags/waiting-room', '90f'),
+            exact: true
+          },
+          {
+            path: '/android-core/tags/waitlisted',
+            component: ComponentCreator('/android-core/tags/waitlisted', 'fda'),
             exact: true
           },
           {
             path: '/android-core',
-            component: ComponentCreator('/android-core', 'e59'),
+            component: ComponentCreator('/android-core', '19b'),
             routes: [
               {
                 path: '/android-core',
-                component: ComponentCreator('/android-core', '9de'),
+                component: ComponentCreator('/android-core', '375'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/chat/introduction',
-                component: ComponentCreator('/android-core/chat/introduction', '369'),
+                component: ComponentCreator('/android-core/chat/introduction', '906'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/chat/receiving-chat-messages',
-                component: ComponentCreator('/android-core/chat/receiving-chat-messages', '10a'),
+                component: ComponentCreator('/android-core/chat/receiving-chat-messages', '175'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/chat/sending-a-chat-message',
-                component: ComponentCreator('/android-core/chat/sending-a-chat-message', 'f36'),
+                component: ComponentCreator('/android-core/chat/sending-a-chat-message', '3ce'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/error-codes',
+                component: ComponentCreator('/android-core/error-codes', '44d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/Introduction',
+                component: ComponentCreator('/android-core/Introduction', '5dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/livestream/dyte-livestream-listener',
-                component: ComponentCreator('/android-core/livestream/dyte-livestream-listener', '93d'),
+                component: ComponentCreator('/android-core/livestream/dyte-livestream-listener', 'b39'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/livestream/dyte-livestream-object',
-                component: ComponentCreator('/android-core/livestream/dyte-livestream-object', '35e'),
+                component: ComponentCreator('/android-core/livestream/dyte-livestream-object', 'e73'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/livestream/introduction',
-                component: ComponentCreator('/android-core/livestream/introduction', '0d8'),
+                component: ComponentCreator('/android-core/livestream/introduction', 'e66'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/local-user/events',
-                component: ComponentCreator('/android-core/local-user/events', '26c'),
+                component: ComponentCreator('/android-core/local-user/events', '61b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/local-user/introduction',
-                component: ComponentCreator('/android-core/local-user/introduction', '087'),
+                component: ComponentCreator('/android-core/local-user/introduction', 'a10'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/local-user/manage-media-devices',
-                component: ComponentCreator('/android-core/local-user/manage-media-devices', 'b2a'),
+                component: ComponentCreator('/android-core/local-user/manage-media-devices', '3a9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/local-user/manage-permissions',
-                component: ComponentCreator('/android-core/local-user/manage-permissions', '285'),
+                component: ComponentCreator('/android-core/local-user/manage-permissions', '83b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/participants',
+                component: ComponentCreator('/android-core/participants', '5ea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/participants/events',
-                component: ComponentCreator('/android-core/participants/events', 'c1c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/android-core/participants/introduction',
-                component: ComponentCreator('/android-core/participants/introduction', '6d2'),
+                component: ComponentCreator('/android-core/participants/events', '2be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/participants/participant-object',
-                component: ComponentCreator('/android-core/participants/participant-object', '9cd'),
+                component: ComponentCreator('/android-core/participants/participant-object', '094'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/android-core/plugins',
-                component: ComponentCreator('/android-core/plugins', 'aec'),
+                path: '/android-core/participants/waitlisted-participants',
+                component: ComponentCreator('/android-core/participants/waitlisted-participants', '990'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/plugins/enable-disable-plugin',
+                component: ComponentCreator('/android-core/plugins/enable-disable-plugin', '86d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/plugins/extra',
+                component: ComponentCreator('/android-core/plugins/extra', '43d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/plugins/introduction',
+                component: ComponentCreator('/android-core/plugins/introduction', '3c4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/polls/creating-a-poll',
-                component: ComponentCreator('/android-core/polls/creating-a-poll', '03f'),
+                component: ComponentCreator('/android-core/polls/creating-a-poll', '0c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/polls/introduction',
-                component: ComponentCreator('/android-core/polls/introduction', 'ae9'),
+                component: ComponentCreator('/android-core/polls/introduction', '3cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/polls/voting-on-a-poll',
-                component: ComponentCreator('/android-core/polls/voting-on-a-poll', '553'),
+                component: ComponentCreator('/android-core/polls/voting-on-a-poll', '669'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/pre-call/handling-permissions',
+                component: ComponentCreator('/android-core/pre-call/handling-permissions', 'af8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/pre-call/media-preview',
+                component: ComponentCreator('/android-core/pre-call/media-preview', 'bbb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/pre-call/meeting-meta',
+                component: ComponentCreator('/android-core/pre-call/meeting-meta', 'a9b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/android-core/pre-call/waiting-room',
+                component: ComponentCreator('/android-core/pre-call/waiting-room', 'afa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/recording',
-                component: ComponentCreator('/android-core/recording', 'ec4'),
+                component: ComponentCreator('/android-core/recording', '98c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/android-core/release-notes',
-                component: ComponentCreator('/android-core/release-notes', 'a96'),
+                component: ComponentCreator('/android-core/release-notes', '546'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/android-core/room/room-connection-events',
-                component: ComponentCreator('/android-core/room/room-connection-events', '252'),
+                path: '/android-core/room-metadata',
+                component: ComponentCreator('/android-core/room-metadata', '182'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/android-core/room/room-metadata',
-                component: ComponentCreator('/android-core/room/room-metadata', 'e40'),
+                path: '/android-core/stage-management/host-controls',
+                component: ComponentCreator('/android-core/stage-management/host-controls', '140'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/android-core/stage/introduction',
-                component: ComponentCreator('/android-core/stage/introduction', 'd28'),
+                path: '/android-core/stage-management/introduction',
+                component: ComponentCreator('/android-core/stage-management/introduction', 'b1b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/android-core/stage/stage-management',
-                component: ComponentCreator('/android-core/stage/stage-management', '132'),
+                path: '/android-core/stage-management/viewer-participants',
+                component: ComponentCreator('/android-core/stage-management/viewer-participants', 'a98'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -683,11 +722,11 @@ export default [
   },
   {
     path: '/angular-ui-kit',
-    component: ComponentCreator('/angular-ui-kit', '68e'),
+    component: ComponentCreator('/angular-ui-kit', '89c'),
     routes: [
       {
         path: '/angular-ui-kit',
-        component: ComponentCreator('/angular-ui-kit', '75a'),
+        component: ComponentCreator('/angular-ui-kit', '547'),
         routes: [
           {
             path: '/angular-ui-kit/tags',
@@ -701,539 +740,545 @@ export default [
           },
           {
             path: '/angular-ui-kit',
-            component: ComponentCreator('/angular-ui-kit', '5f3'),
+            component: ComponentCreator('/angular-ui-kit', '741'),
             routes: [
               {
                 path: '/angular-ui-kit',
-                component: ComponentCreator('/angular-ui-kit', '425'),
+                component: ComponentCreator('/angular-ui-kit', '3c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/basics/components-basics',
-                component: ComponentCreator('/angular-ui-kit/basics/components-basics', 'a2e'),
+                component: ComponentCreator('/angular-ui-kit/basics/components-basics', 'dc9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/basics/pre-requisite',
-                component: ComponentCreator('/angular-ui-kit/basics/pre-requisite', 'b45'),
+                component: ComponentCreator('/angular-ui-kit/basics/pre-requisite', 'f77'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components',
-                component: ComponentCreator('/angular-ui-kit/components', '167'),
+                component: ComponentCreator('/angular-ui-kit/components', '831'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-audio-visualizer',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-audio-visualizer', '683'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-audio-visualizer', 'e40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-avatar',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-avatar', 'cdc'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-avatar', 'fd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-button',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-button', 'dd9'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-button', 'f99'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-camera-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-camera-toggle', '868'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-camera-toggle', '340'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-chat',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-chat', 'd35'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-chat', '3d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-chat-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-chat-toggle', '695'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-chat-toggle', '6cf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-clock',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-clock', '626'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-clock', '3a6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-confirmation-modal',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-confirmation-modal', '59d'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-confirmation-modal', 'ba8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-controlbar',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-controlbar', '8c9'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-controlbar', 'db9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-controlbar-button',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-controlbar-button', '51d'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-controlbar-button', 'aba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-dialog',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-dialog', 'f3b'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-dialog', 'a37'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-dialog-manager',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-dialog-manager', '940'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-dialog-manager', '718'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-emoji-picker',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-emoji-picker', '4a2'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-emoji-picker', '840'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-ended-screen',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-ended-screen', '30c'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-ended-screen', '4cf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-file-message',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-file-message', '785'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-file-message', '777'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-fullscreen-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-fullscreen-toggle', '699'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-fullscreen-toggle', '1c0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-grid',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-grid', '88b'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-grid', '67a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-grid-pagination',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-grid-pagination', 'b0a'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-grid-pagination', '235'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-header',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-header', 'e2f'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-header', '2de'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-icon',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-icon', 'f52'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-icon', '407'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-idle-screen',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-idle-screen', '81b'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-idle-screen', '130'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-image-message',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-image-message', '991'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-image-message', '567'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-image-viewer',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-image-viewer', '052'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-image-viewer', '500'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-leave-button',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-leave-button', '1d2'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-leave-button', '5ff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-leave-meeting',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-leave-meeting', '253'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-leave-meeting', '515'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-logo',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-logo', '506'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-logo', '7de'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-meeting',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-meeting', 'ce1'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-meeting', 'b2c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-meeting-title',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-meeting-title', 'f30'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-meeting-title', 'cef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-menu',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-menu', 'b7b'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-menu', '4b5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-menu-item',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-menu-item', 'ab4'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-menu-item', '4ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-menu-list',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-menu-list', 'c07'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-menu-list', 'b7a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-mic-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-mic-toggle', '010'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-mic-toggle', '382'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-mixed-grid',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-mixed-grid', 'be8'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-mixed-grid', 'f47'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-more-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-more-toggle', '749'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-more-toggle', 'b17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-name-tag',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-name-tag', '579'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-name-tag', 'b3e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/angular-ui-kit/components/dyte-network-indicator',
+                component: ComponentCreator('/angular-ui-kit/components/dyte-network-indicator', 'b9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-notification',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-notification', '181'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-notification', 'db4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-notifications',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-notifications', '1d9'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-notifications', 'ab5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-overlay-modal',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-overlay-modal', 'e44'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-overlay-modal', '6a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-participant',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-participant', '910'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-participant', '41d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-participant-count',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-participant-count', '34c'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-participant-count', 'fbe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-participant-tile',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-participant-tile', 'bcb'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-participant-tile', '8f1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-participants',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-participants', 'ba5'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-participants', 'fa4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-participants-audio',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-participants-audio', 'cbb'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-participants-audio', 'c7c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-participants-stage-list',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-participants-stage-list', '27e'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-participants-stage-list', '6b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-participants-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-participants-toggle', 'c97'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-participants-toggle', '75d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-permissions-message',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-permissions-message', '984'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-permissions-message', '01e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-plugin-main',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-plugin-main', 'cd2'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-plugin-main', '4df'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-plugins',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-plugins', 'ce3'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-plugins', 'd84'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-plugins-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-plugins-toggle', '954'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-plugins-toggle', '032'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-poll',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-poll', '3b4'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-poll', '797'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-poll-form',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-poll-form', 'b54'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-poll-form', '685'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-polls',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-polls', '3d6'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-polls', 'bc4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-polls-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-polls-toggle', 'f7a'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-polls-toggle', 'f04'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-recording-indicator',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-recording-indicator', '044'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-recording-indicator', '4a7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-recording-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-recording-toggle', 'c78'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-recording-toggle', 'a50'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-remote-access-manager',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-remote-access-manager', '595'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-remote-access-manager', 'df2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-screen-share-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-screen-share-toggle', 'ae5'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-screen-share-toggle', '123'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-screenshare-view',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-screenshare-view', '8a9'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-screenshare-view', 'cf6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-settings',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-settings', 'efc'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-settings', 'fe8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-settings-audio',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-settings-audio', 'ec4'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-settings-audio', 'e5e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-settings-toggle',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-settings-toggle', '9fc'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-settings-toggle', '068'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-settings-video',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-settings-video', '76b'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-settings-video', 'a56'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-setup-screen',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-setup-screen', '5ec'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-setup-screen', 'add'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-sidebar',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-sidebar', '3e3'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-sidebar', '1f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-simple-grid',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-simple-grid', 'a78'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-simple-grid', '8af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-spinner',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-spinner', 'a6e'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-spinner', '475'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-spotlight-grid',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-spotlight-grid', '829'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-spotlight-grid', '0ea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-stage',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-stage', 'cab'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-stage', '5e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-switch',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-switch', '4b6'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-switch', '0ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-text-field',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-text-field', '37a'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-text-field', '724'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-text-message',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-text-message', '1c3'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-text-message', '75e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-tooltip',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-tooltip', '1e7'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-tooltip', '45d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/components/dyte-viewer-count',
-                component: ComponentCreator('/angular-ui-kit/components/dyte-viewer-count', 'deb'),
+                component: ComponentCreator('/angular-ui-kit/components/dyte-viewer-count', '3ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/customizations/custom-iconpack',
-                component: ComponentCreator('/angular-ui-kit/customizations/custom-iconpack', 'f07'),
+                component: ComponentCreator('/angular-ui-kit/customizations/custom-iconpack', '9c0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/customizations/custom-locale',
-                component: ComponentCreator('/angular-ui-kit/customizations/custom-locale', 'ca3'),
+                component: ComponentCreator('/angular-ui-kit/customizations/custom-locale', 'd1d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/design-system',
-                component: ComponentCreator('/angular-ui-kit/design-system', '04e'),
+                component: ComponentCreator('/angular-ui-kit/design-system', '122'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/quickstart',
-                component: ComponentCreator('/angular-ui-kit/quickstart', '0be'),
+                component: ComponentCreator('/angular-ui-kit/quickstart', 'b4c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/reference',
-                component: ComponentCreator('/angular-ui-kit/reference', 'c45'),
+                component: ComponentCreator('/angular-ui-kit/reference', '2bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/reference/classes/DyteNotificationsAudio',
-                component: ComponentCreator('/angular-ui-kit/reference/classes/DyteNotificationsAudio', 'a32'),
+                component: ComponentCreator('/angular-ui-kit/reference/classes/DyteNotificationsAudio', '990'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/reference/interfaces/Notification',
-                component: ComponentCreator('/angular-ui-kit/reference/interfaces/Notification', 'ada'),
+                component: ComponentCreator('/angular-ui-kit/reference/interfaces/Notification', '752'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/reference/interfaces/PollObject',
-                component: ComponentCreator('/angular-ui-kit/reference/interfaces/PollObject', '5cd'),
+                component: ComponentCreator('/angular-ui-kit/reference/interfaces/PollObject', '40b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/reference/interfaces/States',
-                component: ComponentCreator('/angular-ui-kit/reference/interfaces/States', '0cc'),
+                component: ComponentCreator('/angular-ui-kit/reference/interfaces/States', '3b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/reference/interfaces/UIConfig',
-                component: ComponentCreator('/angular-ui-kit/reference/interfaces/UIConfig', 'c5b'),
+                component: ComponentCreator('/angular-ui-kit/reference/interfaces/UIConfig', '0d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/reference/interfaces/UserPreferences',
-                component: ComponentCreator('/angular-ui-kit/reference/interfaces/UserPreferences', '2fb'),
+                component: ComponentCreator('/angular-ui-kit/reference/interfaces/UserPreferences', '628'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/angular-ui-kit/release-notes',
-                component: ComponentCreator('/angular-ui-kit/release-notes', '84d'),
+                component: ComponentCreator('/angular-ui-kit/release-notes', '2bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -1245,49 +1290,49 @@ export default [
   },
   {
     path: '/cli',
-    component: ComponentCreator('/cli', '5a8'),
+    component: ComponentCreator('/cli', 'e59'),
     routes: [
       {
         path: '/cli',
-        component: ComponentCreator('/cli', '34d'),
+        component: ComponentCreator('/cli', '9b8'),
         routes: [
           {
             path: '/cli',
-            component: ComponentCreator('/cli', '405'),
+            component: ComponentCreator('/cli', '10e'),
             routes: [
               {
                 path: '/cli',
-                component: ComponentCreator('/cli', '928'),
+                component: ComponentCreator('/cli', '7da'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/cli/getting-started',
-                component: ComponentCreator('/cli/getting-started', 'dbf'),
+                component: ComponentCreator('/cli/getting-started', '904'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/cli/meetings',
-                component: ComponentCreator('/cli/meetings', 'b51'),
+                component: ComponentCreator('/cli/meetings', '418'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/cli/plugins',
-                component: ComponentCreator('/cli/plugins', 'cf3'),
+                component: ComponentCreator('/cli/plugins', 'a38'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/cli/recording',
-                component: ComponentCreator('/cli/recording', '803'),
+                component: ComponentCreator('/cli/recording', '95a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/cli/webhooks',
-                component: ComponentCreator('/cli/webhooks', '0ca'),
+                component: ComponentCreator('/cli/webhooks', '260'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -1299,49 +1344,49 @@ export default [
   },
   {
     path: '/community-packages',
-    component: ComponentCreator('/community-packages', 'a22'),
+    component: ComponentCreator('/community-packages', '626'),
     routes: [
       {
         path: '/community-packages',
-        component: ComponentCreator('/community-packages', 'f97'),
+        component: ComponentCreator('/community-packages', '483'),
         routes: [
           {
             path: '/community-packages',
-            component: ComponentCreator('/community-packages', 'db6'),
+            component: ComponentCreator('/community-packages', '140'),
             routes: [
               {
                 path: '/community-packages',
-                component: ComponentCreator('/community-packages', '0c5'),
+                component: ComponentCreator('/community-packages', 'db8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/community-packages/device-emulator',
-                component: ComponentCreator('/community-packages/device-emulator', '8eb'),
+                component: ComponentCreator('/community-packages/device-emulator', '81d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/community-packages/device-emulator/examples',
-                component: ComponentCreator('/community-packages/device-emulator/examples', '5e5'),
+                component: ComponentCreator('/community-packages/device-emulator/examples', '257'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/community-packages/socketio-client',
-                component: ComponentCreator('/community-packages/socketio-client', '8ec'),
+                component: ComponentCreator('/community-packages/socketio-client', '656'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/community-packages/socketio-client/emitting',
-                component: ComponentCreator('/community-packages/socketio-client/emitting', '2de'),
+                component: ComponentCreator('/community-packages/socketio-client/emitting', 'bdc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/community-packages/socketio-client/initialization',
-                component: ComponentCreator('/community-packages/socketio-client/initialization', 'ce2'),
+                component: ComponentCreator('/community-packages/socketio-client/initialization', '616'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -1353,11 +1398,11 @@ export default [
   },
   {
     path: '/flutter',
-    component: ComponentCreator('/flutter', '4d9'),
+    component: ComponentCreator('/flutter', '929'),
     routes: [
       {
         path: '/flutter',
-        component: ComponentCreator('/flutter', '588'),
+        component: ComponentCreator('/flutter', 'c86'),
         routes: [
           {
             path: '/flutter/tags',
@@ -1381,119 +1426,119 @@ export default [
           },
           {
             path: '/flutter',
-            component: ComponentCreator('/flutter', '7d3'),
+            component: ComponentCreator('/flutter', '437'),
             routes: [
               {
                 path: '/flutter',
-                component: ComponentCreator('/flutter', 'acf'),
+                component: ComponentCreator('/flutter', '847'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-audio-indicator-icon-widget',
-                component: ComponentCreator('/flutter/Components/dyte-audio-indicator-icon-widget', '919'),
+                component: ComponentCreator('/flutter/Components/dyte-audio-indicator-icon-widget', '593'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-chat-icon-widget',
-                component: ComponentCreator('/flutter/Components/dyte-chat-icon-widget', '0b1'),
+                component: ComponentCreator('/flutter/Components/dyte-chat-icon-widget', 'e62'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-join-button',
-                component: ComponentCreator('/flutter/Components/dyte-join-button', '57d'),
+                component: ComponentCreator('/flutter/Components/dyte-join-button', 'd82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-leave-button',
-                component: ComponentCreator('/flutter/Components/dyte-leave-button', 'c40'),
+                component: ComponentCreator('/flutter/Components/dyte-leave-button', '75a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-leave-meeting-dialog',
-                component: ComponentCreator('/flutter/Components/dyte-leave-meeting-dialog', '5e2'),
+                component: ComponentCreator('/flutter/Components/dyte-leave-meeting-dialog', 'a87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-meeting-title',
-                component: ComponentCreator('/flutter/Components/dyte-meeting-title', 'ec1'),
+                component: ComponentCreator('/flutter/Components/dyte-meeting-title', '222'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-name-tag-widget',
-                component: ComponentCreator('/flutter/Components/dyte-name-tag-widget', 'e88'),
+                component: ComponentCreator('/flutter/Components/dyte-name-tag-widget', '46d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-participant-tile',
-                component: ComponentCreator('/flutter/Components/dyte-participant-tile', 'f3d'),
+                component: ComponentCreator('/flutter/Components/dyte-participant-tile', '68d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-participants-icon-widget',
-                component: ComponentCreator('/flutter/Components/dyte-participants-icon-widget', 'ba1'),
+                component: ComponentCreator('/flutter/Components/dyte-participants-icon-widget', '6c4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-plugins-screen',
-                component: ComponentCreator('/flutter/Components/dyte-plugins-screen', 'aa3'),
+                component: ComponentCreator('/flutter/Components/dyte-plugins-screen', '173'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-polls-screen',
-                component: ComponentCreator('/flutter/Components/dyte-polls-screen', '6a7'),
+                component: ComponentCreator('/flutter/Components/dyte-polls-screen', '0d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-provider',
-                component: ComponentCreator('/flutter/Components/dyte-provider', '5d7'),
+                component: ComponentCreator('/flutter/Components/dyte-provider', '464'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-self-audio-toggle',
-                component: ComponentCreator('/flutter/Components/dyte-self-audio-toggle', '3df'),
+                component: ComponentCreator('/flutter/Components/dyte-self-audio-toggle', '3bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-self-video-toggle',
-                component: ComponentCreator('/flutter/Components/dyte-self-video-toggle', '900'),
+                component: ComponentCreator('/flutter/Components/dyte-self-video-toggle', 'cbd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/Components/dyte-setup-screen-component',
-                component: ComponentCreator('/flutter/Components/dyte-setup-screen-component', '68b'),
+                component: ComponentCreator('/flutter/Components/dyte-setup-screen-component', 'fbc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/design-token',
-                component: ComponentCreator('/flutter/design-token', '660'),
+                component: ComponentCreator('/flutter/design-token', '8af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/quickstart',
-                component: ComponentCreator('/flutter/quickstart', '95f'),
+                component: ComponentCreator('/flutter/quickstart', 'af3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter/release-notes',
-                component: ComponentCreator('/flutter/release-notes', '3b4'),
+                component: ComponentCreator('/flutter/release-notes', 'b79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -1505,11 +1550,11 @@ export default [
   },
   {
     path: '/flutter-core',
-    component: ComponentCreator('/flutter-core', 'ba4'),
+    component: ComponentCreator('/flutter-core', '9e2'),
     routes: [
       {
         path: '/flutter-core',
-        component: ComponentCreator('/flutter-core', '9b5'),
+        component: ComponentCreator('/flutter-core', '804'),
         routes: [
           {
             path: '/flutter-core/tags',
@@ -1618,137 +1663,137 @@ export default [
           },
           {
             path: '/flutter-core',
-            component: ComponentCreator('/flutter-core', 'b4d'),
+            component: ComponentCreator('/flutter-core', '38d'),
             routes: [
               {
                 path: '/flutter-core',
-                component: ComponentCreator('/flutter-core', '159'),
+                component: ComponentCreator('/flutter-core', 'a01'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/chat/introduction',
-                component: ComponentCreator('/flutter-core/chat/introduction', 'a60'),
+                component: ComponentCreator('/flutter-core/chat/introduction', '357'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/chat/receiving-chat-messages',
-                component: ComponentCreator('/flutter-core/chat/receiving-chat-messages', 'c56'),
+                component: ComponentCreator('/flutter-core/chat/receiving-chat-messages', 'd7e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/chat/sending-a-chat-message',
-                component: ComponentCreator('/flutter-core/chat/sending-a-chat-message', '27e'),
+                component: ComponentCreator('/flutter-core/chat/sending-a-chat-message', 'e00'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/host-actions',
-                component: ComponentCreator('/flutter-core/host-actions', '87c'),
+                component: ComponentCreator('/flutter-core/host-actions', 'd95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/livestream',
-                component: ComponentCreator('/flutter-core/livestream', '996'),
+                component: ComponentCreator('/flutter-core/livestream', 'abc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/local-user/events',
-                component: ComponentCreator('/flutter-core/local-user/events', '8eb'),
+                component: ComponentCreator('/flutter-core/local-user/events', '9b8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/local-user/introduction',
-                component: ComponentCreator('/flutter-core/local-user/introduction', '0b2'),
+                component: ComponentCreator('/flutter-core/local-user/introduction', '1da'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/local-user/manage-media-devices',
-                component: ComponentCreator('/flutter-core/local-user/manage-media-devices', '645'),
+                component: ComponentCreator('/flutter-core/local-user/manage-media-devices', 'b8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/local-user/screen-share-iOS-guide',
-                component: ComponentCreator('/flutter-core/local-user/screen-share-iOS-guide', '0c1'),
+                component: ComponentCreator('/flutter-core/local-user/screen-share-iOS-guide', 'ca1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/participants/events',
-                component: ComponentCreator('/flutter-core/participants/events', 'ddd'),
+                component: ComponentCreator('/flutter-core/participants/events', 'cb0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/participants/introduction',
-                component: ComponentCreator('/flutter-core/participants/introduction', '3c6'),
+                component: ComponentCreator('/flutter-core/participants/introduction', '207'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/participants/participant-object',
-                component: ComponentCreator('/flutter-core/participants/participant-object', '671'),
+                component: ComponentCreator('/flutter-core/participants/participant-object', 'a33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/polls/creating-a-poll',
-                component: ComponentCreator('/flutter-core/polls/creating-a-poll', '7a2'),
+                component: ComponentCreator('/flutter-core/polls/creating-a-poll', '800'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/polls/introduction',
-                component: ComponentCreator('/flutter-core/polls/introduction', 'ad9'),
+                component: ComponentCreator('/flutter-core/polls/introduction', '856'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/polls/receiving-polls',
-                component: ComponentCreator('/flutter-core/polls/receiving-polls', '867'),
+                component: ComponentCreator('/flutter-core/polls/receiving-polls', '795'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/polls/voting-on-a-poll',
-                component: ComponentCreator('/flutter-core/polls/voting-on-a-poll', '483'),
+                component: ComponentCreator('/flutter-core/polls/voting-on-a-poll', '622'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/recording',
-                component: ComponentCreator('/flutter-core/recording', 'ddc'),
+                component: ComponentCreator('/flutter-core/recording', 'd3f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/release-notes',
-                component: ComponentCreator('/flutter-core/release-notes', 'd38'),
+                component: ComponentCreator('/flutter-core/release-notes', '5c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/room-metadata',
-                component: ComponentCreator('/flutter-core/room-metadata', '563'),
+                component: ComponentCreator('/flutter-core/room-metadata', '356'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/stage-management',
-                component: ComponentCreator('/flutter-core/stage-management', '453'),
+                component: ComponentCreator('/flutter-core/stage-management', 'f71'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/flutter-core/waiting-room',
-                component: ComponentCreator('/flutter-core/waiting-room', '267'),
+                component: ComponentCreator('/flutter-core/waiting-room', '4bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -1760,625 +1805,625 @@ export default [
   },
   {
     path: '/guides',
-    component: ComponentCreator('/guides', '409'),
+    component: ComponentCreator('/guides', '695'),
     routes: [
       {
         path: '/guides',
-        component: ComponentCreator('/guides', '904'),
+        component: ComponentCreator('/guides', '288'),
         routes: [
           {
             path: '/guides',
-            component: ComponentCreator('/guides', '740'),
+            component: ComponentCreator('/guides', '6b2'),
             routes: [
               {
                 path: '/guides',
-                component: ComponentCreator('/guides', '4f3'),
+                component: ComponentCreator('/guides', 'da3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/ai',
-                component: ComponentCreator('/guides/capabilities/ai', 'aa8'),
+                component: ComponentCreator('/guides/capabilities/ai', 'bea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/ai/meeting-transcription',
-                component: ComponentCreator('/guides/capabilities/ai/meeting-transcription', 'd40'),
+                component: ComponentCreator('/guides/capabilities/ai/meeting-transcription', '4fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/audio/processing',
-                component: ComponentCreator('/guides/capabilities/audio/processing', '67a'),
+                component: ComponentCreator('/guides/capabilities/audio/processing', 'f58'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/audio/transcriptionAWS',
-                component: ComponentCreator('/guides/capabilities/audio/transcriptionAWS', '4d9'),
+                component: ComponentCreator('/guides/capabilities/audio/transcriptionAWS', '34e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/audio/transcriptionGoogle',
-                component: ComponentCreator('/guides/capabilities/audio/transcriptionGoogle', 'e6e'),
+                component: ComponentCreator('/guides/capabilities/audio/transcriptionGoogle', 'c0b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/audio/transcriptions',
-                component: ComponentCreator('/guides/capabilities/audio/transcriptions', 'f95'),
+                component: ComponentCreator('/guides/capabilities/audio/transcriptions', '685'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/breakoutroom/create-breakout-rooms',
-                component: ComponentCreator('/guides/capabilities/breakoutroom/create-breakout-rooms', 'a9b'),
+                component: ComponentCreator('/guides/capabilities/breakoutroom/create-breakout-rooms', '77b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/breakoutroom/integrating-breakout-rooms',
-                component: ComponentCreator('/guides/capabilities/breakoutroom/integrating-breakout-rooms', 'c40'),
+                component: ComponentCreator('/guides/capabilities/breakoutroom/integrating-breakout-rooms', '8fc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/breakoutroom/introduction-breakout-rooms',
-                component: ComponentCreator('/guides/capabilities/breakoutroom/introduction-breakout-rooms', '995'),
+                component: ComponentCreator('/guides/capabilities/breakoutroom/introduction-breakout-rooms', 'e0a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/chat/export-chat-dump',
-                component: ComponentCreator('/guides/capabilities/chat/export-chat-dump', '251'),
+                component: ComponentCreator('/guides/capabilities/chat/export-chat-dump', 'f9a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/misc/embed',
-                component: ComponentCreator('/guides/capabilities/misc/embed', '152'),
+                component: ComponentCreator('/guides/capabilities/misc/embed', '4eb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/misc/livestreaming-other-platforms',
-                component: ComponentCreator('/guides/capabilities/misc/livestreaming-other-platforms', '1ae'),
+                component: ComponentCreator('/guides/capabilities/misc/livestreaming-other-platforms', '886'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/plugins',
-                component: ComponentCreator('/guides/capabilities/plugins', '2ed'),
+                component: ComponentCreator('/guides/capabilities/plugins', '837'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/plugins/docshare',
-                component: ComponentCreator('/guides/capabilities/plugins/docshare', 'a71'),
+                component: ComponentCreator('/guides/capabilities/plugins/docshare', '8dc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/plugins/rendering',
-                component: ComponentCreator('/guides/capabilities/plugins/rendering', 'a4c'),
+                component: ComponentCreator('/guides/capabilities/plugins/rendering', '061'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/plugins/streamer',
-                component: ComponentCreator('/guides/capabilities/plugins/streamer', 'd98'),
+                component: ComponentCreator('/guides/capabilities/plugins/streamer', 'eb2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/plugins/whiteboard',
-                component: ComponentCreator('/guides/capabilities/plugins/whiteboard', '241'),
+                component: ComponentCreator('/guides/capabilities/plugins/whiteboard', 'ea5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/polls',
-                component: ComponentCreator('/guides/capabilities/polls', 'f46'),
+                component: ComponentCreator('/guides/capabilities/polls', '130'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/polls/getting_started',
-                component: ComponentCreator('/guides/capabilities/polls/getting_started', '442'),
+                component: ComponentCreator('/guides/capabilities/polls/getting_started', '22b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/polls/uikit',
-                component: ComponentCreator('/guides/capabilities/polls/uikit', 'b2c'),
+                component: ComponentCreator('/guides/capabilities/polls/uikit', '5e1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording',
-                component: ComponentCreator('/guides/capabilities/recording', '3d4'),
+                component: ComponentCreator('/guides/capabilities/recording', 'd69'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/add-watermark',
-                component: ComponentCreator('/guides/capabilities/recording/add-watermark', '459'),
+                component: ComponentCreator('/guides/capabilities/recording/add-watermark', 'bb6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/configure-audio-codec',
-                component: ComponentCreator('/guides/capabilities/recording/configure-audio-codec', 'b1d'),
+                component: ComponentCreator('/guides/capabilities/recording/configure-audio-codec', '29e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/configure-codecs',
-                component: ComponentCreator('/guides/capabilities/recording/configure-codecs', '81d'),
+                component: ComponentCreator('/guides/capabilities/recording/configure-codecs', 'ac3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/configure-dyte-bucket-config',
-                component: ComponentCreator('/guides/capabilities/recording/configure-dyte-bucket-config', '7da'),
+                component: ComponentCreator('/guides/capabilities/recording/configure-dyte-bucket-config', '000'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/create-record-app-using-sdks',
-                component: ComponentCreator('/guides/capabilities/recording/create-record-app-using-sdks', '085'),
+                component: ComponentCreator('/guides/capabilities/recording/create-record-app-using-sdks', 'f81'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/custom-cloud-storage',
-                component: ComponentCreator('/guides/capabilities/recording/custom-cloud-storage', '75e'),
+                component: ComponentCreator('/guides/capabilities/recording/custom-cloud-storage', '989'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/interactive-recording',
-                component: ComponentCreator('/guides/capabilities/recording/interactive-recording', 'd26'),
+                component: ComponentCreator('/guides/capabilities/recording/interactive-recording', '43e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/manage-recording-config-hierarchy',
-                component: ComponentCreator('/guides/capabilities/recording/manage-recording-config-hierarchy', '793'),
+                component: ComponentCreator('/guides/capabilities/recording/manage-recording-config-hierarchy', 'f8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/monitor-status',
-                component: ComponentCreator('/guides/capabilities/recording/monitor-status', 'a08'),
+                component: ComponentCreator('/guides/capabilities/recording/monitor-status', '416'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/recording-overview',
-                component: ComponentCreator('/guides/capabilities/recording/recording-overview', '724'),
+                component: ComponentCreator('/guides/capabilities/recording/recording-overview', '624'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/start-recording',
-                component: ComponentCreator('/guides/capabilities/recording/start-recording', '823'),
+                component: ComponentCreator('/guides/capabilities/recording/start-recording', 'de3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/recording/stop-recording',
-                component: ComponentCreator('/guides/capabilities/recording/stop-recording', '287'),
+                component: ComponentCreator('/guides/capabilities/recording/stop-recording', '61a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/screensharing/basics',
-                component: ComponentCreator('/guides/capabilities/screensharing/basics', '52e'),
+                component: ComponentCreator('/guides/capabilities/screensharing/basics', 'edb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/screensharing/displaying',
-                component: ComponentCreator('/guides/capabilities/screensharing/displaying', 'c40'),
+                component: ComponentCreator('/guides/capabilities/screensharing/displaying', '369'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/sip',
-                component: ComponentCreator('/guides/capabilities/sip', 'd12'),
+                component: ComponentCreator('/guides/capabilities/sip', 'd30'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/video/add-virtual-background',
-                component: ComponentCreator('/guides/capabilities/video/add-virtual-background', '4db'),
+                component: ComponentCreator('/guides/capabilities/video/add-virtual-background', '7df'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/video/picture-in-picture',
-                component: ComponentCreator('/guides/capabilities/video/picture-in-picture', 'fb2'),
+                component: ComponentCreator('/guides/capabilities/video/picture-in-picture', 'cdf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/video/processing',
-                component: ComponentCreator('/guides/capabilities/video/processing', 'ba5'),
+                component: ComponentCreator('/guides/capabilities/video/processing', 'e31'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/webhooks',
-                component: ComponentCreator('/guides/capabilities/webhooks', 'c03'),
+                component: ComponentCreator('/guides/capabilities/webhooks', 'd9a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/webhooks/signatures',
-                component: ComponentCreator('/guides/capabilities/webhooks/signatures', '774'),
+                component: ComponentCreator('/guides/capabilities/webhooks/signatures', '332'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/webhooks/webhook-events',
-                component: ComponentCreator('/guides/capabilities/webhooks/webhook-events', '2b1'),
+                component: ComponentCreator('/guides/capabilities/webhooks/webhook-events', 'ee4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/webhooks/webhooks-and-events',
-                component: ComponentCreator('/guides/capabilities/webhooks/webhooks-and-events', 'a14'),
+                component: ComponentCreator('/guides/capabilities/webhooks/webhooks-and-events', 'd1d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/webhooks/webhooks-overview',
-                component: ComponentCreator('/guides/capabilities/webhooks/webhooks-overview', '340'),
+                component: ComponentCreator('/guides/capabilities/webhooks/webhooks-overview', '4a8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/capabilities/webinar/intro-webinar',
-                component: ComponentCreator('/guides/capabilities/webinar/intro-webinar', 'e85'),
+                component: ComponentCreator('/guides/capabilities/webinar/intro-webinar', '8a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/interactive-onboarding/add-participant',
-                component: ComponentCreator('/guides/interactive-onboarding/add-participant', 'bd1'),
+                component: ComponentCreator('/guides/interactive-onboarding/add-participant', '236'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/interactive-onboarding/create-meeting',
-                component: ComponentCreator('/guides/interactive-onboarding/create-meeting', 'f6b'),
+                component: ComponentCreator('/guides/interactive-onboarding/create-meeting', '868'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/interactive-onboarding/init-sdk',
-                component: ComponentCreator('/guides/interactive-onboarding/init-sdk', 'be1'),
+                component: ComponentCreator('/guides/interactive-onboarding/init-sdk', '725'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/interactive-onboarding/join-meeting',
-                component: ComponentCreator('/guides/interactive-onboarding/join-meeting', '4e8'),
+                component: ComponentCreator('/guides/interactive-onboarding/join-meeting', '1d9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/build-live-video-app',
-                component: ComponentCreator('/guides/live-video/build-live-video-app', 'd64'),
+                component: ComponentCreator('/guides/live-video/build-live-video-app', '7b3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/client-setup',
-                component: ComponentCreator('/guides/live-video/client-setup', '665'),
+                component: ComponentCreator('/guides/live-video/client-setup', '209'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/client-setup/android',
-                component: ComponentCreator('/guides/live-video/client-setup/android', '12c'),
+                component: ComponentCreator('/guides/live-video/client-setup/android', '5c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/client-setup/angular',
-                component: ComponentCreator('/guides/live-video/client-setup/angular', 'fb0'),
+                component: ComponentCreator('/guides/live-video/client-setup/angular', 'a96'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/client-setup/flutter',
-                component: ComponentCreator('/guides/live-video/client-setup/flutter', '40b'),
+                component: ComponentCreator('/guides/live-video/client-setup/flutter', 'fd5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/client-setup/ios',
-                component: ComponentCreator('/guides/live-video/client-setup/ios', '7e6'),
+                component: ComponentCreator('/guides/live-video/client-setup/ios', '6c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/client-setup/javascript',
-                component: ComponentCreator('/guides/live-video/client-setup/javascript', '0df'),
+                component: ComponentCreator('/guides/live-video/client-setup/javascript', '37b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/client-setup/react',
-                component: ComponentCreator('/guides/live-video/client-setup/react', '072'),
+                component: ComponentCreator('/guides/live-video/client-setup/react', '09d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/concepts',
-                component: ComponentCreator('/guides/live-video/concepts', 'd4d'),
+                component: ComponentCreator('/guides/live-video/concepts', 'a79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/get-started',
-                component: ComponentCreator('/guides/live-video/get-started', 'd61'),
+                component: ComponentCreator('/guides/live-video/get-started', 'bdd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/intro-video-conf',
-                component: ComponentCreator('/guides/live-video/intro-video-conf', '2c1'),
+                component: ComponentCreator('/guides/live-video/intro-video-conf', '751'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/live-video/next-steps',
-                component: ComponentCreator('/guides/live-video/next-steps', '809'),
+                component: ComponentCreator('/guides/live-video/next-steps', 'da5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/advanced/configuring-permissions',
-                component: ComponentCreator('/guides/livestream/advanced/configuring-permissions', '4ab'),
+                component: ComponentCreator('/guides/livestream/advanced/configuring-permissions', '792'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/advanced/livestream-any-rtmp',
-                component: ComponentCreator('/guides/livestream/advanced/livestream-any-rtmp', '983'),
+                component: ComponentCreator('/guides/livestream/advanced/livestream-any-rtmp', '9f1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/build-livestream-app',
-                component: ComponentCreator('/guides/livestream/build-livestream-app', '03e'),
+                component: ComponentCreator('/guides/livestream/build-livestream-app', '471'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/client-setup',
-                component: ComponentCreator('/guides/livestream/client-setup', '9b6'),
+                component: ComponentCreator('/guides/livestream/client-setup', '0e2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/client-setup/android',
-                component: ComponentCreator('/guides/livestream/client-setup/android', 'e6a'),
+                component: ComponentCreator('/guides/livestream/client-setup/android', '3b4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/client-setup/angular',
-                component: ComponentCreator('/guides/livestream/client-setup/angular', 'a73'),
+                component: ComponentCreator('/guides/livestream/client-setup/angular', 'c17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/client-setup/flutter',
-                component: ComponentCreator('/guides/livestream/client-setup/flutter', '1fe'),
+                component: ComponentCreator('/guides/livestream/client-setup/flutter', 'fcf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/client-setup/ios',
-                component: ComponentCreator('/guides/livestream/client-setup/ios', 'd49'),
+                component: ComponentCreator('/guides/livestream/client-setup/ios', '024'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/client-setup/javascript',
-                component: ComponentCreator('/guides/livestream/client-setup/javascript', '041'),
+                component: ComponentCreator('/guides/livestream/client-setup/javascript', 'e8f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/client-setup/react',
-                component: ComponentCreator('/guides/livestream/client-setup/react', '3b4'),
+                component: ComponentCreator('/guides/livestream/client-setup/react', '003'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/concepts',
-                component: ComponentCreator('/guides/livestream/concepts', 'b74'),
+                component: ComponentCreator('/guides/livestream/concepts', '7a7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/get-started',
-                component: ComponentCreator('/guides/livestream/get-started', '3ba'),
+                component: ComponentCreator('/guides/livestream/get-started', '08c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/livestream/livestream-overview',
-                component: ComponentCreator('/guides/livestream/livestream-overview', '50d'),
+                component: ComponentCreator('/guides/livestream/livestream-overview', 'cfe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/opentok/concept-media-opentok',
-                component: ComponentCreator('/guides/migration/opentok/concept-media-opentok', '5e3'),
+                component: ComponentCreator('/guides/migration/opentok/concept-media-opentok', 'cf0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/opentok/concepts-opentok-vs-dyte',
-                component: ComponentCreator('/guides/migration/opentok/concepts-opentok-vs-dyte', '6b8'),
+                component: ComponentCreator('/guides/migration/opentok/concepts-opentok-vs-dyte', '76b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/opentok/opentok-shim-by-dyte',
-                component: ComponentCreator('/guides/migration/opentok/opentok-shim-by-dyte', 'ff2'),
+                component: ComponentCreator('/guides/migration/opentok/opentok-shim-by-dyte', '7f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/twilio/basics',
-                component: ComponentCreator('/guides/migration/twilio/basics', '9e8'),
+                component: ComponentCreator('/guides/migration/twilio/basics', '68a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/twilio/compatibility-shim-twilio',
-                component: ComponentCreator('/guides/migration/twilio/compatibility-shim-twilio', 'd64'),
+                component: ComponentCreator('/guides/migration/twilio/compatibility-shim-twilio', '4a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/twilio/concepts-twilio-vs-dyte',
-                component: ComponentCreator('/guides/migration/twilio/concepts-twilio-vs-dyte', 'cbe'),
+                component: ComponentCreator('/guides/migration/twilio/concepts-twilio-vs-dyte', '50f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/twilio/feature-comparison',
-                component: ComponentCreator('/guides/migration/twilio/feature-comparison', '3c1'),
+                component: ComponentCreator('/guides/migration/twilio/feature-comparison', 'bf7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/twilio/media',
-                component: ComponentCreator('/guides/migration/twilio/media', '8c1'),
+                component: ComponentCreator('/guides/migration/twilio/media', 'd24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/twilio/misc',
-                component: ComponentCreator('/guides/migration/twilio/misc', 'b59'),
+                component: ComponentCreator('/guides/migration/twilio/misc', 'ad2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/migration/twilio/twilio-shim-by-dyte',
-                component: ComponentCreator('/guides/migration/twilio/twilio-shim-by-dyte', 'bee'),
+                component: ComponentCreator('/guides/migration/twilio/twilio-shim-by-dyte', '294'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/realtime-chat/build-in-app-chat-exp',
-                component: ComponentCreator('/guides/realtime-chat/build-in-app-chat-exp', 'd4f'),
+                component: ComponentCreator('/guides/realtime-chat/build-in-app-chat-exp', 'a00'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/realtime-chat/intro-chat',
-                component: ComponentCreator('/guides/realtime-chat/intro-chat', '52a'),
+                component: ComponentCreator('/guides/realtime-chat/intro-chat', 'ab0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/rest-apis/livestream-dyte-meeting',
-                component: ComponentCreator('/guides/rest-apis/livestream-dyte-meeting', '058'),
+                component: ComponentCreator('/guides/rest-apis/livestream-dyte-meeting', 'a9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/rest-apis/quickstart',
-                component: ComponentCreator('/guides/rest-apis/quickstart', 'a62'),
+                component: ComponentCreator('/guides/rest-apis/quickstart', '3f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/v2-migration-guide',
-                component: ComponentCreator('/guides/v2-migration-guide', '95f'),
+                component: ComponentCreator('/guides/v2-migration-guide', 'ccc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/build-voice-app',
-                component: ComponentCreator('/guides/voice-conf/build-voice-app', '760'),
+                component: ComponentCreator('/guides/voice-conf/build-voice-app', 'eb6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/client-setup',
-                component: ComponentCreator('/guides/voice-conf/client-setup', '2aa'),
+                component: ComponentCreator('/guides/voice-conf/client-setup', '810'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/client-setup/android',
-                component: ComponentCreator('/guides/voice-conf/client-setup/android', 'e13'),
+                component: ComponentCreator('/guides/voice-conf/client-setup/android', '50f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/client-setup/angular',
-                component: ComponentCreator('/guides/voice-conf/client-setup/angular', '013'),
+                component: ComponentCreator('/guides/voice-conf/client-setup/angular', 'f17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/client-setup/flutter',
-                component: ComponentCreator('/guides/voice-conf/client-setup/flutter', 'c7e'),
+                component: ComponentCreator('/guides/voice-conf/client-setup/flutter', 'db9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/client-setup/ios',
-                component: ComponentCreator('/guides/voice-conf/client-setup/ios', '695'),
+                component: ComponentCreator('/guides/voice-conf/client-setup/ios', 'bd3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/client-setup/javascript',
-                component: ComponentCreator('/guides/voice-conf/client-setup/javascript', '23f'),
+                component: ComponentCreator('/guides/voice-conf/client-setup/javascript', '411'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/client-setup/react',
-                component: ComponentCreator('/guides/voice-conf/client-setup/react', '238'),
+                component: ComponentCreator('/guides/voice-conf/client-setup/react', 'df5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/concepts',
-                component: ComponentCreator('/guides/voice-conf/concepts', 'c2b'),
+                component: ComponentCreator('/guides/voice-conf/concepts', 'd51'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/get-started',
-                component: ComponentCreator('/guides/voice-conf/get-started', 'bf8'),
+                component: ComponentCreator('/guides/voice-conf/get-started', 'e33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/intro-voice-conf',
-                component: ComponentCreator('/guides/voice-conf/intro-voice-conf', 'f4b'),
+                component: ComponentCreator('/guides/voice-conf/intro-voice-conf', 'c9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/guides/voice-conf/next-steps',
-                component: ComponentCreator('/guides/voice-conf/next-steps', '343'),
+                component: ComponentCreator('/guides/voice-conf/next-steps', '6bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -2390,11 +2435,11 @@ export default [
   },
   {
     path: '/ios',
-    component: ComponentCreator('/ios', '634'),
+    component: ComponentCreator('/ios', 'ed5'),
     routes: [
       {
         path: '/ios',
-        component: ComponentCreator('/ios', '3b3'),
+        component: ComponentCreator('/ios', '74f'),
         routes: [
           {
             path: '/ios/tags',
@@ -2408,341 +2453,341 @@ export default [
           },
           {
             path: '/ios',
-            component: ComponentCreator('/ios', '1d0'),
+            component: ComponentCreator('/ios', 'abf'),
             routes: [
               {
                 path: '/ios',
-                component: ComponentCreator('/ios', '834'),
+                component: ComponentCreator('/ios', 'eb2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/build-pre-call-ui/build-your-own/dyte-setting',
-                component: ComponentCreator('/ios/build-pre-call-ui/build-your-own/dyte-setting', 'aa0'),
+                component: ComponentCreator('/ios/build-pre-call-ui/build-your-own/dyte-setting', '6d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/build-pre-call-ui/build-your-own/initial-code-skeleton',
-                component: ComponentCreator('/ios/build-pre-call-ui/build-your-own/initial-code-skeleton', 'f4e'),
+                component: ComponentCreator('/ios/build-pre-call-ui/build-your-own/initial-code-skeleton', '613'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/build-pre-call-ui/default-setup-screen',
-                component: ComponentCreator('/ios/build-pre-call-ui/default-setup-screen', '8fe'),
+                component: ComponentCreator('/ios/build-pre-call-ui/default-setup-screen', 'a9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/chat/attachments-in-chat',
-                component: ComponentCreator('/ios/chat/attachments-in-chat', 'a46'),
+                component: ComponentCreator('/ios/chat/attachments-in-chat', '5aa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/chat/components-in-chat',
-                component: ComponentCreator('/ios/chat/components-in-chat', 'd1e'),
+                component: ComponentCreator('/ios/chat/components-in-chat', '3ad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/chat/pre-built-chat-screen',
-                component: ComponentCreator('/ios/chat/pre-built-chat-screen', 'a19'),
+                component: ComponentCreator('/ios/chat/pre-built-chat-screen', 'd20'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-active-tab-selector-view',
-                component: ComponentCreator('/ios/components/dyte-active-tab-selector-view', '7c0'),
+                component: ComponentCreator('/ios/components/dyte-active-tab-selector-view', '3f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-avatar',
-                component: ComponentCreator('/ios/components/dyte-avatar', 'e67'),
+                component: ComponentCreator('/ios/components/dyte-avatar', '30c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-button',
-                component: ComponentCreator('/ios/components/dyte-button', '72a'),
+                component: ComponentCreator('/ios/components/dyte-button', 'ee3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-camera-toggle',
-                component: ComponentCreator('/ios/components/dyte-camera-toggle', 'd41'),
+                component: ComponentCreator('/ios/components/dyte-camera-toggle', '112'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-chat',
-                component: ComponentCreator('/ios/components/dyte-chat', '55b'),
+                component: ComponentCreator('/ios/components/dyte-chat', '0ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-clock',
-                component: ComponentCreator('/ios/components/dyte-clock', '8a0'),
+                component: ComponentCreator('/ios/components/dyte-clock', 'dc7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-configure-alertview-protocol',
-                component: ComponentCreator('/ios/components/dyte-configure-alertview-protocol', '246'),
+                component: ComponentCreator('/ios/components/dyte-configure-alertview-protocol', '1e0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-controlbar-button',
-                component: ComponentCreator('/ios/components/dyte-controlbar-button', '11c'),
+                component: ComponentCreator('/ios/components/dyte-controlbar-button', 'a3c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-end-meeting',
-                component: ComponentCreator('/ios/components/dyte-end-meeting', 'c4d'),
+                component: ComponentCreator('/ios/components/dyte-end-meeting', '4aa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-grid',
-                component: ComponentCreator('/ios/components/dyte-grid', '039'),
+                component: ComponentCreator('/ios/components/dyte-grid', '714'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-grid-pagination',
-                component: ComponentCreator('/ios/components/dyte-grid-pagination', '82f'),
+                component: ComponentCreator('/ios/components/dyte-grid-pagination', '0bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-join-stage',
-                component: ComponentCreator('/ios/components/dyte-join-stage', '0a6'),
+                component: ComponentCreator('/ios/components/dyte-join-stage', 'dde'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-leave-alert-actions',
-                component: ComponentCreator('/ios/components/dyte-leave-alert-actions', 'b1f'),
+                component: ComponentCreator('/ios/components/dyte-leave-alert-actions', 'cba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-leave-meeting-alert',
-                component: ComponentCreator('/ios/components/dyte-leave-meeting-alert', '118'),
+                component: ComponentCreator('/ios/components/dyte-leave-meeting-alert', '344'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-meeting',
-                component: ComponentCreator('/ios/components/dyte-meeting', '6ce'),
+                component: ComponentCreator('/ios/components/dyte-meeting', '79e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-meeting-titlelabel',
-                component: ComponentCreator('/ios/components/dyte-meeting-titlelabel', '9bd'),
+                component: ComponentCreator('/ios/components/dyte-meeting-titlelabel', 'ff6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-mic-toggle',
-                component: ComponentCreator('/ios/components/dyte-mic-toggle', '5c1'),
+                component: ComponentCreator('/ios/components/dyte-mic-toggle', 'd8e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-more-toggle',
-                component: ComponentCreator('/ios/components/dyte-more-toggle', '693'),
+                component: ComponentCreator('/ios/components/dyte-more-toggle', '2e1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-name-tag',
-                component: ComponentCreator('/ios/components/dyte-name-tag', '5f0'),
+                component: ComponentCreator('/ios/components/dyte-name-tag', '089'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-navigationbar',
-                component: ComponentCreator('/ios/components/dyte-navigationbar', 'a54'),
+                component: ComponentCreator('/ios/components/dyte-navigationbar', '86c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-participant-count',
-                component: ComponentCreator('/ios/components/dyte-participant-count', 'bfc'),
+                component: ComponentCreator('/ios/components/dyte-participant-count', 'bb6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-participant-tile-view',
-                component: ComponentCreator('/ios/components/dyte-participant-tile-view', '9f6'),
+                component: ComponentCreator('/ios/components/dyte-participant-tile-view', '2da'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-participants',
-                component: ComponentCreator('/ios/components/dyte-participants', '85e'),
+                component: ComponentCreator('/ios/components/dyte-participants', 'd4c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-plugin-view',
-                component: ComponentCreator('/ios/components/dyte-plugin-view', '1c1'),
+                component: ComponentCreator('/ios/components/dyte-plugin-view', 'bcb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-plugins',
-                component: ComponentCreator('/ios/components/dyte-plugins', '0b3'),
+                component: ComponentCreator('/ios/components/dyte-plugins', '769'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-pluginScreenShareTab-button',
-                component: ComponentCreator('/ios/components/dyte-pluginScreenShareTab-button', 'da1'),
+                component: ComponentCreator('/ios/components/dyte-pluginScreenShareTab-button', '6a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-poll-form',
-                component: ComponentCreator('/ios/components/dyte-poll-form', '286'),
+                component: ComponentCreator('/ios/components/dyte-poll-form', 'f30'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-polls',
-                component: ComponentCreator('/ios/components/dyte-polls', '62f'),
+                component: ComponentCreator('/ios/components/dyte-polls', 'a09'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-recording-indicator',
-                component: ComponentCreator('/ios/components/dyte-recording-indicator', 'b0d'),
+                component: ComponentCreator('/ios/components/dyte-recording-indicator', 'b18'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-settings',
-                component: ComponentCreator('/ios/components/dyte-settings', '6a8'),
+                component: ComponentCreator('/ios/components/dyte-settings', 'b5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-setup-screen',
-                component: ComponentCreator('/ios/components/dyte-setup-screen', '2c0'),
+                component: ComponentCreator('/ios/components/dyte-setup-screen', '35f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-setup-screen-delegate',
-                component: ComponentCreator('/ios/components/dyte-setup-screen-delegate', '7af'),
+                component: ComponentCreator('/ios/components/dyte-setup-screen-delegate', '119'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/components/dyte-webinar-stage-toggle',
-                component: ComponentCreator('/ios/components/dyte-webinar-stage-toggle', 'f21'),
+                component: ComponentCreator('/ios/components/dyte-webinar-stage-toggle', 'add'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/design-system',
-                component: ComponentCreator('/ios/design-system', '031'),
+                component: ComponentCreator('/ios/design-system', 'a46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/events',
-                component: ComponentCreator('/ios/events', '232'),
+                component: ComponentCreator('/ios/events', 'eaa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/helper-classes/dyte-plugin-view-model',
-                component: ComponentCreator('/ios/helper-classes/dyte-plugin-view-model', 'a74'),
+                component: ComponentCreator('/ios/helper-classes/dyte-plugin-view-model', '69a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/participants/host-controls',
-                component: ComponentCreator('/ios/participants/host-controls', '46f'),
+                component: ComponentCreator('/ios/participants/host-controls', 'fa1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/participants/introduction',
-                component: ComponentCreator('/ios/participants/introduction', 'bc6'),
+                component: ComponentCreator('/ios/participants/introduction', '95c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/participants/pre-built-participants-screen',
-                component: ComponentCreator('/ios/participants/pre-built-participants-screen', '925'),
+                component: ComponentCreator('/ios/participants/pre-built-participants-screen', 'ead'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/participants/type-of-participants',
-                component: ComponentCreator('/ios/participants/type-of-participants', '0cc'),
+                component: ComponentCreator('/ios/participants/type-of-participants', '7e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/Pre-Built-Plugins_Guides/load-plugin',
-                component: ComponentCreator('/ios/Pre-Built-Plugins_Guides/load-plugin', '6b9'),
+                component: ComponentCreator('/ios/Pre-Built-Plugins_Guides/load-plugin', 'ed8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/Pre-Built-Plugins_Guides/Plugins',
-                component: ComponentCreator('/ios/Pre-Built-Plugins_Guides/Plugins', '923'),
+                component: ComponentCreator('/ios/Pre-Built-Plugins_Guides/Plugins', '17b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/Pre-Built-Polls_Guides/Polls',
-                component: ComponentCreator('/ios/Pre-Built-Polls_Guides/Polls', '24f'),
+                component: ComponentCreator('/ios/Pre-Built-Polls_Guides/Polls', '147'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/Pre-Built-Polls_Guides/prebuilt_polls',
-                component: ComponentCreator('/ios/Pre-Built-Polls_Guides/prebuilt_polls', 'a21'),
+                component: ComponentCreator('/ios/Pre-Built-Polls_Guides/prebuilt_polls', '4c0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/Pre-Built-Settings_Guides/Settings',
-                component: ComponentCreator('/ios/Pre-Built-Settings_Guides/Settings', 'c20'),
+                component: ComponentCreator('/ios/Pre-Built-Settings_Guides/Settings', 'fe5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/quickstart',
-                component: ComponentCreator('/ios/quickstart', '45d'),
+                component: ComponentCreator('/ios/quickstart', 'ae2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/release-notes',
-                component: ComponentCreator('/ios/release-notes', '611'),
+                component: ComponentCreator('/ios/release-notes', '876'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/rendering-participant-video/build-your-own-grid',
-                component: ComponentCreator('/ios/rendering-participant-video/build-your-own-grid', '895'),
+                component: ComponentCreator('/ios/rendering-participant-video/build-your-own-grid', 'd67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios/rendering-participant-video/using-dyteGrid',
-                component: ComponentCreator('/ios/rendering-participant-video/using-dyteGrid', '28b'),
+                component: ComponentCreator('/ios/rendering-participant-video/using-dyteGrid', '159'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -2754,11 +2799,11 @@ export default [
   },
   {
     path: '/ios-core',
-    component: ComponentCreator('/ios-core', 'ba7'),
+    component: ComponentCreator('/ios-core', '89c'),
     routes: [
       {
         path: '/ios-core',
-        component: ComponentCreator('/ios-core', '113'),
+        component: ComponentCreator('/ios-core', 'a6a'),
         routes: [
           {
             path: '/ios-core/tags',
@@ -2768,11 +2813,6 @@ export default [
           {
             path: '/ios-core/tags/chat',
             component: ComponentCreator('/ios-core/tags/chat', 'c38'),
-            exact: true
-          },
-          {
-            path: '/ios-core/tags/connection-events',
-            component: ComponentCreator('/ios-core/tags/connection-events', '2ec'),
             exact: true
           },
           {
@@ -2786,11 +2826,6 @@ export default [
             exact: true
           },
           {
-            path: '/ios-core/tags/livestream',
-            component: ComponentCreator('/ios-core/tags/livestream', '0b7'),
-            exact: true
-          },
-          {
             path: '/ios-core/tags/local-user',
             component: ComponentCreator('/ios-core/tags/local-user', '3db'),
             exact: true
@@ -2798,16 +2833,6 @@ export default [
           {
             path: '/ios-core/tags/local-user-events',
             component: ComponentCreator('/ios-core/tags/local-user-events', 'a24'),
-            exact: true
-          },
-          {
-            path: '/ios-core/tags/mobile-core',
-            component: ComponentCreator('/ios-core/tags/mobile-core', '1ab'),
-            exact: true
-          },
-          {
-            path: '/ios-core/tags/participant',
-            component: ComponentCreator('/ios-core/tags/participant', 'fd2'),
             exact: true
           },
           {
@@ -2828,11 +2853,6 @@ export default [
           {
             path: '/ios-core/tags/quickstart',
             component: ComponentCreator('/ios-core/tags/quickstart', '4ac'),
-            exact: true
-          },
-          {
-            path: '/ios-core/tags/reconnection',
-            component: ComponentCreator('/ios-core/tags/reconnection', 'cd5'),
             exact: true
           },
           {
@@ -2861,182 +2881,229 @@ export default [
             exact: true
           },
           {
+            path: '/ios-core/tags/setup',
+            component: ComponentCreator('/ios-core/tags/setup', '8ef'),
+            exact: true
+          },
+          {
+            path: '/ios-core/tags/stage',
+            component: ComponentCreator('/ios-core/tags/stage', '1d6'),
+            exact: true
+          },
+          {
             path: '/ios-core/tags/votes',
             component: ComponentCreator('/ios-core/tags/votes', 'c93'),
             exact: true
           },
           {
-            path: '/ios-core/tags/waitlist',
-            component: ComponentCreator('/ios-core/tags/waitlist', '6c2'),
+            path: '/ios-core/tags/waiting-room',
+            component: ComponentCreator('/ios-core/tags/waiting-room', 'c6d'),
             exact: true
           },
           {
-            path: '/ios-core/tags/web-core',
-            component: ComponentCreator('/ios-core/tags/web-core', '2fe'),
-            exact: true
-          },
-          {
-            path: '/ios-core/tags/webinar',
-            component: ComponentCreator('/ios-core/tags/webinar', '0b3'),
+            path: '/ios-core/tags/waitlisted',
+            component: ComponentCreator('/ios-core/tags/waitlisted', '7d2'),
             exact: true
           },
           {
             path: '/ios-core',
-            component: ComponentCreator('/ios-core', 'e87'),
+            component: ComponentCreator('/ios-core', '257'),
             routes: [
               {
                 path: '/ios-core',
-                component: ComponentCreator('/ios-core', '44a'),
+                component: ComponentCreator('/ios-core', '610'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/chat/introduction',
-                component: ComponentCreator('/ios-core/chat/introduction', '8e4'),
+                component: ComponentCreator('/ios-core/chat/introduction', '3bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/chat/receiving-chat-messages',
-                component: ComponentCreator('/ios-core/chat/receiving-chat-messages', 'b56'),
+                component: ComponentCreator('/ios-core/chat/receiving-chat-messages', 'd3e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/chat/sending-a-chat-message',
-                component: ComponentCreator('/ios-core/chat/sending-a-chat-message', 'e10'),
+                component: ComponentCreator('/ios-core/chat/sending-a-chat-message', 'a8c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ios-core/livestream/dyte-livestream-listener',
-                component: ComponentCreator('/ios-core/livestream/dyte-livestream-listener', 'e8e'),
+                path: '/ios-core/error-codes',
+                component: ComponentCreator('/ios-core/error-codes', '0e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ios-core/livestream/dyte-livestream-object',
-                component: ComponentCreator('/ios-core/livestream/dyte-livestream-object', 'b62'),
+                path: '/ios-core/Introduction',
+                component: ComponentCreator('/ios-core/Introduction', '8b5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ios-core/livestream/introduction',
-                component: ComponentCreator('/ios-core/livestream/introduction', '173'),
+                path: '/ios-core/livestreaming',
+                component: ComponentCreator('/ios-core/livestreaming', 'dc5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/local-user/events',
-                component: ComponentCreator('/ios-core/local-user/events', 'b54'),
+                component: ComponentCreator('/ios-core/local-user/events', '552'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/local-user/introduction',
-                component: ComponentCreator('/ios-core/local-user/introduction', '1ba'),
+                component: ComponentCreator('/ios-core/local-user/introduction', 'd2c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/local-user/manage-media-devices',
-                component: ComponentCreator('/ios-core/local-user/manage-media-devices', '773'),
+                component: ComponentCreator('/ios-core/local-user/manage-media-devices', '136'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/local-user/manage-permissions',
-                component: ComponentCreator('/ios-core/local-user/manage-permissions', '75c'),
+                component: ComponentCreator('/ios-core/local-user/manage-permissions', '9c9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/local-user/screen-share-guide',
-                component: ComponentCreator('/ios-core/local-user/screen-share-guide', 'c2b'),
+                component: ComponentCreator('/ios-core/local-user/screen-share-guide', '6fb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/participants',
+                component: ComponentCreator('/ios-core/participants', '9e7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/participants/events',
-                component: ComponentCreator('/ios-core/participants/events', '7b6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ios-core/participants/introduction',
-                component: ComponentCreator('/ios-core/participants/introduction', 'a0b'),
+                component: ComponentCreator('/ios-core/participants/events', '35b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/participants/participant-object',
-                component: ComponentCreator('/ios-core/participants/participant-object', '8f2'),
+                component: ComponentCreator('/ios-core/participants/participant-object', '40c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ios-core/plugins',
-                component: ComponentCreator('/ios-core/plugins', '32c'),
+                path: '/ios-core/participants/waitlisted-participants',
+                component: ComponentCreator('/ios-core/participants/waitlisted-participants', '368'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/plugins/disable-plugin',
+                component: ComponentCreator('/ios-core/plugins/disable-plugin', '352'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/plugins/enable-plugin',
+                component: ComponentCreator('/ios-core/plugins/enable-plugin', 'e72'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/plugins/extra',
+                component: ComponentCreator('/ios-core/plugins/extra', '2fc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/plugins/introduction',
+                component: ComponentCreator('/ios-core/plugins/introduction', '0d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/polls/creating-a-poll',
-                component: ComponentCreator('/ios-core/polls/creating-a-poll', '4ba'),
+                component: ComponentCreator('/ios-core/polls/creating-a-poll', '06a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/polls/introduction',
-                component: ComponentCreator('/ios-core/polls/introduction', '920'),
+                component: ComponentCreator('/ios-core/polls/introduction', '299'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/polls/voting-on-a-poll',
-                component: ComponentCreator('/ios-core/polls/voting-on-a-poll', 'a03'),
+                component: ComponentCreator('/ios-core/polls/voting-on-a-poll', '72b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/pre-call/handling-permissions',
+                component: ComponentCreator('/ios-core/pre-call/handling-permissions', 'e0b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/pre-call/media-preview',
+                component: ComponentCreator('/ios-core/pre-call/media-preview', '309'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/pre-call/meeting-meta',
+                component: ComponentCreator('/ios-core/pre-call/meeting-meta', '6f5'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ios-core/pre-call/waiting-room',
+                component: ComponentCreator('/ios-core/pre-call/waiting-room', 'df3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/recording',
-                component: ComponentCreator('/ios-core/recording', '932'),
+                component: ComponentCreator('/ios-core/recording', '8f5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ios-core/release-notes',
-                component: ComponentCreator('/ios-core/release-notes', 'eae'),
+                component: ComponentCreator('/ios-core/release-notes', 'a1b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ios-core/room/room-connection-events',
-                component: ComponentCreator('/ios-core/room/room-connection-events', '196'),
+                path: '/ios-core/room-metadata',
+                component: ComponentCreator('/ios-core/room-metadata', 'ee6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ios-core/room/room-metadata',
-                component: ComponentCreator('/ios-core/room/room-metadata', '5f3'),
+                path: '/ios-core/stage-management/host-controls',
+                component: ComponentCreator('/ios-core/stage-management/host-controls', '45e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ios-core/waitlist-events',
-                component: ComponentCreator('/ios-core/waitlist-events', 'a5f'),
+                path: '/ios-core/stage-management/introduction',
+                component: ComponentCreator('/ios-core/stage-management/introduction', '617'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ios-core/webinar/introduction',
-                component: ComponentCreator('/ios-core/webinar/introduction', '534'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ios-core/webinar/stage-management',
-                component: ComponentCreator('/ios-core/webinar/stage-management', '5f4'),
+                path: '/ios-core/stage-management/viewer-participants',
+                component: ComponentCreator('/ios-core/stage-management/viewer-participants', '89e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -3048,11 +3115,11 @@ export default [
   },
   {
     path: '/plugin-sdk',
-    component: ComponentCreator('/plugin-sdk', '7f5'),
+    component: ComponentCreator('/plugin-sdk', '608'),
     routes: [
       {
         path: '/plugin-sdk',
-        component: ComponentCreator('/plugin-sdk', '747'),
+        component: ComponentCreator('/plugin-sdk', '5ed'),
         routes: [
           {
             path: '/plugin-sdk/tags',
@@ -3081,113 +3148,113 @@ export default [
           },
           {
             path: '/plugin-sdk',
-            component: ComponentCreator('/plugin-sdk', '936'),
+            component: ComponentCreator('/plugin-sdk', '8e0'),
             routes: [
               {
                 path: '/plugin-sdk',
-                component: ComponentCreator('/plugin-sdk', '611'),
+                component: ComponentCreator('/plugin-sdk', '39b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/frequently-asked-questions',
-                component: ComponentCreator('/plugin-sdk/frequently-asked-questions', '601'),
+                component: ComponentCreator('/plugin-sdk/frequently-asked-questions', '552'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/guides/exchange-data-between-plugin-and-meeting',
-                component: ComponentCreator('/plugin-sdk/guides/exchange-data-between-plugin-and-meeting', '6b2'),
+                component: ComponentCreator('/plugin-sdk/guides/exchange-data-between-plugin-and-meeting', 'a33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/guides/how-to-work-with-plugin-stores',
-                component: ComponentCreator('/plugin-sdk/guides/how-to-work-with-plugin-stores', '4d3'),
+                component: ComponentCreator('/plugin-sdk/guides/how-to-work-with-plugin-stores', 'f07'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/quickstart',
-                component: ComponentCreator('/plugin-sdk/quickstart', 'e40'),
+                component: ComponentCreator('/plugin-sdk/quickstart', '2fb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/setup/create',
-                component: ComponentCreator('/plugin-sdk/setup/create', '8f7'),
+                component: ComponentCreator('/plugin-sdk/setup/create', '72b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/setup/customize',
-                component: ComponentCreator('/plugin-sdk/setup/customize', '220'),
+                component: ComponentCreator('/plugin-sdk/setup/customize', '483'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/setup/develop',
-                component: ComponentCreator('/plugin-sdk/setup/develop', '50c'),
+                component: ComponentCreator('/plugin-sdk/setup/develop', 'fea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/setup/manage',
-                component: ComponentCreator('/plugin-sdk/setup/manage', '1d9'),
+                component: ComponentCreator('/plugin-sdk/setup/manage', '51c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/setup/publish',
-                component: ComponentCreator('/plugin-sdk/setup/publish', 'b40'),
+                component: ComponentCreator('/plugin-sdk/setup/publish', '606'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/usage/basic/events',
-                component: ComponentCreator('/plugin-sdk/usage/basic/events', 'fcb'),
+                component: ComponentCreator('/plugin-sdk/usage/basic/events', 'cb6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/usage/basic/initialize',
-                component: ComponentCreator('/plugin-sdk/usage/basic/initialize', '4d4'),
+                component: ComponentCreator('/plugin-sdk/usage/basic/initialize', 'ceb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/usage/basic/methods',
-                component: ComponentCreator('/plugin-sdk/usage/basic/methods', '614'),
+                component: ComponentCreator('/plugin-sdk/usage/basic/methods', '18c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/usage/installation',
-                component: ComponentCreator('/plugin-sdk/usage/installation', '70f'),
+                component: ComponentCreator('/plugin-sdk/usage/installation', '307'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/usage/rooms-api/events',
-                component: ComponentCreator('/plugin-sdk/usage/rooms-api/events', 'c89'),
+                component: ComponentCreator('/plugin-sdk/usage/rooms-api/events', 'd5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/usage/rooms-api/methods',
-                component: ComponentCreator('/plugin-sdk/usage/rooms-api/methods', 'e2b'),
+                component: ComponentCreator('/plugin-sdk/usage/rooms-api/methods', 'be8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/usage/stores-api/introduction',
-                component: ComponentCreator('/plugin-sdk/usage/stores-api/introduction', '7ab'),
+                component: ComponentCreator('/plugin-sdk/usage/stores-api/introduction', '13f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/plugin-sdk/usage/stores-api/manage-stores',
-                component: ComponentCreator('/plugin-sdk/usage/stores-api/manage-stores', '3ec'),
+                component: ComponentCreator('/plugin-sdk/usage/stores-api/manage-stores', '6e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -3199,11 +3266,11 @@ export default [
   },
   {
     path: '/react-native',
-    component: ComponentCreator('/react-native', 'da0'),
+    component: ComponentCreator('/react-native', '8bd'),
     routes: [
       {
         path: '/react-native',
-        component: ComponentCreator('/react-native', '456'),
+        component: ComponentCreator('/react-native', '1e8'),
         routes: [
           {
             path: '/react-native/tags',
@@ -3217,479 +3284,479 @@ export default [
           },
           {
             path: '/react-native',
-            component: ComponentCreator('/react-native', 'a51'),
+            component: ComponentCreator('/react-native', 'cbf'),
             routes: [
               {
                 path: '/react-native',
-                component: ComponentCreator('/react-native', '58f'),
+                component: ComponentCreator('/react-native', '3d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/basics/components-basics',
-                component: ComponentCreator('/react-native/basics/components-basics', '1c7'),
+                component: ComponentCreator('/react-native/basics/components-basics', '141'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/basics/display-videos',
-                component: ComponentCreator('/react-native/basics/display-videos', '615'),
+                component: ComponentCreator('/react-native/basics/display-videos', 'c82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components',
-                component: ComponentCreator('/react-native/components', '5db'),
+                component: ComponentCreator('/react-native/components', '480'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-avatar',
-                component: ComponentCreator('/react-native/components/dyte-avatar', '86c'),
+                component: ComponentCreator('/react-native/components/dyte-avatar', 'c8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-button',
-                component: ComponentCreator('/react-native/components/dyte-button', '5e0'),
+                component: ComponentCreator('/react-native/components/dyte-button', 'b85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-camera-toggle',
-                component: ComponentCreator('/react-native/components/dyte-camera-toggle', 'e00'),
+                component: ComponentCreator('/react-native/components/dyte-camera-toggle', '8b5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-chat',
-                component: ComponentCreator('/react-native/components/dyte-chat', '996'),
+                component: ComponentCreator('/react-native/components/dyte-chat', '15f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-chat-toggle',
-                component: ComponentCreator('/react-native/components/dyte-chat-toggle', '8c5'),
+                component: ComponentCreator('/react-native/components/dyte-chat-toggle', 'ccc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-clock',
-                component: ComponentCreator('/react-native/components/dyte-clock', '3d5'),
+                component: ComponentCreator('/react-native/components/dyte-clock', '2f8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-controlbar',
-                component: ComponentCreator('/react-native/components/dyte-controlbar', 'f05'),
+                component: ComponentCreator('/react-native/components/dyte-controlbar', '27c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-controlbar-button',
-                component: ComponentCreator('/react-native/components/dyte-controlbar-button', '751'),
+                component: ComponentCreator('/react-native/components/dyte-controlbar-button', 'cfc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-dialog',
-                component: ComponentCreator('/react-native/components/dyte-dialog', '104'),
+                component: ComponentCreator('/react-native/components/dyte-dialog', '34a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-dialog-manager',
-                component: ComponentCreator('/react-native/components/dyte-dialog-manager', 'df7'),
+                component: ComponentCreator('/react-native/components/dyte-dialog-manager', '838'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-ended-screen',
-                component: ComponentCreator('/react-native/components/dyte-ended-screen', 'f7c'),
+                component: ComponentCreator('/react-native/components/dyte-ended-screen', '1ac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-file-message',
-                component: ComponentCreator('/react-native/components/dyte-file-message', '226'),
+                component: ComponentCreator('/react-native/components/dyte-file-message', 'cad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-grid',
-                component: ComponentCreator('/react-native/components/dyte-grid', 'c6c'),
+                component: ComponentCreator('/react-native/components/dyte-grid', '212'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-grid-pagination',
-                component: ComponentCreator('/react-native/components/dyte-grid-pagination', '9e0'),
+                component: ComponentCreator('/react-native/components/dyte-grid-pagination', 'f2c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-header',
-                component: ComponentCreator('/react-native/components/dyte-header', 'f49'),
+                component: ComponentCreator('/react-native/components/dyte-header', '04a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-icon',
-                component: ComponentCreator('/react-native/components/dyte-icon', 'd0c'),
+                component: ComponentCreator('/react-native/components/dyte-icon', '01c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-idle-screen',
-                component: ComponentCreator('/react-native/components/dyte-idle-screen', '22e'),
+                component: ComponentCreator('/react-native/components/dyte-idle-screen', 'c20'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-image-message',
-                component: ComponentCreator('/react-native/components/dyte-image-message', '81f'),
+                component: ComponentCreator('/react-native/components/dyte-image-message', '88c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-image-viewer',
-                component: ComponentCreator('/react-native/components/dyte-image-viewer', '638'),
+                component: ComponentCreator('/react-native/components/dyte-image-viewer', '89b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-join-stage',
-                component: ComponentCreator('/react-native/components/dyte-join-stage', 'ab5'),
+                component: ComponentCreator('/react-native/components/dyte-join-stage', '925'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-leave-button',
-                component: ComponentCreator('/react-native/components/dyte-leave-button', '9d6'),
+                component: ComponentCreator('/react-native/components/dyte-leave-button', 'ec9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-leave-meeting',
-                component: ComponentCreator('/react-native/components/dyte-leave-meeting', 'c97'),
+                component: ComponentCreator('/react-native/components/dyte-leave-meeting', '610'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-logo',
-                component: ComponentCreator('/react-native/components/dyte-logo', '68d'),
+                component: ComponentCreator('/react-native/components/dyte-logo', '260'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-meeting',
-                component: ComponentCreator('/react-native/components/dyte-meeting', '6ef'),
+                component: ComponentCreator('/react-native/components/dyte-meeting', 'c90'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-meeting-title',
-                component: ComponentCreator('/react-native/components/dyte-meeting-title', 'bfd'),
+                component: ComponentCreator('/react-native/components/dyte-meeting-title', 'bac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-menu',
-                component: ComponentCreator('/react-native/components/dyte-menu', 'a30'),
+                component: ComponentCreator('/react-native/components/dyte-menu', '594'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-menu-item',
-                component: ComponentCreator('/react-native/components/dyte-menu-item', '67f'),
+                component: ComponentCreator('/react-native/components/dyte-menu-item', '222'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-menu-list',
-                component: ComponentCreator('/react-native/components/dyte-menu-list', 'cf2'),
+                component: ComponentCreator('/react-native/components/dyte-menu-list', 'e66'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-mic-toggle',
-                component: ComponentCreator('/react-native/components/dyte-mic-toggle', 'd54'),
+                component: ComponentCreator('/react-native/components/dyte-mic-toggle', '592'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-more-toggle',
-                component: ComponentCreator('/react-native/components/dyte-more-toggle', '12d'),
+                component: ComponentCreator('/react-native/components/dyte-more-toggle', 'c09'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-mute-all-button',
-                component: ComponentCreator('/react-native/components/dyte-mute-all-button', 'ff9'),
+                component: ComponentCreator('/react-native/components/dyte-mute-all-button', 'e75'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-name-tag',
-                component: ComponentCreator('/react-native/components/dyte-name-tag', '60c'),
+                component: ComponentCreator('/react-native/components/dyte-name-tag', '502'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-notification',
-                component: ComponentCreator('/react-native/components/dyte-notification', 'fa3'),
+                component: ComponentCreator('/react-native/components/dyte-notification', 'b1a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-notifications',
-                component: ComponentCreator('/react-native/components/dyte-notifications', '46d'),
+                component: ComponentCreator('/react-native/components/dyte-notifications', '09c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-participant',
-                component: ComponentCreator('/react-native/components/dyte-participant', '379'),
+                component: ComponentCreator('/react-native/components/dyte-participant', '556'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-participant-count',
-                component: ComponentCreator('/react-native/components/dyte-participant-count', 'caa'),
+                component: ComponentCreator('/react-native/components/dyte-participant-count', 'ddd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-participant-tile',
-                component: ComponentCreator('/react-native/components/dyte-participant-tile', '318'),
+                component: ComponentCreator('/react-native/components/dyte-participant-tile', '448'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-participants',
-                component: ComponentCreator('/react-native/components/dyte-participants', 'c38'),
+                component: ComponentCreator('/react-native/components/dyte-participants', 'daa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-participants-toggle',
-                component: ComponentCreator('/react-native/components/dyte-participants-toggle', 'c68'),
+                component: ComponentCreator('/react-native/components/dyte-participants-toggle', 'fff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-permissions-message',
-                component: ComponentCreator('/react-native/components/dyte-permissions-message', '790'),
+                component: ComponentCreator('/react-native/components/dyte-permissions-message', '9f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-plugin-main',
-                component: ComponentCreator('/react-native/components/dyte-plugin-main', '118'),
+                component: ComponentCreator('/react-native/components/dyte-plugin-main', '5cc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-plugins',
-                component: ComponentCreator('/react-native/components/dyte-plugins', '988'),
+                component: ComponentCreator('/react-native/components/dyte-plugins', 'd1a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-plugins-toggle',
-                component: ComponentCreator('/react-native/components/dyte-plugins-toggle', 'd18'),
+                component: ComponentCreator('/react-native/components/dyte-plugins-toggle', '3e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-poll',
-                component: ComponentCreator('/react-native/components/dyte-poll', '502'),
+                component: ComponentCreator('/react-native/components/dyte-poll', '30a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-poll-form',
-                component: ComponentCreator('/react-native/components/dyte-poll-form', 'aff'),
+                component: ComponentCreator('/react-native/components/dyte-poll-form', 'd7c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-polls',
-                component: ComponentCreator('/react-native/components/dyte-polls', '89b'),
+                component: ComponentCreator('/react-native/components/dyte-polls', 'd7d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-polls-toggle',
-                component: ComponentCreator('/react-native/components/dyte-polls-toggle', '3f7'),
+                component: ComponentCreator('/react-native/components/dyte-polls-toggle', 'd3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-recording-indicator',
-                component: ComponentCreator('/react-native/components/dyte-recording-indicator', '00a'),
+                component: ComponentCreator('/react-native/components/dyte-recording-indicator', '85f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-recording-toggle',
-                component: ComponentCreator('/react-native/components/dyte-recording-toggle', '4b3'),
+                component: ComponentCreator('/react-native/components/dyte-recording-toggle', '596'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-screen-share-toggle',
-                component: ComponentCreator('/react-native/components/dyte-screen-share-toggle', '9ff'),
+                component: ComponentCreator('/react-native/components/dyte-screen-share-toggle', '48a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-screenshare-view',
-                component: ComponentCreator('/react-native/components/dyte-screenshare-view', '677'),
+                component: ComponentCreator('/react-native/components/dyte-screenshare-view', '683'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-settings',
-                component: ComponentCreator('/react-native/components/dyte-settings', '92b'),
+                component: ComponentCreator('/react-native/components/dyte-settings', '8d3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-settings-audio',
-                component: ComponentCreator('/react-native/components/dyte-settings-audio', '7cb'),
+                component: ComponentCreator('/react-native/components/dyte-settings-audio', '8b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-settings-toggle',
-                component: ComponentCreator('/react-native/components/dyte-settings-toggle', 'f70'),
+                component: ComponentCreator('/react-native/components/dyte-settings-toggle', '1bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-settings-video',
-                component: ComponentCreator('/react-native/components/dyte-settings-video', '897'),
+                component: ComponentCreator('/react-native/components/dyte-settings-video', '432'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-setup-screen',
-                component: ComponentCreator('/react-native/components/dyte-setup-screen', '84d'),
+                component: ComponentCreator('/react-native/components/dyte-setup-screen', '602'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-sidebar',
-                component: ComponentCreator('/react-native/components/dyte-sidebar', 'fa3'),
+                component: ComponentCreator('/react-native/components/dyte-sidebar', 'f71'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-simple-grid',
-                component: ComponentCreator('/react-native/components/dyte-simple-grid', '5f5'),
+                component: ComponentCreator('/react-native/components/dyte-simple-grid', '453'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-spinner',
-                component: ComponentCreator('/react-native/components/dyte-spinner', '7e7'),
+                component: ComponentCreator('/react-native/components/dyte-spinner', '804'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-spotlight-grid',
-                component: ComponentCreator('/react-native/components/dyte-spotlight-grid', '57f'),
+                component: ComponentCreator('/react-native/components/dyte-spotlight-grid', 'd82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-text',
-                component: ComponentCreator('/react-native/components/dyte-text', '5cd'),
+                component: ComponentCreator('/react-native/components/dyte-text', '09c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-text-field',
-                component: ComponentCreator('/react-native/components/dyte-text-field', '095'),
+                component: ComponentCreator('/react-native/components/dyte-text-field', '145'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-waiting-screen',
-                component: ComponentCreator('/react-native/components/dyte-waiting-screen', '431'),
+                component: ComponentCreator('/react-native/components/dyte-waiting-screen', '231'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/components/dyte-webinar-stage-toggle',
-                component: ComponentCreator('/react-native/components/dyte-webinar-stage-toggle', '971'),
+                component: ComponentCreator('/react-native/components/dyte-webinar-stage-toggle', 'f3c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/design-system',
-                component: ComponentCreator('/react-native/design-system', '483'),
+                component: ComponentCreator('/react-native/design-system', 'c85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/quickstart',
-                component: ComponentCreator('/react-native/quickstart', '0ee'),
+                component: ComponentCreator('/react-native/quickstart', '0a2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/reference',
-                component: ComponentCreator('/react-native/reference', 'a04'),
+                component: ComponentCreator('/react-native/reference', 'b33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/reference/classes/DyteNotificationsAudio',
-                component: ComponentCreator('/react-native/reference/classes/DyteNotificationsAudio', 'ee6'),
+                component: ComponentCreator('/react-native/reference/classes/DyteNotificationsAudio', 'fa0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/reference/interfaces/Notification',
-                component: ComponentCreator('/react-native/reference/interfaces/Notification', 'e5a'),
+                component: ComponentCreator('/react-native/reference/interfaces/Notification', '73e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/reference/interfaces/PollObject',
-                component: ComponentCreator('/react-native/reference/interfaces/PollObject', '2bb'),
+                component: ComponentCreator('/react-native/reference/interfaces/PollObject', '320'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/reference/interfaces/States',
-                component: ComponentCreator('/react-native/reference/interfaces/States', '202'),
+                component: ComponentCreator('/react-native/reference/interfaces/States', '045'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/reference/interfaces/UIConfig',
-                component: ComponentCreator('/react-native/reference/interfaces/UIConfig', '80d'),
+                component: ComponentCreator('/react-native/reference/interfaces/UIConfig', 'd7e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/reference/interfaces/UserPreferences',
-                component: ComponentCreator('/react-native/reference/interfaces/UserPreferences', '973'),
+                component: ComponentCreator('/react-native/reference/interfaces/UserPreferences', 'e8f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/release-notes',
-                component: ComponentCreator('/react-native/release-notes', '133'),
+                component: ComponentCreator('/react-native/release-notes', 'ceb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-native/using-hooks',
-                component: ComponentCreator('/react-native/using-hooks', 'a7e'),
+                component: ComponentCreator('/react-native/using-hooks', '592'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -3701,11 +3768,11 @@ export default [
   },
   {
     path: '/react-ui-kit',
-    component: ComponentCreator('/react-ui-kit', 'c38'),
+    component: ComponentCreator('/react-ui-kit', '79d'),
     routes: [
       {
         path: '/react-ui-kit',
-        component: ComponentCreator('/react-ui-kit', 'c70'),
+        component: ComponentCreator('/react-ui-kit', 'd05'),
         routes: [
           {
             path: '/react-ui-kit/tags',
@@ -3719,581 +3786,629 @@ export default [
           },
           {
             path: '/react-ui-kit',
-            component: ComponentCreator('/react-ui-kit', '6ef'),
+            component: ComponentCreator('/react-ui-kit', 'c6e'),
             routes: [
               {
                 path: '/react-ui-kit',
-                component: ComponentCreator('/react-ui-kit', '23e'),
+                component: ComponentCreator('/react-ui-kit', '5e4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/basics/display-videos',
-                component: ComponentCreator('/react-ui-kit/basics/display-videos', '8ff'),
+                component: ComponentCreator('/react-ui-kit/basics/display-videos', '09b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/basics/integrate',
-                component: ComponentCreator('/react-ui-kit/basics/integrate', '4a7'),
+                component: ComponentCreator('/react-ui-kit/basics/integrate', '197'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-ui-kit/build-in-call-ui/build-your-own/add-custom-sidebar',
+                component: ComponentCreator('/react-ui-kit/build-in-call-ui/build-your-own/add-custom-sidebar', 'ff7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-ui-kit/build-in-call-ui/build-your-own/customize-control-bar',
+                component: ComponentCreator('/react-ui-kit/build-in-call-ui/build-your-own/customize-control-bar', '860'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-ui-kit/build-in-call-ui/build-your-own/customize-header',
+                component: ComponentCreator('/react-ui-kit/build-in-call-ui/build-your-own/customize-header', 'a11'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-ui-kit/build-in-call-ui/build-your-own/handling-states-and-configs',
+                component: ComponentCreator('/react-ui-kit/build-in-call-ui/build-your-own/handling-states-and-configs', 'a5a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-ui-kit/build-in-call-ui/build-your-own/stage-ui-using-dyte-grid',
+                component: ComponentCreator('/react-ui-kit/build-in-call-ui/build-your-own/stage-ui-using-dyte-grid', 'd6f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-ui-kit/build-in-call-ui/build-your-own/states based UI Split',
+                component: ComponentCreator('/react-ui-kit/build-in-call-ui/build-your-own/states based UI Split', 'dd4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-ui-kit/build-in-call-ui/default-meeting-ui',
+                component: ComponentCreator('/react-ui-kit/build-in-call-ui/default-meeting-ui', '4e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-device',
-                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-device', '9fe'),
+                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-device', '43d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-preview',
-                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-preview', 'ecb'),
+                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/add-audio-video-preview', 'f43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware',
-                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware', '1fe'),
+                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware', 'f85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/build-pre-call-ui/build-your-own/edit-user-name',
-                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/edit-user-name', '16c'),
+                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/edit-user-name', '20f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/build-pre-call-ui/build-your-own/initial-code-skeleton',
-                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/initial-code-skeleton', '90e'),
+                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/build-your-own/initial-code-skeleton', '9d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/build-pre-call-ui/default-setup-screen',
-                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/default-setup-screen', 'a2b'),
+                component: ComponentCreator('/react-ui-kit/build-pre-call-ui/default-setup-screen', '58e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components',
-                component: ComponentCreator('/react-ui-kit/components', '7e9'),
+                component: ComponentCreator('/react-ui-kit/components', '839'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-audio-visualizer',
-                component: ComponentCreator('/react-ui-kit/components/dyte-audio-visualizer', 'aca'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-audio-visualizer', 'bac'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-avatar',
-                component: ComponentCreator('/react-ui-kit/components/dyte-avatar', 'e91'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-avatar', '667'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-button',
-                component: ComponentCreator('/react-ui-kit/components/dyte-button', 'd33'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-button', 'f31'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-camera-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-camera-toggle', '969'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-camera-toggle', '4c7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-chat',
-                component: ComponentCreator('/react-ui-kit/components/dyte-chat', '632'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-chat', '131'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-chat-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-chat-toggle', '264'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-chat-toggle', '043'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-clock',
-                component: ComponentCreator('/react-ui-kit/components/dyte-clock', 'f15'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-clock', '560'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-confirmation-modal',
-                component: ComponentCreator('/react-ui-kit/components/dyte-confirmation-modal', '69c'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-confirmation-modal', '9c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-controlbar',
-                component: ComponentCreator('/react-ui-kit/components/dyte-controlbar', 'd45'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-controlbar', 'adf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-controlbar-button',
-                component: ComponentCreator('/react-ui-kit/components/dyte-controlbar-button', 'bc7'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-controlbar-button', 'a95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-dialog',
-                component: ComponentCreator('/react-ui-kit/components/dyte-dialog', 'ffc'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-dialog', 'cc9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-dialog-manager',
-                component: ComponentCreator('/react-ui-kit/components/dyte-dialog-manager', '3e3'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-dialog-manager', 'c87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-emoji-picker',
-                component: ComponentCreator('/react-ui-kit/components/dyte-emoji-picker', 'ce6'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-emoji-picker', 'dca'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-ended-screen',
-                component: ComponentCreator('/react-ui-kit/components/dyte-ended-screen', '114'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-ended-screen', '638'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-file-message',
-                component: ComponentCreator('/react-ui-kit/components/dyte-file-message', 'c74'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-file-message', 'a17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-fullscreen-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-fullscreen-toggle', '6c3'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-fullscreen-toggle', '670'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-grid',
-                component: ComponentCreator('/react-ui-kit/components/dyte-grid', '51a'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-grid', 'fd8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-grid-pagination',
-                component: ComponentCreator('/react-ui-kit/components/dyte-grid-pagination', '3bd'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-grid-pagination', '064'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-header',
-                component: ComponentCreator('/react-ui-kit/components/dyte-header', '2c5'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-header', '76c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-icon',
-                component: ComponentCreator('/react-ui-kit/components/dyte-icon', '49d'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-icon', 'e84'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-idle-screen',
-                component: ComponentCreator('/react-ui-kit/components/dyte-idle-screen', '8c5'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-idle-screen', '87a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-image-message',
-                component: ComponentCreator('/react-ui-kit/components/dyte-image-message', '0cf'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-image-message', '7e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-image-viewer',
-                component: ComponentCreator('/react-ui-kit/components/dyte-image-viewer', '7d8'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-image-viewer', 'b2f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-leave-button',
-                component: ComponentCreator('/react-ui-kit/components/dyte-leave-button', '7a2'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-leave-button', 'aa0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-leave-meeting',
-                component: ComponentCreator('/react-ui-kit/components/dyte-leave-meeting', '9af'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-leave-meeting', 'eff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-logo',
-                component: ComponentCreator('/react-ui-kit/components/dyte-logo', '9f8'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-logo', '5d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-meeting',
-                component: ComponentCreator('/react-ui-kit/components/dyte-meeting', '5b2'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-meeting', '6ae'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-meeting-title',
-                component: ComponentCreator('/react-ui-kit/components/dyte-meeting-title', '6f2'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-meeting-title', 'a36'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-menu',
-                component: ComponentCreator('/react-ui-kit/components/dyte-menu', 'ed0'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-menu', 'd2b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-menu-item',
-                component: ComponentCreator('/react-ui-kit/components/dyte-menu-item', 'ba2'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-menu-item', '5d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-menu-list',
-                component: ComponentCreator('/react-ui-kit/components/dyte-menu-list', 'a36'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-menu-list', 'a38'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-mic-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-mic-toggle', '819'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-mic-toggle', '335'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-mixed-grid',
-                component: ComponentCreator('/react-ui-kit/components/dyte-mixed-grid', '8d5'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-mixed-grid', 'c54'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-more-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-more-toggle', '693'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-more-toggle', 'ab5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-name-tag',
-                component: ComponentCreator('/react-ui-kit/components/dyte-name-tag', '0a7'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-name-tag', 'd32'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-ui-kit/components/dyte-network-indicator',
+                component: ComponentCreator('/react-ui-kit/components/dyte-network-indicator', '9b8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-notification',
-                component: ComponentCreator('/react-ui-kit/components/dyte-notification', '51e'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-notification', 'cab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-notifications',
-                component: ComponentCreator('/react-ui-kit/components/dyte-notifications', '694'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-notifications', '442'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-overlay-modal',
-                component: ComponentCreator('/react-ui-kit/components/dyte-overlay-modal', 'eb7'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-overlay-modal', 'f74'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-participant',
-                component: ComponentCreator('/react-ui-kit/components/dyte-participant', '87b'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-participant', '6e1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-participant-count',
-                component: ComponentCreator('/react-ui-kit/components/dyte-participant-count', '151'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-participant-count', '73a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-participant-tile',
-                component: ComponentCreator('/react-ui-kit/components/dyte-participant-tile', 'd7b'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-participant-tile', '200'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-participants',
-                component: ComponentCreator('/react-ui-kit/components/dyte-participants', 'c0e'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-participants', '74c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-participants-audio',
-                component: ComponentCreator('/react-ui-kit/components/dyte-participants-audio', 'bef'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-participants-audio', '10a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-participants-stage-list',
-                component: ComponentCreator('/react-ui-kit/components/dyte-participants-stage-list', '358'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-participants-stage-list', 'd59'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-participants-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-participants-toggle', 'ad4'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-participants-toggle', '8fd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-permissions-message',
-                component: ComponentCreator('/react-ui-kit/components/dyte-permissions-message', '41d'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-permissions-message', '181'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-plugin-main',
-                component: ComponentCreator('/react-ui-kit/components/dyte-plugin-main', '94e'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-plugin-main', 'b6f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-plugins',
-                component: ComponentCreator('/react-ui-kit/components/dyte-plugins', '25f'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-plugins', 'c97'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-plugins-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-plugins-toggle', '889'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-plugins-toggle', 'ca2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-poll',
-                component: ComponentCreator('/react-ui-kit/components/dyte-poll', 'ef4'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-poll', '68e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-poll-form',
-                component: ComponentCreator('/react-ui-kit/components/dyte-poll-form', 'fa8'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-poll-form', '3b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-polls',
-                component: ComponentCreator('/react-ui-kit/components/dyte-polls', '129'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-polls', '983'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-polls-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-polls-toggle', 'a92'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-polls-toggle', '947'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-recording-indicator',
-                component: ComponentCreator('/react-ui-kit/components/dyte-recording-indicator', '1ab'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-recording-indicator', '4c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-recording-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-recording-toggle', 'c83'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-recording-toggle', '76a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-remote-access-manager',
-                component: ComponentCreator('/react-ui-kit/components/dyte-remote-access-manager', '337'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-remote-access-manager', 'fde'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-screen-share-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-screen-share-toggle', 'f38'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-screen-share-toggle', 'aaa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-screenshare-view',
-                component: ComponentCreator('/react-ui-kit/components/dyte-screenshare-view', 'ae8'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-screenshare-view', '345'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-settings',
-                component: ComponentCreator('/react-ui-kit/components/dyte-settings', 'a06'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-settings', '05d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-settings-audio',
-                component: ComponentCreator('/react-ui-kit/components/dyte-settings-audio', '68c'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-settings-audio', '66a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-settings-toggle',
-                component: ComponentCreator('/react-ui-kit/components/dyte-settings-toggle', '90e'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-settings-toggle', '0c7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-settings-video',
-                component: ComponentCreator('/react-ui-kit/components/dyte-settings-video', 'aa8'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-settings-video', 'c6d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-setup-screen',
-                component: ComponentCreator('/react-ui-kit/components/dyte-setup-screen', '12c'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-setup-screen', '1d1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-sidebar',
-                component: ComponentCreator('/react-ui-kit/components/dyte-sidebar', '387'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-sidebar', '071'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-simple-grid',
-                component: ComponentCreator('/react-ui-kit/components/dyte-simple-grid', '7d1'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-simple-grid', '538'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-spinner',
-                component: ComponentCreator('/react-ui-kit/components/dyte-spinner', 'cfa'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-spinner', '3b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-spotlight-grid',
-                component: ComponentCreator('/react-ui-kit/components/dyte-spotlight-grid', '641'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-spotlight-grid', '0dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-stage',
-                component: ComponentCreator('/react-ui-kit/components/dyte-stage', '3f2'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-stage', '763'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-switch',
-                component: ComponentCreator('/react-ui-kit/components/dyte-switch', 'dc0'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-switch', 'c0c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-text-field',
-                component: ComponentCreator('/react-ui-kit/components/dyte-text-field', '19f'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-text-field', '3bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-text-message',
-                component: ComponentCreator('/react-ui-kit/components/dyte-text-message', 'c31'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-text-message', '62c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-tooltip',
-                component: ComponentCreator('/react-ui-kit/components/dyte-tooltip', '30e'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-tooltip', 'dc0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/components/dyte-viewer-count',
-                component: ComponentCreator('/react-ui-kit/components/dyte-viewer-count', '165'),
+                component: ComponentCreator('/react-ui-kit/components/dyte-viewer-count', '6d9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/customizations/custom-iconpack',
-                component: ComponentCreator('/react-ui-kit/customizations/custom-iconpack', 'e37'),
+                component: ComponentCreator('/react-ui-kit/customizations/custom-iconpack', '04a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/customizations/custom-locale',
-                component: ComponentCreator('/react-ui-kit/customizations/custom-locale', '7d9'),
+                component: ComponentCreator('/react-ui-kit/customizations/custom-locale', '1a9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/design-system',
-                component: ComponentCreator('/react-ui-kit/design-system', 'f34'),
+                component: ComponentCreator('/react-ui-kit/design-system', '878'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/quickstart',
-                component: ComponentCreator('/react-ui-kit/quickstart', '876'),
+                component: ComponentCreator('/react-ui-kit/quickstart', '9d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/reference',
-                component: ComponentCreator('/react-ui-kit/reference', 'a87'),
+                component: ComponentCreator('/react-ui-kit/reference', '52b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/reference/classes/DyteNotificationsAudio',
-                component: ComponentCreator('/react-ui-kit/reference/classes/DyteNotificationsAudio', 'b26'),
+                component: ComponentCreator('/react-ui-kit/reference/classes/DyteNotificationsAudio', '2f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/reference/interfaces/Notification',
-                component: ComponentCreator('/react-ui-kit/reference/interfaces/Notification', '0f4'),
+                component: ComponentCreator('/react-ui-kit/reference/interfaces/Notification', '760'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/reference/interfaces/PollObject',
-                component: ComponentCreator('/react-ui-kit/reference/interfaces/PollObject', '729'),
+                component: ComponentCreator('/react-ui-kit/reference/interfaces/PollObject', 'a22'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/reference/interfaces/States',
-                component: ComponentCreator('/react-ui-kit/reference/interfaces/States', '0cc'),
+                component: ComponentCreator('/react-ui-kit/reference/interfaces/States', '782'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/reference/interfaces/UIConfig',
-                component: ComponentCreator('/react-ui-kit/reference/interfaces/UIConfig', '6b5'),
+                component: ComponentCreator('/react-ui-kit/reference/interfaces/UIConfig', '074'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/reference/interfaces/UserPreferences',
-                component: ComponentCreator('/react-ui-kit/reference/interfaces/UserPreferences', 'cb5'),
+                component: ComponentCreator('/react-ui-kit/reference/interfaces/UserPreferences', 'd9f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/release-notes',
-                component: ComponentCreator('/react-ui-kit/release-notes', '3a6'),
+                component: ComponentCreator('/react-ui-kit/release-notes', '49c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-ui-kit/using-hooks',
-                component: ComponentCreator('/react-ui-kit/using-hooks', 'b5a'),
+                component: ComponentCreator('/react-ui-kit/using-hooks', 'cdd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -4305,11 +4420,11 @@ export default [
   },
   {
     path: '/react-web-core',
-    component: ComponentCreator('/react-web-core', 'c45'),
+    component: ComponentCreator('/react-web-core', '401'),
     routes: [
       {
         path: '/react-web-core',
-        component: ComponentCreator('/react-web-core', '1a8'),
+        component: ComponentCreator('/react-web-core', '089'),
         routes: [
           {
             path: '/react-web-core/tags',
@@ -4408,317 +4523,353 @@ export default [
           },
           {
             path: '/react-web-core',
-            component: ComponentCreator('/react-web-core', 'ea1'),
+            component: ComponentCreator('/react-web-core', '13b'),
             routes: [
               {
                 path: '/react-web-core',
-                component: ComponentCreator('/react-web-core', '6f0'),
+                component: ComponentCreator('/react-web-core', 'c78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/advanced/advance',
-                component: ComponentCreator('/react-web-core/advanced/advance', '3a1'),
+                component: ComponentCreator('/react-web-core/advanced/advance', '719'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/chat/edit-chat-messages',
-                component: ComponentCreator('/react-web-core/chat/edit-chat-messages', '68f'),
+                component: ComponentCreator('/react-web-core/chat/edit-chat-messages', 'd1d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/chat/introduction',
-                component: ComponentCreator('/react-web-core/chat/introduction', 'e27'),
+                component: ComponentCreator('/react-web-core/chat/introduction', '6e5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/chat/other-chat-functions',
-                component: ComponentCreator('/react-web-core/chat/other-chat-functions', 'a6e'),
+                component: ComponentCreator('/react-web-core/chat/other-chat-functions', '2ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/chat/receiving-chat-messages',
-                component: ComponentCreator('/react-web-core/chat/receiving-chat-messages', 'fa1'),
+                component: ComponentCreator('/react-web-core/chat/receiving-chat-messages', 'b73'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/chat/sending-a-chat-message',
-                component: ComponentCreator('/react-web-core/chat/sending-a-chat-message', '3b5'),
+                component: ComponentCreator('/react-web-core/chat/sending-a-chat-message', '79f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/error-codes/error-code',
-                component: ComponentCreator('/react-web-core/error-codes/error-code', 'c88'),
+                component: ComponentCreator('/react-web-core/error-codes/error-code', '6a5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/error-codes/error-code-zero-ten',
-                component: ComponentCreator('/react-web-core/error-codes/error-code-zero-ten', 'fed'),
+                component: ComponentCreator('/react-web-core/error-codes/error-code-zero-ten', '511'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/introduction',
-                component: ComponentCreator('/react-web-core/introduction', '0e4'),
+                component: ComponentCreator('/react-web-core/introduction', '2af'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/livestreaming',
-                component: ComponentCreator('/react-web-core/livestreaming', 'c81'),
+                component: ComponentCreator('/react-web-core/livestreaming', '499'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/local-user/events',
-                component: ComponentCreator('/react-web-core/local-user/events', '056'),
+                component: ComponentCreator('/react-web-core/local-user/events', '6c3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/local-user/extras',
-                component: ComponentCreator('/react-web-core/local-user/extras', '109'),
+                component: ComponentCreator('/react-web-core/local-user/extras', 'a5f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/local-user/introduction',
-                component: ComponentCreator('/react-web-core/local-user/introduction', '79a'),
+                component: ComponentCreator('/react-web-core/local-user/introduction', '09e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/local-user/manage-media-devices',
-                component: ComponentCreator('/react-web-core/local-user/manage-media-devices', '6ad'),
+                component: ComponentCreator('/react-web-core/local-user/manage-media-devices', 'ffa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/local-user/media-permission-errors',
-                component: ComponentCreator('/react-web-core/local-user/media-permission-errors', 'd19'),
+                component: ComponentCreator('/react-web-core/local-user/media-permission-errors', 'd85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/participants',
-                component: ComponentCreator('/react-web-core/participants', '4f8'),
+                component: ComponentCreator('/react-web-core/participants', 'e10'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/participants/events',
-                component: ComponentCreator('/react-web-core/participants/events', 'dcb'),
+                component: ComponentCreator('/react-web-core/participants/events', '7c2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/participants/participant-object',
-                component: ComponentCreator('/react-web-core/participants/participant-object', 'bd9'),
+                component: ComponentCreator('/react-web-core/participants/participant-object', 'ff7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/participants/permissions',
-                component: ComponentCreator('/react-web-core/participants/permissions', 'b96'),
+                component: ComponentCreator('/react-web-core/participants/permissions', '19f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/participants/pip',
-                component: ComponentCreator('/react-web-core/participants/pip', '049'),
+                component: ComponentCreator('/react-web-core/participants/pip', 'b94'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/plugins/disable-plugin',
-                component: ComponentCreator('/react-web-core/plugins/disable-plugin', 'bdc'),
+                component: ComponentCreator('/react-web-core/plugins/disable-plugin', '832'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/plugins/enable-plugin',
-                component: ComponentCreator('/react-web-core/plugins/enable-plugin', '258'),
+                component: ComponentCreator('/react-web-core/plugins/enable-plugin', '110'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/plugins/extra',
-                component: ComponentCreator('/react-web-core/plugins/extra', 'ca6'),
+                component: ComponentCreator('/react-web-core/plugins/extra', 'fa2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/plugins/introduction',
-                component: ComponentCreator('/react-web-core/plugins/introduction', '25d'),
+                component: ComponentCreator('/react-web-core/plugins/introduction', 'ee0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/polls/creating-a-poll',
-                component: ComponentCreator('/react-web-core/polls/creating-a-poll', 'f22'),
+                component: ComponentCreator('/react-web-core/polls/creating-a-poll', '503'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/polls/introduction',
-                component: ComponentCreator('/react-web-core/polls/introduction', '0e5'),
+                component: ComponentCreator('/react-web-core/polls/introduction', '93a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/polls/other-poll-functions',
-                component: ComponentCreator('/react-web-core/polls/other-poll-functions', 'a45'),
+                component: ComponentCreator('/react-web-core/polls/other-poll-functions', '1e8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/polls/voting-on-a-poll',
-                component: ComponentCreator('/react-web-core/polls/voting-on-a-poll', '3e1'),
+                component: ComponentCreator('/react-web-core/polls/voting-on-a-poll', 'd0e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-web-core/pre-call/handling-permissions',
+                component: ComponentCreator('/react-web-core/pre-call/handling-permissions', 'f51'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-web-core/pre-call/media-preview',
+                component: ComponentCreator('/react-web-core/pre-call/media-preview', 'c14'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-web-core/pre-call/meeting-meta',
+                component: ComponentCreator('/react-web-core/pre-call/meeting-meta', '090'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-web-core/pre-call/virtual-bg',
+                component: ComponentCreator('/react-web-core/pre-call/virtual-bg', '808'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-web-core/pre-call/waiting-room',
+                component: ComponentCreator('/react-web-core/pre-call/waiting-room', '113'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/recording',
-                component: ComponentCreator('/react-web-core/recording', '99c'),
+                component: ComponentCreator('/react-web-core/recording', '1b1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteAi',
-                component: ComponentCreator('/react-web-core/reference/DyteAi', 'f0b'),
+                component: ComponentCreator('/react-web-core/reference/DyteAi', 'a2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteChat',
-                component: ComponentCreator('/react-web-core/reference/DyteChat', '262'),
+                component: ComponentCreator('/react-web-core/reference/DyteChat', '418'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteClient',
-                component: ComponentCreator('/react-web-core/reference/DyteClient', 'cc1'),
+                component: ComponentCreator('/react-web-core/reference/DyteClient', 'd61'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/react-web-core/reference/DyteConnectedMeetings',
+                component: ComponentCreator('/react-web-core/reference/DyteConnectedMeetings', '05d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteLivestream',
-                component: ComponentCreator('/react-web-core/reference/DyteLivestream', '9d4'),
+                component: ComponentCreator('/react-web-core/reference/DyteLivestream', 'fbe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteMeta',
-                component: ComponentCreator('/react-web-core/reference/DyteMeta', 'daa'),
+                component: ComponentCreator('/react-web-core/reference/DyteMeta', 'e44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteParticipant',
-                component: ComponentCreator('/react-web-core/reference/DyteParticipant', 'e71'),
+                component: ComponentCreator('/react-web-core/reference/DyteParticipant', '8e4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteParticipantMap',
-                component: ComponentCreator('/react-web-core/reference/DyteParticipantMap', '6f6'),
+                component: ComponentCreator('/react-web-core/reference/DyteParticipantMap', '8d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteParticipants',
-                component: ComponentCreator('/react-web-core/reference/DyteParticipants', 'ef4'),
+                component: ComponentCreator('/react-web-core/reference/DyteParticipants', 'd80'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DytePermissionsPreset',
-                component: ComponentCreator('/react-web-core/reference/DytePermissionsPreset', 'a35'),
+                component: ComponentCreator('/react-web-core/reference/DytePermissionsPreset', '5da'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DytePlugin',
-                component: ComponentCreator('/react-web-core/reference/DytePlugin', '7f8'),
+                component: ComponentCreator('/react-web-core/reference/DytePlugin', 'a8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DytePluginMap',
-                component: ComponentCreator('/react-web-core/reference/DytePluginMap', '6b4'),
+                component: ComponentCreator('/react-web-core/reference/DytePluginMap', 'd34'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DytePlugins',
-                component: ComponentCreator('/react-web-core/reference/DytePlugins', '78b'),
+                component: ComponentCreator('/react-web-core/reference/DytePlugins', '80d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DytePolls',
-                component: ComponentCreator('/react-web-core/reference/DytePolls', '839'),
+                component: ComponentCreator('/react-web-core/reference/DytePolls', 'e66'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteRecording',
-                component: ComponentCreator('/react-web-core/reference/DyteRecording', 'df5'),
+                component: ComponentCreator('/react-web-core/reference/DyteRecording', '26b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteRemote',
-                component: ComponentCreator('/react-web-core/reference/DyteRemote', '283'),
+                component: ComponentCreator('/react-web-core/reference/DyteRemote', 'a24'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteSelf',
-                component: ComponentCreator('/react-web-core/reference/DyteSelf', '8ef'),
+                component: ComponentCreator('/react-web-core/reference/DyteSelf', 'f0a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteSelfMedia',
-                component: ComponentCreator('/react-web-core/reference/DyteSelfMedia', '8b3'),
+                component: ComponentCreator('/react-web-core/reference/DyteSelfMedia', 'b7a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteStage',
-                component: ComponentCreator('/react-web-core/reference/DyteStage', 'd11'),
+                component: ComponentCreator('/react-web-core/reference/DyteStage', 'f48'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/reference/DyteThemePreset',
-                component: ComponentCreator('/react-web-core/reference/DyteThemePreset', '29c'),
+                component: ComponentCreator('/react-web-core/reference/DyteThemePreset', '5c6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/release-notes',
-                component: ComponentCreator('/react-web-core/release-notes', '2f1'),
+                component: ComponentCreator('/react-web-core/release-notes', '970'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/room-metadata',
-                component: ComponentCreator('/react-web-core/room-metadata', 'acc'),
+                component: ComponentCreator('/react-web-core/room-metadata', 'e9b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/react-web-core/stage',
-                component: ComponentCreator('/react-web-core/stage', 'd4f'),
+                component: ComponentCreator('/react-web-core/stage', 'a7d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -4730,11 +4881,11 @@ export default [
   },
   {
     path: '/rn-core',
-    component: ComponentCreator('/rn-core', '7ca'),
+    component: ComponentCreator('/rn-core', '7de'),
     routes: [
       {
         path: '/rn-core',
-        component: ComponentCreator('/rn-core', '267'),
+        component: ComponentCreator('/rn-core', '9dc'),
         routes: [
           {
             path: '/rn-core/tags',
@@ -4764,11 +4915,6 @@ export default [
           {
             path: '/rn-core/tags/methods',
             component: ComponentCreator('/rn-core/tags/methods', 'dfe'),
-            exact: true
-          },
-          {
-            path: '/rn-core/tags/mobile-core',
-            component: ComponentCreator('/rn-core/tags/mobile-core', '325'),
             exact: true
           },
           {
@@ -4847,282 +4993,341 @@ export default [
             exact: true
           },
           {
+            path: '/rn-core/tags/web-core',
+            component: ComponentCreator('/rn-core/tags/web-core', '37f'),
+            exact: true
+          },
+          {
             path: '/rn-core',
-            component: ComponentCreator('/rn-core', 'e42'),
+            component: ComponentCreator('/rn-core', '141'),
             routes: [
               {
                 path: '/rn-core',
-                component: ComponentCreator('/rn-core', '708'),
+                component: ComponentCreator('/rn-core', 'bbf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/chat/edit-chat-messages',
-                component: ComponentCreator('/rn-core/chat/edit-chat-messages', '4fa'),
+                component: ComponentCreator('/rn-core/chat/edit-chat-messages', '1f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/chat/introduction',
-                component: ComponentCreator('/rn-core/chat/introduction', 'e0e'),
+                component: ComponentCreator('/rn-core/chat/introduction', '90a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/chat/other-chat-functions',
-                component: ComponentCreator('/rn-core/chat/other-chat-functions', 'e1c'),
+                component: ComponentCreator('/rn-core/chat/other-chat-functions', '6cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/chat/receiving-chat-messages',
-                component: ComponentCreator('/rn-core/chat/receiving-chat-messages', '15a'),
+                component: ComponentCreator('/rn-core/chat/receiving-chat-messages', 'ea4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/chat/sending-a-chat-message',
-                component: ComponentCreator('/rn-core/chat/sending-a-chat-message', '80b'),
+                component: ComponentCreator('/rn-core/chat/sending-a-chat-message', '1df'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/error-codes/error-code',
-                component: ComponentCreator('/rn-core/error-codes/error-code', '7bf'),
+                component: ComponentCreator('/rn-core/error-codes/error-code', '4c0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/error-codes/error-code-zero-ten',
-                component: ComponentCreator('/rn-core/error-codes/error-code-zero-ten', '8d2'),
+                component: ComponentCreator('/rn-core/error-codes/error-code-zero-ten', 'd26'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/livestreaming',
-                component: ComponentCreator('/rn-core/livestreaming', 'b2f'),
+                component: ComponentCreator('/rn-core/livestreaming', 'a0d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/local-user/events',
-                component: ComponentCreator('/rn-core/local-user/events', 'e0b'),
+                component: ComponentCreator('/rn-core/local-user/events', 'dba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/local-user/extras',
-                component: ComponentCreator('/rn-core/local-user/extras', 'c7e'),
+                component: ComponentCreator('/rn-core/local-user/extras', 'f09'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/local-user/introduction',
-                component: ComponentCreator('/rn-core/local-user/introduction', 'b18'),
+                component: ComponentCreator('/rn-core/local-user/introduction', '4ab'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/local-user/manage-media-devices',
-                component: ComponentCreator('/rn-core/local-user/manage-media-devices', 'd6f'),
+                component: ComponentCreator('/rn-core/local-user/manage-media-devices', 'f8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/local-user/media-permission-errors',
-                component: ComponentCreator('/rn-core/local-user/media-permission-errors', '9da'),
+                component: ComponentCreator('/rn-core/local-user/media-permission-errors', 'a5e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/participants',
-                component: ComponentCreator('/rn-core/participants', 'a86'),
+                component: ComponentCreator('/rn-core/participants', 'c98'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/participants/events',
-                component: ComponentCreator('/rn-core/participants/events', 'cfa'),
+                component: ComponentCreator('/rn-core/participants/events', '2eb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/participants/participant-object',
-                component: ComponentCreator('/rn-core/participants/participant-object', '2b8'),
+                component: ComponentCreator('/rn-core/participants/participant-object', '2d6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/participants/permissions',
+                component: ComponentCreator('/rn-core/participants/permissions', 'a66'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/plugins/disable-plugin',
-                component: ComponentCreator('/rn-core/plugins/disable-plugin', 'de9'),
+                component: ComponentCreator('/rn-core/plugins/disable-plugin', '676'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/plugins/enable-plugin',
-                component: ComponentCreator('/rn-core/plugins/enable-plugin', '749'),
+                component: ComponentCreator('/rn-core/plugins/enable-plugin', '634'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/plugins/extra',
-                component: ComponentCreator('/rn-core/plugins/extra', '9a0'),
+                component: ComponentCreator('/rn-core/plugins/extra', '8db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/plugins/introduction',
-                component: ComponentCreator('/rn-core/plugins/introduction', '542'),
+                component: ComponentCreator('/rn-core/plugins/introduction', 'b1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/polls/creating-a-poll',
-                component: ComponentCreator('/rn-core/polls/creating-a-poll', '9aa'),
+                component: ComponentCreator('/rn-core/polls/creating-a-poll', '1a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/polls/introduction',
-                component: ComponentCreator('/rn-core/polls/introduction', '324'),
+                component: ComponentCreator('/rn-core/polls/introduction', '10b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/polls/other-poll-functions',
-                component: ComponentCreator('/rn-core/polls/other-poll-functions', '1a4'),
+                component: ComponentCreator('/rn-core/polls/other-poll-functions', 'bd6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/polls/voting-on-a-poll',
-                component: ComponentCreator('/rn-core/polls/voting-on-a-poll', '935'),
+                component: ComponentCreator('/rn-core/polls/voting-on-a-poll', '556'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/pre-call/handling-permissions',
+                component: ComponentCreator('/rn-core/pre-call/handling-permissions', '495'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/pre-call/media-preview',
+                component: ComponentCreator('/rn-core/pre-call/media-preview', '8b4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/pre-call/meeting-meta',
+                component: ComponentCreator('/rn-core/pre-call/meeting-meta', '42a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/pre-call/waiting-room',
+                component: ComponentCreator('/rn-core/pre-call/waiting-room', '9fc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/quickstart',
-                component: ComponentCreator('/rn-core/quickstart', '047'),
+                component: ComponentCreator('/rn-core/quickstart', '24c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/recording',
-                component: ComponentCreator('/rn-core/recording', '5c7'),
+                component: ComponentCreator('/rn-core/recording', '2c0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/reference/DyteAi',
+                component: ComponentCreator('/rn-core/reference/DyteAi', 'a73'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteChat',
-                component: ComponentCreator('/rn-core/reference/DyteChat', 'f9a'),
+                component: ComponentCreator('/rn-core/reference/DyteChat', '67b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteClient',
-                component: ComponentCreator('/rn-core/reference/DyteClient', '965'),
+                component: ComponentCreator('/rn-core/reference/DyteClient', 'e19'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/reference/DyteConnectedMeetings',
+                component: ComponentCreator('/rn-core/reference/DyteConnectedMeetings', '07d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteLivestream',
-                component: ComponentCreator('/rn-core/reference/DyteLivestream', 'b33'),
+                component: ComponentCreator('/rn-core/reference/DyteLivestream', '39e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteMeta',
-                component: ComponentCreator('/rn-core/reference/DyteMeta', '1a0'),
+                component: ComponentCreator('/rn-core/reference/DyteMeta', 'c87'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteParticipant',
-                component: ComponentCreator('/rn-core/reference/DyteParticipant', '08a'),
+                component: ComponentCreator('/rn-core/reference/DyteParticipant', '50d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteParticipantMap',
-                component: ComponentCreator('/rn-core/reference/DyteParticipantMap', 'bb2'),
+                component: ComponentCreator('/rn-core/reference/DyteParticipantMap', '19e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteParticipants',
-                component: ComponentCreator('/rn-core/reference/DyteParticipants', '1ba'),
+                component: ComponentCreator('/rn-core/reference/DyteParticipants', '79c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DytePermissionsPreset',
-                component: ComponentCreator('/rn-core/reference/DytePermissionsPreset', '590'),
+                component: ComponentCreator('/rn-core/reference/DytePermissionsPreset', 'cff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DytePlugin',
-                component: ComponentCreator('/rn-core/reference/DytePlugin', '146'),
+                component: ComponentCreator('/rn-core/reference/DytePlugin', '4db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DytePluginMap',
-                component: ComponentCreator('/rn-core/reference/DytePluginMap', 'f60'),
+                component: ComponentCreator('/rn-core/reference/DytePluginMap', 'dbd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DytePlugins',
-                component: ComponentCreator('/rn-core/reference/DytePlugins', 'bd9'),
+                component: ComponentCreator('/rn-core/reference/DytePlugins', 'd48'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DytePolls',
-                component: ComponentCreator('/rn-core/reference/DytePolls', 'ef8'),
+                component: ComponentCreator('/rn-core/reference/DytePolls', 'ab5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteRecording',
-                component: ComponentCreator('/rn-core/reference/DyteRecording', '485'),
+                component: ComponentCreator('/rn-core/reference/DyteRecording', '901'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/reference/DyteRemote',
+                component: ComponentCreator('/rn-core/reference/DyteRemote', 'd1a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteSelf',
-                component: ComponentCreator('/rn-core/reference/DyteSelf', '849'),
+                component: ComponentCreator('/rn-core/reference/DyteSelf', 'faa'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/rn-core/reference/DyteSelfMedia',
+                component: ComponentCreator('/rn-core/reference/DyteSelfMedia', 'b40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteStage',
-                component: ComponentCreator('/rn-core/reference/DyteStage', 'f17'),
+                component: ComponentCreator('/rn-core/reference/DyteStage', '4fc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/reference/DyteThemePreset',
-                component: ComponentCreator('/rn-core/reference/DyteThemePreset', 'f33'),
+                component: ComponentCreator('/rn-core/reference/DyteThemePreset', '484'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/release-notes',
-                component: ComponentCreator('/rn-core/release-notes', '775'),
+                component: ComponentCreator('/rn-core/release-notes', '319'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/room-metadata',
-                component: ComponentCreator('/rn-core/room-metadata', 'e41'),
+                component: ComponentCreator('/rn-core/room-metadata', '741'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/rn-core/stage',
-                component: ComponentCreator('/rn-core/stage', 'db6'),
+                component: ComponentCreator('/rn-core/stage', 'ff9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -5134,11 +5339,11 @@ export default [
   },
   {
     path: '/ui-kit',
-    component: ComponentCreator('/ui-kit', '87a'),
+    component: ComponentCreator('/ui-kit', '7d9'),
     routes: [
       {
         path: '/ui-kit',
-        component: ComponentCreator('/ui-kit', 'a85'),
+        component: ComponentCreator('/ui-kit', '8c9'),
         routes: [
           {
             path: '/ui-kit/tags',
@@ -5152,539 +5357,545 @@ export default [
           },
           {
             path: '/ui-kit',
-            component: ComponentCreator('/ui-kit', 'b39'),
+            component: ComponentCreator('/ui-kit', '1b8'),
             routes: [
               {
                 path: '/ui-kit',
-                component: ComponentCreator('/ui-kit', '7e3'),
+                component: ComponentCreator('/ui-kit', 'c27'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/basics/components-basics',
-                component: ComponentCreator('/ui-kit/basics/components-basics', '20e'),
+                component: ComponentCreator('/ui-kit/basics/components-basics', '4a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/basics/pre-requisite',
-                component: ComponentCreator('/ui-kit/basics/pre-requisite', 'c7c'),
+                component: ComponentCreator('/ui-kit/basics/pre-requisite', 'cdf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components',
-                component: ComponentCreator('/ui-kit/components', '69f'),
+                component: ComponentCreator('/ui-kit/components', '79e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-audio-visualizer',
-                component: ComponentCreator('/ui-kit/components/dyte-audio-visualizer', 'f12'),
+                component: ComponentCreator('/ui-kit/components/dyte-audio-visualizer', '04d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-avatar',
-                component: ComponentCreator('/ui-kit/components/dyte-avatar', 'ce6'),
+                component: ComponentCreator('/ui-kit/components/dyte-avatar', '47a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-button',
-                component: ComponentCreator('/ui-kit/components/dyte-button', '7ab'),
+                component: ComponentCreator('/ui-kit/components/dyte-button', '730'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-camera-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-camera-toggle', '349'),
+                component: ComponentCreator('/ui-kit/components/dyte-camera-toggle', 'ec0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-chat',
-                component: ComponentCreator('/ui-kit/components/dyte-chat', '720'),
+                component: ComponentCreator('/ui-kit/components/dyte-chat', 'f30'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-chat-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-chat-toggle', '9cb'),
+                component: ComponentCreator('/ui-kit/components/dyte-chat-toggle', 'b52'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-clock',
-                component: ComponentCreator('/ui-kit/components/dyte-clock', '773'),
+                component: ComponentCreator('/ui-kit/components/dyte-clock', '998'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-confirmation-modal',
-                component: ComponentCreator('/ui-kit/components/dyte-confirmation-modal', '839'),
+                component: ComponentCreator('/ui-kit/components/dyte-confirmation-modal', 'dc9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-controlbar',
-                component: ComponentCreator('/ui-kit/components/dyte-controlbar', '7b5'),
+                component: ComponentCreator('/ui-kit/components/dyte-controlbar', 'ff5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-controlbar-button',
-                component: ComponentCreator('/ui-kit/components/dyte-controlbar-button', '4b9'),
+                component: ComponentCreator('/ui-kit/components/dyte-controlbar-button', '0bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-dialog',
-                component: ComponentCreator('/ui-kit/components/dyte-dialog', '783'),
+                component: ComponentCreator('/ui-kit/components/dyte-dialog', '26d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-dialog-manager',
-                component: ComponentCreator('/ui-kit/components/dyte-dialog-manager', 'd30'),
+                component: ComponentCreator('/ui-kit/components/dyte-dialog-manager', '4eb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-emoji-picker',
-                component: ComponentCreator('/ui-kit/components/dyte-emoji-picker', '046'),
+                component: ComponentCreator('/ui-kit/components/dyte-emoji-picker', 'cf6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-ended-screen',
-                component: ComponentCreator('/ui-kit/components/dyte-ended-screen', 'ee1'),
+                component: ComponentCreator('/ui-kit/components/dyte-ended-screen', 'ad1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-file-message',
-                component: ComponentCreator('/ui-kit/components/dyte-file-message', 'be2'),
+                component: ComponentCreator('/ui-kit/components/dyte-file-message', '36a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-fullscreen-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-fullscreen-toggle', '30a'),
+                component: ComponentCreator('/ui-kit/components/dyte-fullscreen-toggle', 'c3a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-grid',
-                component: ComponentCreator('/ui-kit/components/dyte-grid', '859'),
+                component: ComponentCreator('/ui-kit/components/dyte-grid', '12a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-grid-pagination',
-                component: ComponentCreator('/ui-kit/components/dyte-grid-pagination', '376'),
+                component: ComponentCreator('/ui-kit/components/dyte-grid-pagination', '670'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-header',
-                component: ComponentCreator('/ui-kit/components/dyte-header', '217'),
+                component: ComponentCreator('/ui-kit/components/dyte-header', '6ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-icon',
-                component: ComponentCreator('/ui-kit/components/dyte-icon', '04c'),
+                component: ComponentCreator('/ui-kit/components/dyte-icon', 'd6b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-idle-screen',
-                component: ComponentCreator('/ui-kit/components/dyte-idle-screen', '6d7'),
+                component: ComponentCreator('/ui-kit/components/dyte-idle-screen', 'fa9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-image-message',
-                component: ComponentCreator('/ui-kit/components/dyte-image-message', '148'),
+                component: ComponentCreator('/ui-kit/components/dyte-image-message', '6d8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-image-viewer',
-                component: ComponentCreator('/ui-kit/components/dyte-image-viewer', 'aa6'),
+                component: ComponentCreator('/ui-kit/components/dyte-image-viewer', '706'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-leave-button',
-                component: ComponentCreator('/ui-kit/components/dyte-leave-button', '7a8'),
+                component: ComponentCreator('/ui-kit/components/dyte-leave-button', '11c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-leave-meeting',
-                component: ComponentCreator('/ui-kit/components/dyte-leave-meeting', 'd53'),
+                component: ComponentCreator('/ui-kit/components/dyte-leave-meeting', 'bc3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-logo',
-                component: ComponentCreator('/ui-kit/components/dyte-logo', '346'),
+                component: ComponentCreator('/ui-kit/components/dyte-logo', '2f6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-meeting',
-                component: ComponentCreator('/ui-kit/components/dyte-meeting', 'ac0'),
+                component: ComponentCreator('/ui-kit/components/dyte-meeting', '6bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-meeting-title',
-                component: ComponentCreator('/ui-kit/components/dyte-meeting-title', '979'),
+                component: ComponentCreator('/ui-kit/components/dyte-meeting-title', '8bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-menu',
-                component: ComponentCreator('/ui-kit/components/dyte-menu', '611'),
+                component: ComponentCreator('/ui-kit/components/dyte-menu', '29d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-menu-item',
-                component: ComponentCreator('/ui-kit/components/dyte-menu-item', '4f5'),
+                component: ComponentCreator('/ui-kit/components/dyte-menu-item', '3d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-menu-list',
-                component: ComponentCreator('/ui-kit/components/dyte-menu-list', '10f'),
+                component: ComponentCreator('/ui-kit/components/dyte-menu-list', '237'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-mic-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-mic-toggle', '95d'),
+                component: ComponentCreator('/ui-kit/components/dyte-mic-toggle', '53e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-mixed-grid',
-                component: ComponentCreator('/ui-kit/components/dyte-mixed-grid', '728'),
+                component: ComponentCreator('/ui-kit/components/dyte-mixed-grid', '742'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-more-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-more-toggle', 'd77'),
+                component: ComponentCreator('/ui-kit/components/dyte-more-toggle', 'f5e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-name-tag',
-                component: ComponentCreator('/ui-kit/components/dyte-name-tag', '273'),
+                component: ComponentCreator('/ui-kit/components/dyte-name-tag', '677'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ui-kit/components/dyte-network-indicator',
+                component: ComponentCreator('/ui-kit/components/dyte-network-indicator', '677'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-notification',
-                component: ComponentCreator('/ui-kit/components/dyte-notification', '661'),
+                component: ComponentCreator('/ui-kit/components/dyte-notification', 'cc2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-notifications',
-                component: ComponentCreator('/ui-kit/components/dyte-notifications', '548'),
+                component: ComponentCreator('/ui-kit/components/dyte-notifications', '2b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-overlay-modal',
-                component: ComponentCreator('/ui-kit/components/dyte-overlay-modal', 'ac6'),
+                component: ComponentCreator('/ui-kit/components/dyte-overlay-modal', 'b2a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-participant',
-                component: ComponentCreator('/ui-kit/components/dyte-participant', 'f62'),
+                component: ComponentCreator('/ui-kit/components/dyte-participant', 'cf3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-participant-count',
-                component: ComponentCreator('/ui-kit/components/dyte-participant-count', '8e0'),
+                component: ComponentCreator('/ui-kit/components/dyte-participant-count', 'dbf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-participant-tile',
-                component: ComponentCreator('/ui-kit/components/dyte-participant-tile', '544'),
+                component: ComponentCreator('/ui-kit/components/dyte-participant-tile', '860'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-participants',
-                component: ComponentCreator('/ui-kit/components/dyte-participants', '894'),
+                component: ComponentCreator('/ui-kit/components/dyte-participants', '010'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-participants-audio',
-                component: ComponentCreator('/ui-kit/components/dyte-participants-audio', '212'),
+                component: ComponentCreator('/ui-kit/components/dyte-participants-audio', '7fe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-participants-stage-list',
-                component: ComponentCreator('/ui-kit/components/dyte-participants-stage-list', 'c74'),
+                component: ComponentCreator('/ui-kit/components/dyte-participants-stage-list', '0f8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-participants-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-participants-toggle', '30a'),
+                component: ComponentCreator('/ui-kit/components/dyte-participants-toggle', 'a78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-permissions-message',
-                component: ComponentCreator('/ui-kit/components/dyte-permissions-message', 'c4e'),
+                component: ComponentCreator('/ui-kit/components/dyte-permissions-message', 'eea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-plugin-main',
-                component: ComponentCreator('/ui-kit/components/dyte-plugin-main', 'b7c'),
+                component: ComponentCreator('/ui-kit/components/dyte-plugin-main', 'a4d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-plugins',
-                component: ComponentCreator('/ui-kit/components/dyte-plugins', '745'),
+                component: ComponentCreator('/ui-kit/components/dyte-plugins', 'bf7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-plugins-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-plugins-toggle', '243'),
+                component: ComponentCreator('/ui-kit/components/dyte-plugins-toggle', '66e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-poll',
-                component: ComponentCreator('/ui-kit/components/dyte-poll', 'b5d'),
+                component: ComponentCreator('/ui-kit/components/dyte-poll', '555'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-poll-form',
-                component: ComponentCreator('/ui-kit/components/dyte-poll-form', '0e4'),
+                component: ComponentCreator('/ui-kit/components/dyte-poll-form', '596'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-polls',
-                component: ComponentCreator('/ui-kit/components/dyte-polls', 'f85'),
+                component: ComponentCreator('/ui-kit/components/dyte-polls', '19c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-polls-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-polls-toggle', '0f2'),
+                component: ComponentCreator('/ui-kit/components/dyte-polls-toggle', '573'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-recording-indicator',
-                component: ComponentCreator('/ui-kit/components/dyte-recording-indicator', 'd95'),
+                component: ComponentCreator('/ui-kit/components/dyte-recording-indicator', '71f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-recording-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-recording-toggle', '93e'),
+                component: ComponentCreator('/ui-kit/components/dyte-recording-toggle', 'a3e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-remote-access-manager',
-                component: ComponentCreator('/ui-kit/components/dyte-remote-access-manager', '4d1'),
+                component: ComponentCreator('/ui-kit/components/dyte-remote-access-manager', 'e17'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-screen-share-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-screen-share-toggle', '3d1'),
+                component: ComponentCreator('/ui-kit/components/dyte-screen-share-toggle', 'bfd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-screenshare-view',
-                component: ComponentCreator('/ui-kit/components/dyte-screenshare-view', '064'),
+                component: ComponentCreator('/ui-kit/components/dyte-screenshare-view', '0d2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-settings',
-                component: ComponentCreator('/ui-kit/components/dyte-settings', '238'),
+                component: ComponentCreator('/ui-kit/components/dyte-settings', 'b2f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-settings-audio',
-                component: ComponentCreator('/ui-kit/components/dyte-settings-audio', 'a3c'),
+                component: ComponentCreator('/ui-kit/components/dyte-settings-audio', 'a4d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-settings-toggle',
-                component: ComponentCreator('/ui-kit/components/dyte-settings-toggle', '16b'),
+                component: ComponentCreator('/ui-kit/components/dyte-settings-toggle', '599'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-settings-video',
-                component: ComponentCreator('/ui-kit/components/dyte-settings-video', 'fab'),
+                component: ComponentCreator('/ui-kit/components/dyte-settings-video', '3cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-setup-screen',
-                component: ComponentCreator('/ui-kit/components/dyte-setup-screen', 'a1c'),
+                component: ComponentCreator('/ui-kit/components/dyte-setup-screen', '220'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-sidebar',
-                component: ComponentCreator('/ui-kit/components/dyte-sidebar', '7d1'),
+                component: ComponentCreator('/ui-kit/components/dyte-sidebar', 'b0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-simple-grid',
-                component: ComponentCreator('/ui-kit/components/dyte-simple-grid', 'c7e'),
+                component: ComponentCreator('/ui-kit/components/dyte-simple-grid', 'ff9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-spinner',
-                component: ComponentCreator('/ui-kit/components/dyte-spinner', 'c55'),
+                component: ComponentCreator('/ui-kit/components/dyte-spinner', 'e6d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-spotlight-grid',
-                component: ComponentCreator('/ui-kit/components/dyte-spotlight-grid', 'ac8'),
+                component: ComponentCreator('/ui-kit/components/dyte-spotlight-grid', 'b83'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-stage',
-                component: ComponentCreator('/ui-kit/components/dyte-stage', '067'),
+                component: ComponentCreator('/ui-kit/components/dyte-stage', 'f6d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-switch',
-                component: ComponentCreator('/ui-kit/components/dyte-switch', '710'),
+                component: ComponentCreator('/ui-kit/components/dyte-switch', 'a82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-text-field',
-                component: ComponentCreator('/ui-kit/components/dyte-text-field', 'ce6'),
+                component: ComponentCreator('/ui-kit/components/dyte-text-field', '783'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-text-message',
-                component: ComponentCreator('/ui-kit/components/dyte-text-message', 'ae0'),
+                component: ComponentCreator('/ui-kit/components/dyte-text-message', '3a6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-tooltip',
-                component: ComponentCreator('/ui-kit/components/dyte-tooltip', '63f'),
+                component: ComponentCreator('/ui-kit/components/dyte-tooltip', '9bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/components/dyte-viewer-count',
-                component: ComponentCreator('/ui-kit/components/dyte-viewer-count', 'ac0'),
+                component: ComponentCreator('/ui-kit/components/dyte-viewer-count', 'da0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/customizations/custom-iconpack',
-                component: ComponentCreator('/ui-kit/customizations/custom-iconpack', '468'),
+                component: ComponentCreator('/ui-kit/customizations/custom-iconpack', '2f1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/customizations/custom-locale',
-                component: ComponentCreator('/ui-kit/customizations/custom-locale', '6b8'),
+                component: ComponentCreator('/ui-kit/customizations/custom-locale', '84a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/design-system',
-                component: ComponentCreator('/ui-kit/design-system', 'b41'),
+                component: ComponentCreator('/ui-kit/design-system', 'ab5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/quickstart',
-                component: ComponentCreator('/ui-kit/quickstart', '8c9'),
+                component: ComponentCreator('/ui-kit/quickstart', 'ff3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/reference',
-                component: ComponentCreator('/ui-kit/reference', 'b5c'),
+                component: ComponentCreator('/ui-kit/reference', 'a4f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/reference/classes/DyteNotificationsAudio',
-                component: ComponentCreator('/ui-kit/reference/classes/DyteNotificationsAudio', '470'),
+                component: ComponentCreator('/ui-kit/reference/classes/DyteNotificationsAudio', '5fa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/reference/interfaces/Notification',
-                component: ComponentCreator('/ui-kit/reference/interfaces/Notification', 'b40'),
+                component: ComponentCreator('/ui-kit/reference/interfaces/Notification', '450'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/reference/interfaces/PollObject',
-                component: ComponentCreator('/ui-kit/reference/interfaces/PollObject', '3d9'),
+                component: ComponentCreator('/ui-kit/reference/interfaces/PollObject', '1cd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/reference/interfaces/States',
-                component: ComponentCreator('/ui-kit/reference/interfaces/States', '7e7'),
+                component: ComponentCreator('/ui-kit/reference/interfaces/States', '652'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/reference/interfaces/UIConfig',
-                component: ComponentCreator('/ui-kit/reference/interfaces/UIConfig', '2c4'),
+                component: ComponentCreator('/ui-kit/reference/interfaces/UIConfig', '4dd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/reference/interfaces/UserPreferences',
-                component: ComponentCreator('/ui-kit/reference/interfaces/UserPreferences', '15e'),
+                component: ComponentCreator('/ui-kit/reference/interfaces/UserPreferences', '3f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ui-kit/release-notes',
-                component: ComponentCreator('/ui-kit/release-notes', '8cb'),
+                component: ComponentCreator('/ui-kit/release-notes', 'b3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -5696,11 +5907,11 @@ export default [
   },
   {
     path: '/web-core',
-    component: ComponentCreator('/web-core', 'd4c'),
+    component: ComponentCreator('/web-core', 'c05'),
     routes: [
       {
         path: '/web-core',
-        component: ComponentCreator('/web-core', '1f5'),
+        component: ComponentCreator('/web-core', 'e52'),
         routes: [
           {
             path: '/web-core/tags',
@@ -5804,347 +6015,353 @@ export default [
           },
           {
             path: '/web-core',
-            component: ComponentCreator('/web-core', 'bbe'),
+            component: ComponentCreator('/web-core', 'b35'),
             routes: [
               {
                 path: '/web-core',
-                component: ComponentCreator('/web-core', '155'),
+                component: ComponentCreator('/web-core', 'b5b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/advanced/advance',
-                component: ComponentCreator('/web-core/advanced/advance', '49d'),
+                component: ComponentCreator('/web-core/advanced/advance', '634'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/chat/edit-chat-messages',
-                component: ComponentCreator('/web-core/chat/edit-chat-messages', '777'),
+                component: ComponentCreator('/web-core/chat/edit-chat-messages', '577'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/chat/introduction',
-                component: ComponentCreator('/web-core/chat/introduction', '4f7'),
+                component: ComponentCreator('/web-core/chat/introduction', 'b01'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/chat/other-chat-functions',
-                component: ComponentCreator('/web-core/chat/other-chat-functions', '14f'),
+                component: ComponentCreator('/web-core/chat/other-chat-functions', 'e28'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/chat/receiving-chat-messages',
-                component: ComponentCreator('/web-core/chat/receiving-chat-messages', 'acb'),
+                component: ComponentCreator('/web-core/chat/receiving-chat-messages', '856'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/chat/sending-a-chat-message',
-                component: ComponentCreator('/web-core/chat/sending-a-chat-message', '242'),
+                component: ComponentCreator('/web-core/chat/sending-a-chat-message', 'cc9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/error-codes/error-code',
-                component: ComponentCreator('/web-core/error-codes/error-code', 'bf5'),
+                component: ComponentCreator('/web-core/error-codes/error-code', '13d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/error-codes/error-code-zero-ten',
-                component: ComponentCreator('/web-core/error-codes/error-code-zero-ten', '98b'),
+                component: ComponentCreator('/web-core/error-codes/error-code-zero-ten', '6ff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/Introduction',
-                component: ComponentCreator('/web-core/Introduction', '463'),
+                component: ComponentCreator('/web-core/Introduction', '547'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/livestreaming',
-                component: ComponentCreator('/web-core/livestreaming', 'd54'),
+                component: ComponentCreator('/web-core/livestreaming', '95a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/local-user/events',
-                component: ComponentCreator('/web-core/local-user/events', 'be2'),
+                component: ComponentCreator('/web-core/local-user/events', 'e85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/local-user/extras',
-                component: ComponentCreator('/web-core/local-user/extras', '7ad'),
+                component: ComponentCreator('/web-core/local-user/extras', '2b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/local-user/introduction',
-                component: ComponentCreator('/web-core/local-user/introduction', '793'),
+                component: ComponentCreator('/web-core/local-user/introduction', '57a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/local-user/manage-media-devices',
-                component: ComponentCreator('/web-core/local-user/manage-media-devices', 'c3e'),
+                component: ComponentCreator('/web-core/local-user/manage-media-devices', 'a3b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/local-user/media-permission-errors',
-                component: ComponentCreator('/web-core/local-user/media-permission-errors', '18d'),
+                component: ComponentCreator('/web-core/local-user/media-permission-errors', '7c0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/participants',
-                component: ComponentCreator('/web-core/participants', '869'),
+                component: ComponentCreator('/web-core/participants', '60b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/participants/events',
-                component: ComponentCreator('/web-core/participants/events', 'c91'),
+                component: ComponentCreator('/web-core/participants/events', 'b65'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/participants/participant-object',
-                component: ComponentCreator('/web-core/participants/participant-object', 'e1b'),
+                component: ComponentCreator('/web-core/participants/participant-object', '76b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/participants/permissions',
-                component: ComponentCreator('/web-core/participants/permissions', 'cfc'),
+                component: ComponentCreator('/web-core/participants/permissions', '97b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/participants/pip',
-                component: ComponentCreator('/web-core/participants/pip', '772'),
+                component: ComponentCreator('/web-core/participants/pip', '99c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/plugins/disable-plugin',
-                component: ComponentCreator('/web-core/plugins/disable-plugin', '445'),
+                component: ComponentCreator('/web-core/plugins/disable-plugin', '6b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/plugins/enable-plugin',
-                component: ComponentCreator('/web-core/plugins/enable-plugin', 'ed2'),
+                component: ComponentCreator('/web-core/plugins/enable-plugin', 'c2f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/plugins/extra',
-                component: ComponentCreator('/web-core/plugins/extra', 'e02'),
+                component: ComponentCreator('/web-core/plugins/extra', '237'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/plugins/introduction',
-                component: ComponentCreator('/web-core/plugins/introduction', '709'),
+                component: ComponentCreator('/web-core/plugins/introduction', '002'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/polls/creating-a-poll',
-                component: ComponentCreator('/web-core/polls/creating-a-poll', '452'),
+                component: ComponentCreator('/web-core/polls/creating-a-poll', '5a1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/polls/introduction',
-                component: ComponentCreator('/web-core/polls/introduction', '1a8'),
+                component: ComponentCreator('/web-core/polls/introduction', '6a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/polls/other-poll-functions',
-                component: ComponentCreator('/web-core/polls/other-poll-functions', 'fe4'),
+                component: ComponentCreator('/web-core/polls/other-poll-functions', '7bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/polls/voting-on-a-poll',
-                component: ComponentCreator('/web-core/polls/voting-on-a-poll', '9f9'),
+                component: ComponentCreator('/web-core/polls/voting-on-a-poll', '2e3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/pre-call/handling-permissions',
-                component: ComponentCreator('/web-core/pre-call/handling-permissions', 'a48'),
+                component: ComponentCreator('/web-core/pre-call/handling-permissions', '36b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/pre-call/media-preview',
-                component: ComponentCreator('/web-core/pre-call/media-preview', 'f27'),
+                component: ComponentCreator('/web-core/pre-call/media-preview', '823'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/pre-call/meeting-meta',
-                component: ComponentCreator('/web-core/pre-call/meeting-meta', 'cb4'),
+                component: ComponentCreator('/web-core/pre-call/meeting-meta', 'a33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/pre-call/virtual-bg',
-                component: ComponentCreator('/web-core/pre-call/virtual-bg', '05d'),
+                component: ComponentCreator('/web-core/pre-call/virtual-bg', 'af6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/pre-call/waiting-room',
-                component: ComponentCreator('/web-core/pre-call/waiting-room', '4fc'),
+                component: ComponentCreator('/web-core/pre-call/waiting-room', '635'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/recording',
-                component: ComponentCreator('/web-core/recording', '248'),
+                component: ComponentCreator('/web-core/recording', 'b29'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteAi',
-                component: ComponentCreator('/web-core/reference/DyteAi', '9d2'),
+                component: ComponentCreator('/web-core/reference/DyteAi', '185'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteChat',
-                component: ComponentCreator('/web-core/reference/DyteChat', '554'),
+                component: ComponentCreator('/web-core/reference/DyteChat', '502'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteClient',
-                component: ComponentCreator('/web-core/reference/DyteClient', '9ab'),
+                component: ComponentCreator('/web-core/reference/DyteClient', '210'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/web-core/reference/DyteConnectedMeetings',
+                component: ComponentCreator('/web-core/reference/DyteConnectedMeetings', '82e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteLivestream',
-                component: ComponentCreator('/web-core/reference/DyteLivestream', '934'),
+                component: ComponentCreator('/web-core/reference/DyteLivestream', '51c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteMeta',
-                component: ComponentCreator('/web-core/reference/DyteMeta', '2af'),
+                component: ComponentCreator('/web-core/reference/DyteMeta', 'c54'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteParticipant',
-                component: ComponentCreator('/web-core/reference/DyteParticipant', 'bb5'),
+                component: ComponentCreator('/web-core/reference/DyteParticipant', 'b1e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteParticipantMap',
-                component: ComponentCreator('/web-core/reference/DyteParticipantMap', 'aba'),
+                component: ComponentCreator('/web-core/reference/DyteParticipantMap', '413'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteParticipants',
-                component: ComponentCreator('/web-core/reference/DyteParticipants', '7e5'),
+                component: ComponentCreator('/web-core/reference/DyteParticipants', '75b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DytePermissionsPreset',
-                component: ComponentCreator('/web-core/reference/DytePermissionsPreset', '3a6'),
+                component: ComponentCreator('/web-core/reference/DytePermissionsPreset', 'baf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DytePlugin',
-                component: ComponentCreator('/web-core/reference/DytePlugin', '81a'),
+                component: ComponentCreator('/web-core/reference/DytePlugin', '072'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DytePluginMap',
-                component: ComponentCreator('/web-core/reference/DytePluginMap', '32b'),
+                component: ComponentCreator('/web-core/reference/DytePluginMap', 'e96'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DytePlugins',
-                component: ComponentCreator('/web-core/reference/DytePlugins', '498'),
+                component: ComponentCreator('/web-core/reference/DytePlugins', '04c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DytePolls',
-                component: ComponentCreator('/web-core/reference/DytePolls', '6e7'),
+                component: ComponentCreator('/web-core/reference/DytePolls', '533'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteRecording',
-                component: ComponentCreator('/web-core/reference/DyteRecording', '02d'),
+                component: ComponentCreator('/web-core/reference/DyteRecording', '5db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteRemote',
-                component: ComponentCreator('/web-core/reference/DyteRemote', 'adf'),
+                component: ComponentCreator('/web-core/reference/DyteRemote', '27a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteSelf',
-                component: ComponentCreator('/web-core/reference/DyteSelf', 'fe2'),
+                component: ComponentCreator('/web-core/reference/DyteSelf', '398'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteSelfMedia',
-                component: ComponentCreator('/web-core/reference/DyteSelfMedia', '9e6'),
+                component: ComponentCreator('/web-core/reference/DyteSelfMedia', '37a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteStage',
-                component: ComponentCreator('/web-core/reference/DyteStage', 'f35'),
+                component: ComponentCreator('/web-core/reference/DyteStage', '11b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/reference/DyteThemePreset',
-                component: ComponentCreator('/web-core/reference/DyteThemePreset', '052'),
+                component: ComponentCreator('/web-core/reference/DyteThemePreset', 'a0a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/release-notes',
-                component: ComponentCreator('/web-core/release-notes', '8d8'),
+                component: ComponentCreator('/web-core/release-notes', 'd51'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/room-metadata',
-                component: ComponentCreator('/web-core/room-metadata', '1bf'),
+                component: ComponentCreator('/web-core/room-metadata', '50f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/web-core/stage',
-                component: ComponentCreator('/web-core/stage', '3cc'),
+                component: ComponentCreator('/web-core/stage', '5bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -6156,7 +6373,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '999'),
+    component: ComponentCreator('/', '214'),
     exact: true
   },
   {

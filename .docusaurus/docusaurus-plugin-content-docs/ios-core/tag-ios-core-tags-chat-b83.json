@@ -7,19 +7,19 @@
     {
       "id": "chat/introduction",
       "title": "Introducing chat",
-      "description": "Get started with Dyte's chat capabilities in iOS Core. Follow our guide for an introduction to chat features in iOS Core.",
+      "description": "Learn the basics of integrating Dyte's chat functionality into your iOS application – a step towards immersive real-time communication.",
       "permalink": "/ios-core/chat/introduction"
     },
     {
       "id": "chat/receiving-chat-messages",
       "title": "Receiving chat messages",
-      "description": "Learn how to receive chat messages in iOS Core with Dyte Docs. Enhance your app's communication capabilities with seamless chat integration.",
+      "description": "\"Discover how to implement the functionality to receive chat messages in your iOS app using Dyte",
       "permalink": "/ios-core/chat/receiving-chat-messages"
     },
     {
       "id": "chat/sending-a-chat-message",
       "title": "Sending a chat message",
-      "description": "Explore the process of sending a chat message in iOS Core with Dyte Docs. Empower users to communicate effectively within your app.",
+      "description": "\"Master the process of sending chat messages within your iOS application with Dyte",
       "permalink": "/ios-core/chat/sending-a-chat-message"
     }
   ],

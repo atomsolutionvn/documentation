@@ -11,16 +11,17 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/display-videos.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
-  "sidebarPosition": 5,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_position": 5,
+    "sidebar_position": 8,
     "slug": "/basics/display-videos"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Virtual background",
-    "permalink": "/react-ui-kit/build-pre-call-ui/build-your-own/add-middleware"
+    "title": "Add custom sidebar",
+    "permalink": "/react-ui-kit/build-in-call-ui/build-your-own/add-custom-sidebar"
   },
   "next": {
     "title": "Gallery",

@@ -11,10 +11,11 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/react-ui-kit/design-system.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
-  "sidebarPosition": 4,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 4,
+    "sidebar_position": 3,
     "description": "Details about the Design System in Dyte's UI Kit."
   },
   "sidebar": "tutorialSidebar",

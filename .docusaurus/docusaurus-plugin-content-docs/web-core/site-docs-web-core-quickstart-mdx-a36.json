@@ -24,8 +24,9 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
-  "sidebarPosition": 2,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
   "frontMatter": {
     "tags": [
       "web-core",
@@ -33,13 +34,9 @@
       "setup"
     ],
     "slug": "/",
-    "sidebar_position": 2
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Introduction",
-    "permalink": "/web-core/Introduction"
-  },
   "next": {
     "title": "Media Preview",
     "permalink": "/web-core/pre-call/media-preview"

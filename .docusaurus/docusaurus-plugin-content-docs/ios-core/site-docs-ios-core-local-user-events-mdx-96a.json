@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/local-user/events.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/ios-core/tags/mobile-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "local-user",
@@ -24,14 +24,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 2,
   "frontMatter": {
     "title": "Events",
     "description": "Explore local user events in iOS Core with Dyte Docs. Understand how to leverage these events for enhanced user experiences within your app.",
     "sidebar_position": 2,
     "tags": [
-      "mobile-core",
+      "ios-core",
       "local-user",
       "self"
     ]
@@ -39,10 +40,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/ios-core/local-user/introduction"
+    "permalink": "/ios-core/Introduction"
   },
   "next": {
-    "title": "Manage Media Devices",
-    "permalink": "/ios-core/local-user/manage-media-devices"
+    "title": "Introduction",
+    "permalink": "/ios-core/local-user/introduction"
   }
 }

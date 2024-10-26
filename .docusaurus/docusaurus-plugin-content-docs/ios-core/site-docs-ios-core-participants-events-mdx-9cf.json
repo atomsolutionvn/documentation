@@ -1,7 +1,7 @@
 {
   "id": "participants/events",
   "title": "Participant Events",
-  "description": "Explore participant events in iOS Core with Dyte Docs. Leverage these events for dynamic interactions and enhanced collaboration within your app.",
+  "description": "Dive into the details of handling participant events in your iOS application using Dyte's comprehensive documentation.",
   "source": "@site/docs/ios-core/participants/events.mdx",
   "sourceDirName": "participants",
   "slug": "/participants/events",
@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/participants/events.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/ios-core/tags/mobile-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "participants",
@@ -24,25 +24,26 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 3,
   "frontMatter": {
     "title": "Participant Events",
-    "description": "Explore participant events in iOS Core with Dyte Docs. Leverage these events for dynamic interactions and enhanced collaboration within your app.",
+    "description": "Dive into the details of handling participant events in your iOS application using Dyte's comprehensive documentation.",
     "sidebar_position": 3,
     "tags": [
-      "mobile-core",
+      "ios-core",
       "participants",
       "self"
     ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The participant object",
+    "title": "Participant Object",
     "permalink": "/ios-core/participants/participant-object"
   },
   "next": {
-    "title": "Room Metadata",
-    "permalink": "/ios-core/room/room-metadata"
+    "title": "Waitlisted Participants",
+    "permalink": "/ios-core/participants/waitlisted-participants"
   }
 }

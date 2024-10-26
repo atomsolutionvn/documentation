@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/polls/voting-on-a-poll.mdx",
   "tags": [
     {
-      "label": "web-core",
-      "permalink": "/android-core/tags/web-core"
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
     },
     {
       "label": "polls",
@@ -24,14 +24,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 3,
   "frontMatter": {
     "title": "Voting on a poll",
     "description": "Understand the process of voting on polls within your Android app using Dyte's documentation on Polls Voting.",
     "sidebar_position": 3,
     "tags": [
-      "web-core",
+      "android-core",
       "polls",
       "votes"
     ]
@@ -42,7 +43,7 @@
     "permalink": "/android-core/polls/creating-a-poll"
   },
   "next": {
-    "title": "Join and Leave Stage using Dyte's group call",
-    "permalink": "/android-core/stage/introduction"
+    "title": "Room Metadata",
+    "permalink": "/android-core/room-metadata"
   }
 }

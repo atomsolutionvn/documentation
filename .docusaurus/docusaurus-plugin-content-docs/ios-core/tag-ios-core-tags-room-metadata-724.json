@@ -5,10 +5,10 @@
   "count": 1,
   "items": [
     {
-      "id": "room/room-metadata",
+      "id": "room-metadata",
       "title": "Room Metadata",
-      "description": "Learn about room metadata in iOS Core with Dyte Docs. Enhance your app's capabilities by utilizing and managing room-specific information.",
-      "permalink": "/ios-core/room/room-metadata"
+      "description": "Learn about managing room metadata in your iOS application using Dyte Docs.",
+      "permalink": "/ios-core/room-metadata"
     }
   ],
   "unlisted": false

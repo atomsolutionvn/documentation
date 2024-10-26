@@ -1,7 +1,7 @@
 {
   "id": "chat/introduction",
   "title": "Introducing chat",
-  "description": "Get started with Dyte's chat capabilities in iOS Core. Follow our guide for an introduction to chat features in iOS Core.",
+  "description": "Learn the basics of integrating Dyte's chat functionality into your iOS application – a step towards immersive real-time communication.",
   "source": "@site/docs/ios-core/chat/introduction.mdx",
   "sourceDirName": "chat",
   "slug": "/chat/introduction",
@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/chat/introduction.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/ios-core/tags/mobile-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "chat",
@@ -20,21 +20,22 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "Introducing chat",
-    "description": "Get started with Dyte's chat capabilities in iOS Core. Follow our guide for an introduction to chat features in iOS Core.",
+    "description": "Learn the basics of integrating Dyte's chat functionality into your iOS application – a step towards immersive real-time communication.",
     "sidebar_position": 1,
     "tags": [
-      "mobile-core",
+      "ios-core",
       "chat"
     ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Room Connection Events",
-    "permalink": "/ios-core/room/room-connection-events"
+    "title": "Waitlisted Participants",
+    "permalink": "/ios-core/participants/waitlisted-participants"
   },
   "next": {
     "title": "Sending a chat message",

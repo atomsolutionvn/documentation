@@ -1,7 +1,7 @@
 {
   "id": "polls/introduction",
   "title": "Introduction",
-  "description": "Get introduced to the polls feature in iOS Core with Dyte Docs. Explore how polls can enrich your app's interactive capabilities for users.",
+  "description": "Learn the fundamentals of integrating polls into your iOS application with Dyte's Polls Introduction guide.",
   "source": "@site/docs/ios-core/polls/introduction.mdx",
   "sourceDirName": "polls",
   "slug": "/polls/introduction",
@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/ios-core/polls/introduction.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/ios-core/tags/mobile-core"
+      "label": "ios-core",
+      "permalink": "/ios-core/tags/ios-core"
     },
     {
       "label": "polls",
@@ -20,21 +20,22 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 1,
   "frontMatter": {
     "title": "Introduction",
-    "description": "Get introduced to the polls feature in iOS Core with Dyte Docs. Explore how polls can enrich your app's interactive capabilities for users.",
+    "description": "Learn the fundamentals of integrating polls into your iOS application with Dyte's Polls Introduction guide.",
     "sidebar_position": 1,
     "tags": [
-      "mobile-core",
+      "ios-core",
       "polls"
     ]
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Livestream event listeners",
-    "permalink": "/ios-core/livestream/dyte-livestream-listener"
+    "title": "Livestreaming",
+    "permalink": "/ios-core/livestreaming"
   },
   "next": {
     "title": "Creating a poll",

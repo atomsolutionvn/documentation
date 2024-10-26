@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/android-core/local-user/manage-permissions.mdx",
   "tags": [
     {
-      "label": "mobile-core",
-      "permalink": "/android-core/tags/mobile-core"
+      "label": "android-core",
+      "permalink": "/android-core/tags/android-core"
     },
     {
       "label": "local-user",
@@ -28,14 +28,15 @@
     }
   ],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 4,
   "frontMatter": {
     "title": "Media Permissions",
     "description": "Learn how to manage permissions in your Android application for a secure and controlled user experience with Dyte Docs.",
     "sidebar_position": 4,
     "tags": [
-      "mobile-core",
+      "android-core",
       "local-user",
       "self",
       "self events"
@@ -47,7 +48,7 @@
     "permalink": "/android-core/local-user/manage-media-devices"
   },
   "next": {
-    "title": "Introduction",
-    "permalink": "/android-core/participants/introduction"
+    "title": "Participant Types",
+    "permalink": "/android-core/participants/"
   }
 }

@@ -11,19 +11,20 @@
   "editUrl": "https://github.com/dyte-io/docs/tree/main/docs/web-core/reference/DyteParticipant.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1539502055000,
-  "sidebarPosition": 4,
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 4,
-    "web_core_version": "1.20.0"
+    "sidebar_position": 5,
+    "web_core_version": "1.32.1"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "DyteParticipants",
-    "permalink": "/web-core/reference/DyteParticipants"
-  },
-  "next": {
     "title": "DyteParticipantMap",
     "permalink": "/web-core/reference/DyteParticipantMap"
+  },
+  "next": {
+    "title": "DytePermissionsPreset",
+    "permalink": "/web-core/reference/DytePermissionsPreset"
   }
 }
